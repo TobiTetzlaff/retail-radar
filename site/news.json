@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-29T08:40:07.850706+00:00",
+  "generated_at": "2026-10-29T13:36:30.856094+00:00",
   "window_days": 7,
-  "candidate_count": 164,
+  "candidate_count": 201,
   "errors_count": 0,
   "articles": [
     {
@@ -10,21 +10,36 @@
       "source": "RETAIL-NEWS Deutschland",
       "source_url": "https://retail-news.de",
       "published": "2026-10-29T03:46:14+00:00",
-      "score": 70,
+      "score": 69,
       "category": "KI & Technologie",
       "score_detail": {
         "Thema": 36,
         "Quelle": 14,
-        "Aktualität": 15,
+        "Aktualität": 14,
         "Tragweite (Schlüsselwörter)": 5
       }
     },
     {
-      "title": "Allianz-Prognose: Insolvenzen bleiben 2027 auf hohem Niveau",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOX1lGUG9CZkVBNENET3J5ejFxdklwek1JMGpabmpic0gyZC01SFZsbnBfRWpFd2lNUHd5clh2WGxRdmNRaUhXVUN0enFKa2QxZVhCaFJmWWN5ZEZBbTFYcmFlbTFGa0FXTmttSDBaMDBWOXlsMDhjcjN1clR6b1AtNTRtbkJ3ZThYTUVhM0U1djhoMUJnLTNnd3pFX28wUXFMaWNNckdCSG5sWG5tTk1MU25odTEzeVBEd2V1ZUtNaTg?oc=5",
+      "title": "Frankreich - Proteste verursachen Milliardenschäden im Einzelhandel",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPSVlpS01UdHBDVVRDQXJWcU94THlSMDU3NjdNb2pyNVhQbENYb2R6TUlDbC1Yc2JOMlNEZGI1dk12TFNzcnU0aklwOFpvYVhrclhKU3dwajhHRnJNU3d2c1N2U051aFRLYjNxVk9GUllsMDZzUDB2UEZHN1Y4WjlEZGNlclNvYTh2YU9SZ1l6YzBDb3NGcndBY25RTTVlQUp6NVFhamxURkF2UlpkSzFfUXNRcEY2dlZ6bjZNbjdIcTZBNmptZ1pjNS1BSnpYNG5mYW5zcmZrRUoyUVNVRW5qWml5cDcyd1NoaVMzSV9zMUE?oc=5",
+      "source": "Lebensmittelpraxis.de",
+      "source_url": "http://www.lebensmittelpraxis.de",
+      "published": "2026-10-29T09:37:00+00:00",
+      "score": 65,
+      "category": "Handelsstrategie",
+      "score_detail": {
+        "Thema": 24,
+        "Quelle": 16,
+        "Aktualität": 15,
+        "Tragweite (Schlüsselwörter)": 10
+      }
+    },
+    {
+      "title": "Unilever-Marke: Niederländische Kartellwächter verbieten Zwanenberg Übernahme von Unox",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPSUw3LXk1NDk5UldHSWJGSHZKX2I5aU94Ulo2M1M5ZzQ3Vk1ZdEVxTWdpNEdlZjB3Si1vVlFLSEpWcGlkbGxsQ3kxcUEzRU9MLVIzcDBXYmlSYW9CU1NkYjZFYk1BMGJjel9idzIyVEZHYVh0WjFhaXFnTEMzU3V3QnRDNHYyOTFoakMyVmFkcEk5OW9FaDZ4bE0xYUxicXJLUVVDdTZ3UXhqaTVvTnFqRzVwUzMtekdkOUd3Q3kzRHNsYnp6YUl6MXVEVU9OY3lSMWY4azVWajBQWVlTa011OXRZbXZmM0F6?oc=5",
       "source": "Lebensmittel Zeitung",
       "source_url": "https://www.lebensmittelzeitung.net",
-      "published": "2026-10-27T07:05:00+00:00",
+      "published": "2026-10-27T11:29:00+00:00",
       "score": 65,
       "category": "Handelsstrategie",
       "score_detail": {
@@ -50,6 +65,51 @@
       }
     },
     {
+      "title": "Insolvenz: Unternehmensgruppe Völpel sucht Investoren",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZHpjWXFwZHpsNDUwajBtWkpvWEhPaGhGaWhuRm4yeVdUaXNRYkxBd0x5VE1LMUs4VC1VMDI3U29Jbzhya0JyYWxPclV5WUlFczdkdTQ5c21GRFRDRkd1TDJ1WFBrRHZEMWJhUUpHWllDVkw2cTBoWjBjS2pOR0pQOU1Lb0pTU0VmSUtlUFlPaXpTWF95Uzg0cVh2VlNWVnlremdacDkteFlHQ291b0txX1QwSklIM3k5WFE?oc=5",
+      "source": "Lebensmittel Zeitung",
+      "source_url": "https://www.lebensmittelzeitung.net",
+      "published": "2026-10-27T08:54:00+00:00",
+      "score": 64,
+      "category": "Handelsstrategie",
+      "score_detail": {
+        "Thema": 24,
+        "Quelle": 20,
+        "Aktualität": 10,
+        "Tragweite (Schlüsselwörter)": 10
+      }
+    },
+    {
+      "title": "Allianz-Prognose: Insolvenzen bleiben 2027 auf hohem Niveau",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOX1lGUG9CZkVBNENET3J5ejFxdklwek1JMGpabmpic0gyZC01SFZsbnBfRWpFd2lNUHd5clh2WGxRdmNRaUhXVUN0enFKa2QxZVhCaFJmWWN5ZEZBbTFYcmFlbTFGa0FXTmttSDBaMDBWOXlsMDhjcjN1clR6b1AtNTRtbkJ3ZThYTUVhM0U1djhoMUJnLTNnd3pFX28wUXFMaWNNckdCSG5sWG5tTk1MU25odTEzeVBEd2V1ZUtNaTg?oc=5",
+      "source": "Lebensmittel Zeitung",
+      "source_url": "https://www.lebensmittelzeitung.net",
+      "published": "2026-10-27T07:05:00+00:00",
+      "score": 64,
+      "category": "Handelsstrategie",
+      "score_detail": {
+        "Thema": 24,
+        "Quelle": 20,
+        "Aktualität": 10,
+        "Tragweite (Schlüsselwörter)": 10
+      }
+    },
+    {
+      "title": "TÜV SÜD und Accenture entwickeln KI-Lösung für Lagerautomatisierung",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9XWFdoaWpxbVYzUi1iVER3MVRaUS1CS0pLQXFOek5jcElRMWo2alhDUGtUTDN0cHdmdnlaSDE5bVdDSi1HaUNSM2dBX3U3Umtta0JEU3ltMWdEd0RRRVNYcm9UNFowR0xwcXF6YVhn?oc=5",
+      "source": "RETAIL-NEWS Deutschland",
+      "source_url": "https://retail-news.de",
+      "published": "2026-10-26T14:02:01+00:00",
+      "score": 64,
+      "category": "KI & Technologie",
+      "score_detail": {
+        "Thema": 36,
+        "Quelle": 14,
+        "Aktualität": 9,
+        "Tragweite (Schlüsselwörter)": 5
+      }
+    },
+    {
       "title": "Alphabet steigert Umsatz um 25 Prozent – KI treibt Google Cloud an",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5xd3U1NWM3SXZLeFE1cFhQWlVyUFZsbjNnMVA5SVlLTW5fRTN1Z1VHV29ZLWxyY1pmMkFDNWE2NnI0QzZQVXlJTHRqRThaeE1fbUR0TkZKMzhfdldzeUMwSnFOa1B6S2N3VkhENVRPN2s?oc=5",
       "source": "RETAIL-NEWS Deutschland",
@@ -62,21 +122,6 @@
         "Quelle": 14,
         "Aktualität": 14,
         "Tragweite (Schlüsselwörter)": 5
-      }
-    },
-    {
-      "title": "Allianz Trade: 25.900 Insolvenzen auch 2027 erwartet",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNeWtvYWZJTWhLVFBHOUx3ZGV2T0xFWFpsZ29rVWJNTWx3QmZvdDhGVDVENEwxOGxRMHZ2bWVsR2lEV0xZVGk3VVlITnJZeTNqcUh2MG44VzZoRHNmVUFoRGhGaW9WWEk4S3dGN3B2WnVkeVBlQm9mM0FEcHpSd1JCdHhOY3RuZkhIVmx1T1JmZXlQTEFDUFdQc1JR?oc=5",
-      "source": "etailment",
-      "source_url": "https://www.etailment.de",
-      "published": "2026-10-28T06:05:58+00:00",
-      "score": 63,
-      "category": "Handelsstrategie",
-      "score_detail": {
-        "Thema": 24,
-        "Quelle": 16,
-        "Aktualität": 13,
-        "Tragweite (Schlüsselwörter)": 10
       }
     },
     {
@@ -107,51 +152,6 @@
         "Quelle": 14,
         "Aktualität": 10,
         "Tragweite (Schlüsselwörter)": 15
-      }
-    },
-    {
-      "title": "Henkel: Konsumgüterhersteller schraubt nach starkem Quartal Umsatzziel hoch",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPaVBuZ1BpZGxoNkR0UG4yZl8wTlptV2kzbWd3eHdEbUpXQXBFc0JndFVHVE9IRWNQZG1VQ2lkSGQwMmRpMXhFLVJkOTlLTHVoWWFqYmRzRENNYTh5ZFNoUzhkRXVZd2ZrUlVNNVVlQkJxZk9BT0VVRERDaVlvX25rYWphb3o3WWtWUkNwZExaZzlDdDduWU40WU5wTjM1alVGTUdLZHRWX1pTZkhUVzNRMkZUdUcyLTJuSDFyWFNEY0c0Z25rX2diSEhIdFg?oc=5",
-      "source": "WirtschaftsWoche",
-      "source_url": "https://www.wiwo.de",
-      "published": "2026-10-29T08:22:42+00:00",
-      "score": 62,
-      "category": "Handelsstrategie",
-      "score_detail": {
-        "Thema": 30,
-        "Quelle": 12,
-        "Aktualität": 15,
-        "Tragweite (Schlüsselwörter)": 5
-      }
-    },
-    {
-      "title": "Puig peilt bis 2032 mehr als acht Milliarden Euro Umsatz an",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5SSkhQZXNKTElidS15dW5GVHUxMUlDWGhUSEFNSFFFcnRsLVQ1Z0V2M0c2N243ekVNTFBQZi1aSmdwc3pyT251WC1pamdTMVBwZF9lUlV0NlFXaHd5bnpldHd6aGhRRktMV0d4cWlGaERkLS1X?oc=5",
-      "source": "RETAIL-NEWS Deutschland",
-      "source_url": "https://retail-news.de",
-      "published": "2026-10-29T02:12:58+00:00",
-      "score": 62,
-      "category": "Handelsstrategie",
-      "score_detail": {
-        "Thema": 24,
-        "Quelle": 14,
-        "Aktualität": 14,
-        "Tragweite (Schlüsselwörter)": 10
-      }
-    },
-    {
-      "title": "NVIDIA und Meta vertiefen KI-Partnerschaft: Drei Milliarden Dollar für Meta",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE4xM19fRnlETjNsQ1hzUC1BM2RVamlHQm5Leko0X1ZaRGxoZS04Vkl2THdlbGpSYVhJTmt5MXBRSGtfYXhWb1hOVzlEZGh3RHB5N29NdThOcG9rMFBsUWxYNTJiQ1NlQ2xpcUZTWHlRWDFXcGJmWm00?oc=5",
-      "source": "RETAIL-NEWS Deutschland",
-      "source_url": "https://retail-news.de",
-      "published": "2026-10-28T16:07:57+00:00",
-      "score": 62,
-      "category": "KI & Technologie",
-      "score_detail": {
-        "Thema": 24,
-        "Quelle": 14,
-        "Aktualität": 14,
-        "Tragweite (Schlüsselwörter)": 10
       }
     }
   ]
