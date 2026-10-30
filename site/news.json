@@ -1,157 +1,157 @@
 {
-  "generated_at": "2026-10-29T13:36:30.856094+00:00",
+  "generated_at": "2026-10-30T13:25:39.073298+00:00",
   "window_days": 7,
-  "candidate_count": 201,
+  "candidate_count": 192,
   "errors_count": 0,
   "articles": [
+    {
+      "title": "Standortübernahmen: So viele Tegut-Märkte will Rewe zusätzlich",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNSlN6Q1FacjFCNlNmS0RuNmMyOEl1T285bGp6dnl1YnJDQmJQWk1QZTFmWDM2RFJFeHFtSVpJdmtWS3NLaEkyS3lReXUtZ0MyYXRLYUVNX0g1Wlp1TmJQUndOR01NNmlrbkVBWG50MFEwTGxkSXlqV2M5TllqZDBlOEpweXFYQkhTMUFTWUlUMzB6azVoNFJSR3Y3T3dHX3BZVi1qbHJSRnpod19tNkVQUFNsaGk3QUN1VXAzdXQzVjdrZXpO?oc=5",
+      "source": "Lebensmittel Zeitung",
+      "source_url": "https://www.lebensmittelzeitung.net",
+      "published": "2026-10-30T09:00:00+00:00",
+      "score": 69,
+      "category": "Handelsstrategie",
+      "score_detail": {
+        "Thema": 24,
+        "Quelle": 20,
+        "Aktualität": 15,
+        "Tragweite (Schlüsselwörter)": 10
+      }
+    },
+    {
+      "title": "US-Lieferdienste: Doordash macht Instacart-Übernahme offiziell",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQRWp6bHRCSm9VSnNTZmtkMXZMdlNmTGg4OUFrLTd3Z2JPdmF3OWVrZl9BV0FMLTRGaHpVS0ZZYzh3UjZmRTNWVFRnN0FWSlVmaTNiNTd2eTZJbWZFNER6a2ZldWE0bnFjcGlIZEx0SThORFZnZU1lOUc1VFBtbk80bmE1Zjc4bkE1MU5IYzRlWTZQWFRfRURoVEdQaVQyN2U4SW1sTDBCdWRibEZCemcydWp2dnBMZlJxQ3FmMGxZNVdvbXo5?oc=5",
+      "source": "Lebensmittel Zeitung",
+      "source_url": "https://www.lebensmittelzeitung.net",
+      "published": "2026-10-29T13:52:00+00:00",
+      "score": 67,
+      "category": "Handelsstrategie",
+      "score_detail": {
+        "Thema": 24,
+        "Quelle": 20,
+        "Aktualität": 13,
+        "Tragweite (Schlüsselwörter)": 10
+      }
+    },
     {
       "title": "Shopify vernetzt Händler, KI-Agenten und Kunden über neue Shopping-Plattform",
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5IOWFKam5renVnc1pFUzRsbkFDVW5hRUY0MmRDbUJjN0dhUnZRUFI2QjBRakJuQTZLS3lDNmxMMXRoN2tpN3JBTFFhRG1TLWJ5Y2FwQmxMTjZYQ2JyeElCUGhUaDNjYk1JUjJoV3ZKdHRnS3FDU3FWeV9B?oc=5",
       "source": "RETAIL-NEWS Deutschland",
       "source_url": "https://retail-news.de",
       "published": "2026-10-29T03:46:14+00:00",
-      "score": 69,
+      "score": 67,
       "category": "KI & Technologie",
       "score_detail": {
         "Thema": 36,
         "Quelle": 14,
+        "Aktualität": 12,
+        "Tragweite (Schlüsselwörter)": 5
+      }
+    },
+    {
+      "title": "Mastercard: KI-Agent zahlt 9-mal ohne Kundenkonto",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQSUhqZFZUMXdaRUtDcUVHQjRrcmJqN1hFU3ZOaGNlb3AweVpObm81YmstYk1FdHYteFBzZmR2b056bTFRTGxkV25yZ0hpU3dQNVRXT2dCanN5My1ZMUlKS19XcjNmWmZnOEt6SDlsMUtQYjJmS19GcVQxYVAtS3ZiZkNTYWU3bjVXU056aXZsZnFtZ3FhV2NtVE5uY0Roa3FOeV8tdDhpUm9yTzZN?oc=5",
+      "source": "etailment",
+      "source_url": "https://www.etailment.de",
+      "published": "2026-10-30T06:07:25+00:00",
+      "score": 65,
+      "category": "KI & Technologie",
+      "score_detail": {
+        "Thema": 30,
+        "Quelle": 16,
         "Aktualität": 14,
         "Tragweite (Schlüsselwörter)": 5
       }
     },
     {
-      "title": "Frankreich - Proteste verursachen Milliardenschäden im Einzelhandel",
-      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPSVlpS01UdHBDVVRDQXJWcU94THlSMDU3NjdNb2pyNVhQbENYb2R6TUlDbC1Yc2JOMlNEZGI1dk12TFNzcnU0aklwOFpvYVhrclhKU3dwajhHRnJNU3d2c1N2U051aFRLYjNxVk9GUllsMDZzUDB2UEZHN1Y4WjlEZGNlclNvYTh2YU9SZ1l6YzBDb3NGcndBY25RTTVlQUp6NVFhamxURkF2UlpkSzFfUXNRcEY2dlZ6bjZNbjdIcTZBNmptZ1pjNS1BSnpYNG5mYW5zcmZrRUoyUVNVRW5qWml5cDcyd1NoaVMzSV9zMUE?oc=5",
-      "source": "Lebensmittelpraxis.de",
-      "source_url": "http://www.lebensmittelpraxis.de",
-      "published": "2026-10-29T09:37:00+00:00",
+      "title": "Agentic Commerce: Sind Ihre Produktdaten bereit für KI-Agenten?",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNUFhkWnNxTFZMeS1aeUxpZEFyTjJRWVRMVE1LblFwaG5LOUxTQ3Z6cm9Hd3ZqeEVHcEZPTGF5XzJEbDFYSmtIQjhGVWtZZ1ozM2N3ZzliM3A0MkxtV2dWMFBnekZaeEo4SGx5UnR4X0FfbGFITkIwQmtfTzJrVklaZmZHM1VQcEJMNGNmYmVZMGZGRGxUY1c2Y2EyQ2l5QQ?oc=5",
+      "source": "etailment",
+      "source_url": "https://www.etailment.de",
+      "published": "2026-10-30T05:01:15+00:00",
       "score": 65,
+      "category": "KI & Technologie",
+      "score_detail": {
+        "Thema": 30,
+        "Quelle": 16,
+        "Aktualität": 14,
+        "Tragweite (Schlüsselwörter)": 5
+      }
+    },
+    {
+      "title": "Dekohändler: Depot schließt alle Filialen in Österreich",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOWEIyOERfVDRERGtoclpUcXAzUFl4WkpUTFhvU0FwMzhnVjZoMXFxYkZtUHk3b0E4Vy1iRFVlNGIxQ29ERlNNTjBDS1hna1ByM1BMS3Q4aUNEallpT0I2WUhjVEtxcjdHbHRkSmlVclRNVnpPbWNlRlFQWXVLWk84NTRaeXpPUndvbFNkRTZONm5mY1ZnYURjVFgtWm8zX1YxazZKTG1vQW45SzZDcXdJSkJ3eDI1XzFGOFlr?oc=5",
+      "source": "Lebensmittel Zeitung",
+      "source_url": "https://www.lebensmittelzeitung.net",
+      "published": "2026-10-30T10:50:36+00:00",
+      "score": 64,
       "category": "Handelsstrategie",
       "score_detail": {
         "Thema": 24,
-        "Quelle": 16,
+        "Quelle": 20,
+        "Aktualität": 15,
+        "Tragweite (Schlüsselwörter)": 5
+      }
+    },
+    {
+      "title": "KI-gestützte Prozessautomatisierung: bastify realisiert Pflegeplattform in 8 Wochen mit 75 % weniger Kosten",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNYUxlaUk4RGlubWlyZElyVHV3VXpPMEFRWWtpemtZemQySG5FdTZTRkJ5N0JiQzBIXzNmUFZUNzZnSkdSWEhlaXBFRHJCRmZxbzh6VG5HaDZZaDlQTWZzbDlJYVUtT3p3WmlnaV83MDRYUGFXSmVGS0NHSkpmbmNXQUMySXpkLXRMYzVjdjlOQUl4SlRnY1JwMnRBY29GcEJVT25UTWJKZ0NmOFBtcE1xYVRyOEtDcUJjel9DTFZLT1ZqNEM3T21WWUg2ZnRNUzdmLWwxdTRxNl9nX3hjUXc?oc=5",
+      "source": "openPR.de",
+      "source_url": "https://www.openpr.de",
+      "published": "2026-10-30T10:26:00+00:00",
+      "score": 64,
+      "category": "KI & Technologie",
+      "score_detail": {
+        "Thema": 36,
+        "Quelle": 8,
+        "Aktualität": 15,
+        "Tragweite (Schlüsselwörter)": 5
+      }
+    },
+    {
+      "title": "Kundenmonitor 2026: Baumärkte überzeugen mit Rat und Tat",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNWjI4U2xiMzR1anRQemZTcEk4bVh4eXhYSnJtMlZjY19rWmMzb1ZsVGItVkFydmFFMTdiWGNHb1RlaU4tSm1fdks0dnZWUTFueC1JODNKTm5ydVk5OUh6bUx0LTVXczRXdkhodWNWYTlQX0hsTXJDT1MwZzVsY29ld1RXMUpQNGdOcUp2eVNJalh4bHV2cldDRzV4WWFxVkdOaENVakRDRTJCamU1NzdoczltYkFEYlNUY2lZ?oc=5",
+      "source": "Lebensmittel Zeitung",
+      "source_url": "https://www.lebensmittelzeitung.net",
+      "published": "2026-10-30T08:00:00+00:00",
+      "score": 64,
+      "category": "Konsumenten",
+      "score_detail": {
+        "Thema": 24,
+        "Quelle": 20,
+        "Aktualität": 15,
+        "Tragweite (Schlüsselwörter)": 5
+      }
+    },
+    {
+      "title": "Geplante Commerzbank-Übernahme: Unicredit wirbt bei Mittelstand um Vertrauen",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOYlNTWGpnaFpVWEs0cF9kZ0RkbUFDWHVwUnNXR2x0NWRrTU1IM0ZrcGdYOEpzQ2dGUldwT3Nkb0hyM1VEdlRWck1YRkNVb3BwdDlIbEM3Zk1kM1dOWlJzaTNIbEJQZWU0bkJuNDc1LVFDTzRBYUo0UXRQM0RQdEJ2czE4VlJBV2cySHJDVVdTT0UzanprbmJDOVU0VGNVMThTMU9ST2haLTdzVU5VNG9SOGdLQ2NLMlY1MXNPZ1B6bVFKSkpFNHZRUTVoUXlwazlaRFlObTQwRQ?oc=5",
+      "source": "Handelsblatt",
+      "source_url": "https://www.handelsblatt.com",
+      "published": "2026-10-30T08:52:17+00:00",
+      "score": 63,
+      "category": "Handelsstrategie",
+      "score_detail": {
+        "Thema": 24,
+        "Quelle": 14,
         "Aktualität": 15,
         "Tragweite (Schlüsselwörter)": 10
       }
     },
     {
-      "title": "Unilever-Marke: Niederländische Kartellwächter verbieten Zwanenberg Übernahme von Unox",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPSUw3LXk1NDk5UldHSWJGSHZKX2I5aU94Ulo2M1M5ZzQ3Vk1ZdEVxTWdpNEdlZjB3Si1vVlFLSEpWcGlkbGxsQ3kxcUEzRU9MLVIzcDBXYmlSYW9CU1NkYjZFYk1BMGJjel9idzIyVEZHYVh0WjFhaXFnTEMzU3V3QnRDNHYyOTFoakMyVmFkcEk5OW9FaDZ4bE0xYUxicXJLUVVDdTZ3UXhqaTVvTnFqRzVwUzMtekdkOUd3Q3kzRHNsYnp6YUl6MXVEVU9OY3lSMWY4azVWajBQWVlTa011OXRZbXZmM0F6?oc=5",
+      "title": "Beteiligung: Schwarz-Gruppe investiert groß in KI-Start-up Cohere",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOZktwNERVS2hIUXpzU1poWE1ud3RIQjFaUGhlQWQtYlNfdER4SXZhaEFFMVlEbEdHc2EzRk0xYmdyMXQxbmVhX1NVdjREMnB6aFhUaU1GOXM3N3JydzJPV18wdVpidnY1YmZMcFJra2RweWNNa2F0U0NjaUUxWWI3dTJYOUNKYXRSdXY5SXhNRGtWTUVVQjBnZTRhLWZYQy11VVNBZWNCdlFDRE9TeW9FOTQ5M3Y0QWtteGViRzNjTmFzcmFoTWs3RGFQa1g5a1E?oc=5",
       "source": "Lebensmittel Zeitung",
       "source_url": "https://www.lebensmittelzeitung.net",
-      "published": "2026-10-27T11:29:00+00:00",
-      "score": 65,
-      "category": "Handelsstrategie",
-      "score_detail": {
-        "Thema": 24,
-        "Quelle": 20,
-        "Aktualität": 11,
-        "Tragweite (Schlüsselwörter)": 10
-      }
-    },
-    {
-      "title": "016 - AI Commerce – Wie KI die Customer Journey verändert mit Frederike Del Castillo, OTTO",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5DQkdzVi1NVnhZVkd2TUhOUkcwd0N2ZmFaZy1ySXN5WU42RmVkVFMyUS1tQmViUXVmOGhoN1RkWFBLNkFGLWxOMGRuLUMxRlFqWVdTUUZhcFcxWXRPY0RBSFphT05YVXM?oc=5",
-      "source": "Handelsverband Deutschland (HDE)",
-      "source_url": "https://einzelhandel.de",
-      "published": "2026-10-27T14:39:01+00:00",
-      "score": 64,
-      "category": "KI & Technologie",
-      "score_detail": {
-        "Thema": 30,
-        "Quelle": 18,
-        "Aktualität": 11,
-        "Tragweite (Schlüsselwörter)": 5
-      }
-    },
-    {
-      "title": "Insolvenz: Unternehmensgruppe Völpel sucht Investoren",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZHpjWXFwZHpsNDUwajBtWkpvWEhPaGhGaWhuRm4yeVdUaXNRYkxBd0x5VE1LMUs4VC1VMDI3U29Jbzhya0JyYWxPclV5WUlFczdkdTQ5c21GRFRDRkd1TDJ1WFBrRHZEMWJhUUpHWllDVkw2cTBoWjBjS2pOR0pQOU1Lb0pTU0VmSUtlUFlPaXpTWF95Uzg0cVh2VlNWVnlremdacDkteFlHQ291b0txX1QwSklIM3k5WFE?oc=5",
-      "source": "Lebensmittel Zeitung",
-      "source_url": "https://www.lebensmittelzeitung.net",
-      "published": "2026-10-27T08:54:00+00:00",
-      "score": 64,
-      "category": "Handelsstrategie",
-      "score_detail": {
-        "Thema": 24,
-        "Quelle": 20,
-        "Aktualität": 10,
-        "Tragweite (Schlüsselwörter)": 10
-      }
-    },
-    {
-      "title": "Allianz-Prognose: Insolvenzen bleiben 2027 auf hohem Niveau",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOX1lGUG9CZkVBNENET3J5ejFxdklwek1JMGpabmpic0gyZC01SFZsbnBfRWpFd2lNUHd5clh2WGxRdmNRaUhXVUN0enFKa2QxZVhCaFJmWWN5ZEZBbTFYcmFlbTFGa0FXTmttSDBaMDBWOXlsMDhjcjN1clR6b1AtNTRtbkJ3ZThYTUVhM0U1djhoMUJnLTNnd3pFX28wUXFMaWNNckdCSG5sWG5tTk1MU25odTEzeVBEd2V1ZUtNaTg?oc=5",
-      "source": "Lebensmittel Zeitung",
-      "source_url": "https://www.lebensmittelzeitung.net",
-      "published": "2026-10-27T07:05:00+00:00",
-      "score": 64,
-      "category": "Handelsstrategie",
-      "score_detail": {
-        "Thema": 24,
-        "Quelle": 20,
-        "Aktualität": 10,
-        "Tragweite (Schlüsselwörter)": 10
-      }
-    },
-    {
-      "title": "TÜV SÜD und Accenture entwickeln KI-Lösung für Lagerautomatisierung",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9XWFdoaWpxbVYzUi1iVER3MVRaUS1CS0pLQXFOek5jcElRMWo2alhDUGtUTDN0cHdmdnlaSDE5bVdDSi1HaUNSM2dBX3U3Umtta0JEU3ltMWdEd0RRRVNYcm9UNFowR0xwcXF6YVhn?oc=5",
-      "source": "RETAIL-NEWS Deutschland",
-      "source_url": "https://retail-news.de",
-      "published": "2026-10-26T14:02:01+00:00",
-      "score": 64,
-      "category": "KI & Technologie",
-      "score_detail": {
-        "Thema": 36,
-        "Quelle": 14,
-        "Aktualität": 9,
-        "Tragweite (Schlüsselwörter)": 5
-      }
-    },
-    {
-      "title": "Alphabet steigert Umsatz um 25 Prozent – KI treibt Google Cloud an",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5xd3U1NWM3SXZLeFE1cFhQWlVyUFZsbjNnMVA5SVlLTW5fRTN1Z1VHV29ZLWxyY1pmMkFDNWE2NnI0QzZQVXlJTHRqRThaeE1fbUR0TkZKMzhfdldzeUMwSnFOa1B6S2N3VkhENVRPN2s?oc=5",
-      "source": "RETAIL-NEWS Deutschland",
-      "source_url": "https://retail-news.de",
-      "published": "2026-10-29T02:18:31+00:00",
+      "published": "2026-10-30T07:48:00+00:00",
       "score": 63,
       "category": "KI & Technologie",
       "score_detail": {
-        "Thema": 30,
-        "Quelle": 14,
+        "Thema": 24,
+        "Quelle": 20,
         "Aktualität": 14,
         "Tragweite (Schlüsselwörter)": 5
-      }
-    },
-    {
-      "title": "Commerzbank-Übernahme: Wie Banken um Mittelstandskunden buhlen",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxORWZXNGtfTENWMF9VOEo3cm5SRENKQm53UjRJa1NMWlRGSHkxeEsyZy1lQzRGOUcxY3NPSGhaQlVxUWNoLW95dXI3YWRpYkhPMzFQc1I2NEFlNXlZc1E2SUhyd25qUGh5ZXRXcUtwRVE2RlduXzl5U0pkN2xUOHM5MEYtazlNaDhVd0Q1Ynp2Yk1BV01jME5ZY2tWMGJJYy1iSnZYQlJqNzZrMU93S3ROSUh1bHdBVGc?oc=5",
-      "source": "WirtschaftsWoche",
-      "source_url": "https://www.wiwo.de",
-      "published": "2026-10-27T13:55:00+00:00",
-      "score": 63,
-      "category": "Handelsstrategie",
-      "score_detail": {
-        "Thema": 30,
-        "Quelle": 12,
-        "Aktualität": 11,
-        "Tragweite (Schlüsselwörter)": 10
-      }
-    },
-    {
-      "title": "DoorDash verhandelt über Instacart-Übernahme für 17 Milliarden Dollar",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNZmdyd0hXSHhROWZCWWpOTm8tWkMxMWl3RUtsM2t5aVlxSkR3NXY3azNpYTFHd0ZScjZGekNDa0tscTBNVGFaLWRNdzAwaUNibGxVdmN5cVJxZXR1cW8yX0djeGcwdllyOGpiVGoxcWx0WDNLTG5wQ2VLMkd5Mm1sS2E0WkNBUQ?oc=5",
-      "source": "RETAIL-NEWS Deutschland",
-      "source_url": "https://retail-news.de",
-      "published": "2026-10-27T01:51:32+00:00",
-      "score": 63,
-      "category": "Handelsstrategie",
-      "score_detail": {
-        "Thema": 24,
-        "Quelle": 14,
-        "Aktualität": 10,
-        "Tragweite (Schlüsselwörter)": 15
       }
     }
   ]
