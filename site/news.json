@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-30T13:25:39.073298+00:00",
+  "generated_at": "2026-10-31T12:58:52.202112+00:00",
   "window_days": 7,
-  "candidate_count": 192,
+  "candidate_count": 159,
   "errors_count": 0,
   "articles": [
     {
@@ -10,21 +10,6 @@
       "source": "Lebensmittel Zeitung",
       "source_url": "https://www.lebensmittelzeitung.net",
       "published": "2026-10-30T09:00:00+00:00",
-      "score": 69,
-      "category": "Handelsstrategie",
-      "score_detail": {
-        "Thema": 24,
-        "Quelle": 20,
-        "Aktualität": 15,
-        "Tragweite (Schlüsselwörter)": 10
-      }
-    },
-    {
-      "title": "US-Lieferdienste: Doordash macht Instacart-Übernahme offiziell",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQRWp6bHRCSm9VSnNTZmtkMXZMdlNmTGg4OUFrLTd3Z2JPdmF3OWVrZl9BV0FMLTRGaHpVS0ZZYzh3UjZmRTNWVFRnN0FWSlVmaTNiNTd2eTZJbWZFNER6a2ZldWE0bnFjcGlIZEx0SThORFZnZU1lOUc1VFBtbk80bmE1Zjc4bkE1MU5IYzRlWTZQWFRfRURoVEdQaVQyN2U4SW1sTDBCdWRibEZCemcydWp2dnBMZlJxQ3FmMGxZNVdvbXo5?oc=5",
-      "source": "Lebensmittel Zeitung",
-      "source_url": "https://www.lebensmittelzeitung.net",
-      "published": "2026-10-29T13:52:00+00:00",
       "score": 67,
       "category": "Handelsstrategie",
       "score_detail": {
@@ -35,17 +20,47 @@
       }
     },
     {
+      "title": "US-Lieferdienste: Doordash macht Instacart-Übernahme offiziell",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQRWp6bHRCSm9VSnNTZmtkMXZMdlNmTGg4OUFrLTd3Z2JPdmF3OWVrZl9BV0FMLTRGaHpVS0ZZYzh3UjZmRTNWVFRnN0FWSlVmaTNiNTd2eTZJbWZFNER6a2ZldWE0bnFjcGlIZEx0SThORFZnZU1lOUc1VFBtbk80bmE1Zjc4bkE1MU5IYzRlWTZQWFRfRURoVEdQaVQyN2U4SW1sTDBCdWRibEZCemcydWp2dnBMZlJxQ3FmMGxZNVdvbXo5?oc=5",
+      "source": "Lebensmittel Zeitung",
+      "source_url": "https://www.lebensmittelzeitung.net",
+      "published": "2026-10-29T13:52:00+00:00",
+      "score": 65,
+      "category": "Handelsstrategie",
+      "score_detail": {
+        "Thema": 24,
+        "Quelle": 20,
+        "Aktualität": 11,
+        "Tragweite (Schlüsselwörter)": 10
+      }
+    },
+    {
       "title": "Shopify vernetzt Händler, KI-Agenten und Kunden über neue Shopping-Plattform",
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5IOWFKam5renVnc1pFUzRsbkFDVW5hRUY0MmRDbUJjN0dhUnZRUFI2QjBRakJuQTZLS3lDNmxMMXRoN2tpN3JBTFFhRG1TLWJ5Y2FwQmxMTjZYQ2JyeElCUGhUaDNjYk1JUjJoV3ZKdHRnS3FDU3FWeV9B?oc=5",
       "source": "RETAIL-NEWS Deutschland",
       "source_url": "https://retail-news.de",
       "published": "2026-10-29T03:46:14+00:00",
-      "score": 67,
+      "score": 65,
       "category": "KI & Technologie",
       "score_detail": {
         "Thema": 36,
         "Quelle": 14,
-        "Aktualität": 12,
+        "Aktualität": 10,
+        "Tragweite (Schlüsselwörter)": 5
+      }
+    },
+    {
+      "title": "News aus Handel und Konsumgüter-Industrie",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5qMFpydWtRbnFlRVFPX0RWZXAzMXVFbzhIclhBTDVFc3lNV0xzWHFOelJPT1Qtd1FLd0loc010WTIwNk5ROUFveUZTVXBaTXBIY0pxZVhuaVVFVmE5UllqelpfbFZYRUVHVGFvdjhUVQ?oc=5",
+      "source": "Lebensmittel Zeitung",
+      "source_url": "https://www.lebensmittelzeitung.net",
+      "published": "2026-10-30T22:03:02+00:00",
+      "score": 63,
+      "category": "Konsumenten",
+      "score_detail": {
+        "Thema": 24,
+        "Quelle": 20,
+        "Aktualität": 14,
         "Tragweite (Schlüsselwörter)": 5
       }
     },
@@ -55,12 +70,12 @@
       "source": "etailment",
       "source_url": "https://www.etailment.de",
       "published": "2026-10-30T06:07:25+00:00",
-      "score": 65,
+      "score": 63,
       "category": "KI & Technologie",
       "score_detail": {
         "Thema": 30,
         "Quelle": 16,
-        "Aktualität": 14,
+        "Aktualität": 12,
         "Tragweite (Schlüsselwörter)": 5
       }
     },
@@ -70,12 +85,12 @@
       "source": "etailment",
       "source_url": "https://www.etailment.de",
       "published": "2026-10-30T05:01:15+00:00",
-      "score": 65,
+      "score": 63,
       "category": "KI & Technologie",
       "score_detail": {
         "Thema": 30,
         "Quelle": 16,
-        "Aktualität": 14,
+        "Aktualität": 12,
         "Tragweite (Schlüsselwörter)": 5
       }
     },
@@ -84,59 +99,44 @@
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOWEIyOERfVDRERGtoclpUcXAzUFl4WkpUTFhvU0FwMzhnVjZoMXFxYkZtUHk3b0E4Vy1iRFVlNGIxQ29ERlNNTjBDS1hna1ByM1BMS3Q4aUNEallpT0I2WUhjVEtxcjdHbHRkSmlVclRNVnpPbWNlRlFQWXVLWk84NTRaeXpPUndvbFNkRTZONm5mY1ZnYURjVFgtWm8zX1YxazZKTG1vQW45SzZDcXdJSkJ3eDI1XzFGOFlr?oc=5",
       "source": "Lebensmittel Zeitung",
       "source_url": "https://www.lebensmittelzeitung.net",
-      "published": "2026-10-30T10:50:36+00:00",
-      "score": 64,
+      "published": "2026-10-30T09:19:00+00:00",
+      "score": 62,
       "category": "Handelsstrategie",
       "score_detail": {
         "Thema": 24,
         "Quelle": 20,
-        "Aktualität": 15,
+        "Aktualität": 13,
         "Tragweite (Schlüsselwörter)": 5
       }
     },
     {
-      "title": "KI-gestützte Prozessautomatisierung: bastify realisiert Pflegeplattform in 8 Wochen mit 75 % weniger Kosten",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNYUxlaUk4RGlubWlyZElyVHV3VXpPMEFRWWtpemtZemQySG5FdTZTRkJ5N0JiQzBIXzNmUFZUNzZnSkdSWEhlaXBFRHJCRmZxbzh6VG5HaDZZaDlQTWZzbDlJYVUtT3p3WmlnaV83MDRYUGFXSmVGS0NHSkpmbmNXQUMySXpkLXRMYzVjdjlOQUl4SlRnY1JwMnRBY29GcEJVT25UTWJKZ0NmOFBtcE1xYVRyOEtDcUJjel9DTFZLT1ZqNEM3T21WWUg2ZnRNUzdmLWwxdTRxNl9nX3hjUXc?oc=5",
-      "source": "openPR.de",
-      "source_url": "https://www.openpr.de",
-      "published": "2026-10-30T10:26:00+00:00",
-      "score": 64,
-      "category": "KI & Technologie",
-      "score_detail": {
-        "Thema": 36,
-        "Quelle": 8,
-        "Aktualität": 15,
-        "Tragweite (Schlüsselwörter)": 5
-      }
-    },
-    {
-      "title": "Kundenmonitor 2026: Baumärkte überzeugen mit Rat und Tat",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNWjI4U2xiMzR1anRQemZTcEk4bVh4eXhYSnJtMlZjY19rWmMzb1ZsVGItVkFydmFFMTdiWGNHb1RlaU4tSm1fdks0dnZWUTFueC1JODNKTm5ydVk5OUh6bUx0LTVXczRXdkhodWNWYTlQX0hsTXJDT1MwZzVsY29ld1RXMUpQNGdOcUp2eVNJalh4bHV2cldDRzV4WWFxVkdOaENVakRDRTJCamU1NzdoczltYkFEYlNUY2lZ?oc=5",
-      "source": "Lebensmittel Zeitung",
-      "source_url": "https://www.lebensmittelzeitung.net",
-      "published": "2026-10-30T08:00:00+00:00",
-      "score": 64,
-      "category": "Konsumenten",
-      "score_detail": {
-        "Thema": 24,
-        "Quelle": 20,
-        "Aktualität": 15,
-        "Tragweite (Schlüsselwörter)": 5
-      }
-    },
-    {
-      "title": "Geplante Commerzbank-Übernahme: Unicredit wirbt bei Mittelstand um Vertrauen",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOYlNTWGpnaFpVWEs0cF9kZ0RkbUFDWHVwUnNXR2x0NWRrTU1IM0ZrcGdYOEpzQ2dGUldwT3Nkb0hyM1VEdlRWck1YRkNVb3BwdDlIbEM3Zk1kM1dOWlJzaTNIbEJQZWU0bkJuNDc1LVFDTzRBYUo0UXRQM0RQdEJ2czE4VlJBV2cySHJDVVdTT0UzanprbmJDOVU0VGNVMThTMU9ST2haLTdzVU5VNG9SOGdLQ2NLMlY1MXNPZ1B6bVFKSkpFNHZRUTVoUXlwazlaRFlObTQwRQ?oc=5",
-      "source": "Handelsblatt",
-      "source_url": "https://www.handelsblatt.com",
-      "published": "2026-10-30T08:52:17+00:00",
-      "score": 63,
+      "title": "Galeria-Insolvenz trifft Fiege: 1.250 Arbeitsplätze in Unna betroffen",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBFbHcyTXZYY1MwREVVNWF6SUJUUmtxaElvQ2NzNlczbnhtbXh2V0hseHdwaWp1b0NpcW9XdHRqRXNpRmU3ZnF1TmNFcG9FUG04V2pqNS0tNlZLRXlhVURsNGVwWko2d1hMaXlXN2hLU0NMS19DUkx0M0Jxejg?oc=5",
+      "source": "RETAIL-NEWS Deutschland",
+      "source_url": "https://retail-news.de",
+      "published": "2026-10-30T13:40:37+00:00",
+      "score": 61,
       "category": "Handelsstrategie",
       "score_detail": {
         "Thema": 24,
         "Quelle": 14,
-        "Aktualität": 15,
+        "Aktualität": 13,
         "Tragweite (Schlüsselwörter)": 10
+      }
+    },
+    {
+      "title": "Kundenmonitor 2026: Hornbach behauptet Top-Position",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNWjI4U2xiMzR1anRQemZTcEk4bVh4eXhYSnJtMlZjY19rWmMzb1ZsVGItVkFydmFFMTdiWGNHb1RlaU4tSm1fdks0dnZWUTFueC1JODNKTm5ydVk5OUh6bUx0LTVXczRXdkhodWNWYTlQX0hsTXJDT1MwZzVsY29ld1RXMUpQNGdOcUp2eVNJalh4bHV2cldDRzV4WWFxVkdOaENVakRDRTJCamU1NzdoczltYkFEYlNUY2lZ?oc=5",
+      "source": "Lebensmittel Zeitung",
+      "source_url": "https://www.lebensmittelzeitung.net",
+      "published": "2026-10-30T08:00:00+00:00",
+      "score": 61,
+      "category": "Konsumenten",
+      "score_detail": {
+        "Thema": 24,
+        "Quelle": 20,
+        "Aktualität": 12,
+        "Tragweite (Schlüsselwörter)": 5
       }
     },
     {
@@ -145,12 +145,12 @@
       "source": "Lebensmittel Zeitung",
       "source_url": "https://www.lebensmittelzeitung.net",
       "published": "2026-10-30T07:48:00+00:00",
-      "score": 63,
+      "score": 61,
       "category": "KI & Technologie",
       "score_detail": {
         "Thema": 24,
         "Quelle": 20,
-        "Aktualität": 14,
+        "Aktualität": 12,
         "Tragweite (Schlüsselwörter)": 5
       }
     }
