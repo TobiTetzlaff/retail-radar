@@ -1,21 +1,51 @@
 {
-  "generated_at": "2026-10-31T12:58:52.202112+00:00",
+  "generated_at": "2026-11-01T13:43:59.630352+00:00",
   "window_days": 7,
-  "candidate_count": 159,
+  "candidate_count": 157,
   "errors_count": 0,
   "articles": [
+    {
+      "title": "Automatisierung: Otto Group testet KI-gestützten Roboter für Retouren",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNbDlRWkFQQUhiU1dhVWtHVnJXQ3lINlNQa2tHeXhoZHRNOGc1dVpLYmRPVjhWSUloTlBoUGZqcWc1WFdaNXNXN0hqZHloVHpjRTJvMkZFbDJPcEdnMTFRdWR5Y0RzajRYM3B1X1puQ2xqMkVLM3J3Sm1kMFpEeE1EYkJTZjZHY0RrdmljZXRKVlMtX1JiS3psVkxURnlxaTk0cmV3YUVDUVdOQy1VUnZtU0NBSGpOaElpbFYzSnRFM2VOc0V3NVdLMHVlNXM5OWlpMExkNw?oc=5",
+      "source": "Lebensmittel Zeitung",
+      "source_url": "https://www.lebensmittelzeitung.net",
+      "published": "2026-10-28T10:05:00+00:00",
+      "score": 67,
+      "category": "KI & Technologie",
+      "score_detail": {
+        "Thema": 36,
+        "Quelle": 20,
+        "Aktualität": 6,
+        "Tragweite (Schlüsselwörter)": 5
+      }
+    },
+    {
+      "title": "Digitalisierung der Logistik stagniert: 76 Prozent nutzen elektronische Frachtbriefe",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9XTDE5bFdKckJ5YjBjOGtPV0pXVEJSM2FYUUN6NlY5UGVOelJRMWNjZS1zYmhuM3RFMGlremdJRFlsNDVMajZiaWFEY1d2c0xibzQyWTZWZEhoQ0RZdXRVNWRwdjN2WUdrQVYwcXJ5My1MTTc2anV1ZzI1OWhhdw?oc=5",
+      "source": "RETAIL-NEWS Deutschland",
+      "source_url": "https://retail-news.de",
+      "published": "2026-11-01T11:04:10+00:00",
+      "score": 64,
+      "category": "KI & Technologie",
+      "score_detail": {
+        "Thema": 30,
+        "Quelle": 14,
+        "Aktualität": 15,
+        "Tragweite (Schlüsselwörter)": 5
+      }
+    },
     {
       "title": "Standortübernahmen: So viele Tegut-Märkte will Rewe zusätzlich",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNSlN6Q1FacjFCNlNmS0RuNmMyOEl1T285bGp6dnl1YnJDQmJQWk1QZTFmWDM2RFJFeHFtSVpJdmtWS3NLaEkyS3lReXUtZ0MyYXRLYUVNX0g1Wlp1TmJQUndOR01NNmlrbkVBWG50MFEwTGxkSXlqV2M5TllqZDBlOEpweXFYQkhTMUFTWUlUMzB6azVoNFJSR3Y3T3dHX3BZVi1qbHJSRnpod19tNkVQUFNsaGk3QUN1VXAzdXQzVjdrZXpO?oc=5",
       "source": "Lebensmittel Zeitung",
       "source_url": "https://www.lebensmittelzeitung.net",
       "published": "2026-10-30T09:00:00+00:00",
-      "score": 67,
+      "score": 64,
       "category": "Handelsstrategie",
       "score_detail": {
         "Thema": 24,
         "Quelle": 20,
-        "Aktualität": 13,
+        "Aktualität": 10,
         "Tragweite (Schlüsselwörter)": 10
       }
     },
@@ -25,12 +55,12 @@
       "source": "Lebensmittel Zeitung",
       "source_url": "https://www.lebensmittelzeitung.net",
       "published": "2026-10-29T13:52:00+00:00",
-      "score": 65,
+      "score": 63,
       "category": "Handelsstrategie",
       "score_detail": {
         "Thema": 24,
         "Quelle": 20,
-        "Aktualität": 11,
+        "Aktualität": 9,
         "Tragweite (Schlüsselwörter)": 10
       }
     },
@@ -40,27 +70,12 @@
       "source": "RETAIL-NEWS Deutschland",
       "source_url": "https://retail-news.de",
       "published": "2026-10-29T03:46:14+00:00",
-      "score": 65,
+      "score": 63,
       "category": "KI & Technologie",
       "score_detail": {
         "Thema": 36,
         "Quelle": 14,
-        "Aktualität": 10,
-        "Tragweite (Schlüsselwörter)": 5
-      }
-    },
-    {
-      "title": "News aus Handel und Konsumgüter-Industrie",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5qMFpydWtRbnFlRVFPX0RWZXAzMXVFbzhIclhBTDVFc3lNV0xzWHFOelJPT1Qtd1FLd0loc010WTIwNk5ROUFveUZTVXBaTXBIY0pxZVhuaVVFVmE5UllqelpfbFZYRUVHVGFvdjhUVQ?oc=5",
-      "source": "Lebensmittel Zeitung",
-      "source_url": "https://www.lebensmittelzeitung.net",
-      "published": "2026-10-30T22:03:02+00:00",
-      "score": 63,
-      "category": "Konsumenten",
-      "score_detail": {
-        "Thema": 24,
-        "Quelle": 20,
-        "Aktualität": 14,
+        "Aktualität": 8,
         "Tragweite (Schlüsselwörter)": 5
       }
     },
@@ -70,12 +85,12 @@
       "source": "etailment",
       "source_url": "https://www.etailment.de",
       "published": "2026-10-30T06:07:25+00:00",
-      "score": 63,
+      "score": 61,
       "category": "KI & Technologie",
       "score_detail": {
         "Thema": 30,
         "Quelle": 16,
-        "Aktualität": 12,
+        "Aktualität": 10,
         "Tragweite (Schlüsselwörter)": 5
       }
     },
@@ -85,27 +100,42 @@
       "source": "etailment",
       "source_url": "https://www.etailment.de",
       "published": "2026-10-30T05:01:15+00:00",
-      "score": 63,
+      "score": 61,
       "category": "KI & Technologie",
       "score_detail": {
         "Thema": 30,
         "Quelle": 16,
-        "Aktualität": 12,
+        "Aktualität": 10,
         "Tragweite (Schlüsselwörter)": 5
       }
     },
     {
-      "title": "Dekohändler: Depot schließt alle Filialen in Österreich",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOWEIyOERfVDRERGtoclpUcXAzUFl4WkpUTFhvU0FwMzhnVjZoMXFxYkZtUHk3b0E4Vy1iRFVlNGIxQ29ERlNNTjBDS1hna1ByM1BMS3Q4aUNEallpT0I2WUhjVEtxcjdHbHRkSmlVclRNVnpPbWNlRlFQWXVLWk84NTRaeXpPUndvbFNkRTZONm5mY1ZnYURjVFgtWm8zX1YxazZKTG1vQW45SzZDcXdJSkJ3eDI1XzFGOFlr?oc=5",
+      "title": "KI-Agenten im Category Management: „Dort wartet die Marge schon heute“",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNMDhYb2l4Z1VEcHdvUi1SY2Rvb2FZeGpMQ21URU5mQWxyZktBSU0tWFUzOVZZSl9MOVlqN0h1ZjV0SkFMcnQtMFBXVjRSVXBWZ3pDZjA2T2RnTWtOYm9MdjMzeFU4NElqM1NEZkxjX290VHdYZUdoT3hMUW45Mk5Yd0hVYmhJU29DNG1LdndsaklUUU1Nb2JBMkxRREZhbjQtYnc?oc=5",
+      "source": "etailment",
+      "source_url": "https://www.etailment.de",
+      "published": "2026-11-01T09:02:05+00:00",
+      "score": 60,
+      "category": "KI & Technologie",
+      "score_detail": {
+        "Thema": 24,
+        "Quelle": 16,
+        "Aktualität": 15,
+        "Tragweite (Schlüsselwörter)": 5
+      }
+    },
+    {
+      "title": "News aus Handel und Konsumgüter-Industrie",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5qMFpydWtRbnFlRVFPX0RWZXAzMXVFbzhIclhBTDVFc3lNV0xzWHFOelJPT1Qtd1FLd0loc010WTIwNk5ROUFveUZTVXBaTXBIY0pxZVhuaVVFVmE5UllqelpfbFZYRUVHVGFvdjhUVQ?oc=5",
       "source": "Lebensmittel Zeitung",
       "source_url": "https://www.lebensmittelzeitung.net",
-      "published": "2026-10-30T09:19:00+00:00",
-      "score": 62,
-      "category": "Handelsstrategie",
+      "published": "2026-10-30T22:03:02+00:00",
+      "score": 60,
+      "category": "Konsumenten",
       "score_detail": {
         "Thema": 24,
         "Quelle": 20,
-        "Aktualität": 13,
+        "Aktualität": 11,
         "Tragweite (Schlüsselwörter)": 5
       }
     },
@@ -115,43 +145,13 @@
       "source": "RETAIL-NEWS Deutschland",
       "source_url": "https://retail-news.de",
       "published": "2026-10-30T13:40:37+00:00",
-      "score": 61,
+      "score": 59,
       "category": "Handelsstrategie",
       "score_detail": {
         "Thema": 24,
         "Quelle": 14,
-        "Aktualität": 13,
+        "Aktualität": 11,
         "Tragweite (Schlüsselwörter)": 10
-      }
-    },
-    {
-      "title": "Kundenmonitor 2026: Hornbach behauptet Top-Position",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNWjI4U2xiMzR1anRQemZTcEk4bVh4eXhYSnJtMlZjY19rWmMzb1ZsVGItVkFydmFFMTdiWGNHb1RlaU4tSm1fdks0dnZWUTFueC1JODNKTm5ydVk5OUh6bUx0LTVXczRXdkhodWNWYTlQX0hsTXJDT1MwZzVsY29ld1RXMUpQNGdOcUp2eVNJalh4bHV2cldDRzV4WWFxVkdOaENVakRDRTJCamU1NzdoczltYkFEYlNUY2lZ?oc=5",
-      "source": "Lebensmittel Zeitung",
-      "source_url": "https://www.lebensmittelzeitung.net",
-      "published": "2026-10-30T08:00:00+00:00",
-      "score": 61,
-      "category": "Konsumenten",
-      "score_detail": {
-        "Thema": 24,
-        "Quelle": 20,
-        "Aktualität": 12,
-        "Tragweite (Schlüsselwörter)": 5
-      }
-    },
-    {
-      "title": "Beteiligung: Schwarz-Gruppe investiert groß in KI-Start-up Cohere",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOZktwNERVS2hIUXpzU1poWE1ud3RIQjFaUGhlQWQtYlNfdER4SXZhaEFFMVlEbEdHc2EzRk0xYmdyMXQxbmVhX1NVdjREMnB6aFhUaU1GOXM3N3JydzJPV18wdVpidnY1YmZMcFJra2RweWNNa2F0U0NjaUUxWWI3dTJYOUNKYXRSdXY5SXhNRGtWTUVVQjBnZTRhLWZYQy11VVNBZWNCdlFDRE9TeW9FOTQ5M3Y0QWtteGViRzNjTmFzcmFoTWs3RGFQa1g5a1E?oc=5",
-      "source": "Lebensmittel Zeitung",
-      "source_url": "https://www.lebensmittelzeitung.net",
-      "published": "2026-10-30T07:48:00+00:00",
-      "score": 61,
-      "category": "KI & Technologie",
-      "score_detail": {
-        "Thema": 24,
-        "Quelle": 20,
-        "Aktualität": 12,
-        "Tragweite (Schlüsselwörter)": 5
       }
     }
   ]
