@@ -1,22 +1,67 @@
 {
-  "generated_at": "2026-11-02T16:29:13.290363+00:00",
+  "generated_at": "2026-11-03T14:35:40.868737+00:00",
   "window_days": 7,
-  "candidate_count": 165,
+  "candidate_count": 218,
   "errors_count": 0,
   "articles": [
+    {
+      "title": "Freigabe: EU-Kommission gibt grünes Licht für Ceconomy-Übernahme",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQUlZlWXlUeW9ZcDJmbzF2cjltc3FDa05HdlF5aDcyeDBOM0pUQ0pURUhBd0YxdkkxWTBUOXJzd0UzeWVYNzUxT3pfcEdSYWc1ZXQ5em1ycnhLVlh0bGZyRy13OGRQY2pvSFN2N3p2VjdJeE53ZXc1Z2tiVTJycjVsbGh3amZmSlJvRjVzYkN3VENUeEttdVNzbDZvZEs3VnJGS3FteDh2bDFfMDJEekx0WTg5VC1hNkt1QmpNODYxV3dyUHFDOEw4?oc=5",
+      "source": "Lebensmittel Zeitung",
+      "source_url": "https://www.lebensmittelzeitung.net",
+      "published": "2026-11-03T11:00:00+00:00",
+      "score": 69,
+      "category": "Handelsstrategie",
+      "score_detail": {
+        "Thema": 24,
+        "Quelle": 20,
+        "Aktualität": 15,
+        "Tragweite (Schlüsselwörter)": 10
+      }
+    },
+    {
+      "title": "HDE geht für November und Dezember von 2 % Umsatzplus aus - Prognose: Weihnachtsgeschäft im Einzelhandel trotzt der Krise – Handelsverband Deutschland (HDE)",
+      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPS3lZNXk0R19kR2hGZDgyX012RDkzemxGbTd2ZkczV3RSSTEwbXJFNDA2V0tKcWNqcHJOTDV3eVhfdDdjV2hBXzZjLWk5YmtnR251dTdSQ2ZBSVRXMVVzaTlhekRIM2wwenlkbGczNl9yUmJkVC1oc3dIQ3JIOGZxelRhUHJ0SlB1S2t5VWgwbUhWMy14WVIwY0F5TWtiMXdLdE9KUHU2ZHpiNVpjNlFCU0pzQ1N5Tmh1M0VQd0lqSWE0V0FPbU8zazBuaUVnME4zLWxMSFJnLUE2eTFMOVg1OURhUXFTbzdpV1V2SzExY1FfbnlWUTJtUk5Bcjg5WlJkenNN?oc=5",
+      "source": "Handelsverband Deutschland (HDE)",
+      "source_url": "https://einzelhandel.de",
+      "published": "2026-11-03T09:33:29+00:00",
+      "score": 68,
+      "category": "Handelsstrategie",
+      "score_detail": {
+        "Thema": 30,
+        "Quelle": 18,
+        "Aktualität": 15,
+        "Tragweite (Schlüsselwörter)": 5
+      }
+    },
     {
       "title": "Otto Group und Sereact automatisieren Retouren mit KI-Technologie von NVIDIA",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5pbUhDckdLbERkR0pHUDkydVp3dm5icnk2V0U2dEI4UDktd1A1aWhnZjk3ZkpqaThZTlM1ODgtbUN2bTdrVGxBTXc0RGNZMHNqVjBFVHV3WTlkMmdESTJsc1Vzdm43X2d5YlFEVk1VZjZJSDNkeGtXSw?oc=5",
       "source": "RETAIL-NEWS Deutschland",
       "source_url": "https://retail-news.de",
       "published": "2026-11-02T14:07:59+00:00",
-      "score": 70,
+      "score": 68,
       "category": "KI & Technologie",
       "score_detail": {
         "Thema": 36,
         "Quelle": 14,
-        "Aktualität": 15,
+        "Aktualität": 13,
         "Tragweite (Schlüsselwörter)": 5
+      }
+    },
+    {
+      "title": "LZ Audio News: Ehemaliger Hakle-Hersteller stellt Insolvenzantrag",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNa3hVeGszbFVRZEdZcDlDRWVyZFVPZDJCM0hleVNQRnE3MXZhSndrYmJuTWZBOXRCRllPYmhCUnE2OG1FdFBBaDBJLTBGM3VhOFJNX0V3LUJ6eTRuWEpuVzE2R0QtVjN6OU5GQTV5LXRzTUdZSHNFLTNOZm02a0tZc3pDMVpKSlJBMXFBcUtVT0ZSNWF2YTV0N2xzbXBsTTRuU0dHMS1BUm1oSjdUcTdjbXNDR0w5ME4xZjZGRXhqX1Y?oc=5",
+      "source": "Lebensmittel Zeitung",
+      "source_url": "https://www.lebensmittelzeitung.net",
+      "published": "2026-11-02T17:15:00+00:00",
+      "score": 67,
+      "category": "Handelsstrategie",
+      "score_detail": {
+        "Thema": 24,
+        "Quelle": 20,
+        "Aktualität": 13,
+        "Tragweite (Schlüsselwörter)": 10
       }
     },
     {
@@ -25,12 +70,12 @@
       "source": "Handelsblatt",
       "source_url": "https://www.handelsblatt.com",
       "published": "2026-11-02T14:28:25+00:00",
-      "score": 69,
+      "score": 67,
       "category": "Handelsstrategie",
       "score_detail": {
         "Thema": 30,
         "Quelle": 14,
-        "Aktualität": 15,
+        "Aktualität": 13,
         "Tragweite (Schlüsselwörter)": 10
       }
     },
@@ -40,12 +85,12 @@
       "source": "Lebensmittel Zeitung",
       "source_url": "https://www.lebensmittelzeitung.net",
       "published": "2026-11-02T07:42:00+00:00",
-      "score": 69,
+      "score": 67,
       "category": "Handelsstrategie",
       "score_detail": {
         "Thema": 30,
         "Quelle": 20,
-        "Aktualität": 14,
+        "Aktualität": 12,
         "Tragweite (Schlüsselwörter)": 5
       }
     },
@@ -54,13 +99,28 @@
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNVWpieEU4eFcyQXd3UGtEN0RYODBrRkxoRUxjRkNFR3N3Ty1MMEMxcW9CS055dl9WaklIbG5LYmdETDliMTJ6aUpKQXV4dXdMX2NpYUNVMS1vRmpuYWFYX0NZcXdMNmFKS3FtWFBwMlQ4TDNCeGNXV1UtUmN1dWZ0NnhoUEtyT2ZPMHJudXBhbURScGFLUU9EZ1VmUFl3bjJ5LUt1VUFtVE91c3R1WjlLLXQxZHpheGhhUjJrWXhlWmRKUQ?oc=5",
       "source": "WirtschaftsWoche",
       "source_url": "https://www.wiwo.de",
-      "published": "2026-11-02T10:58:00+00:00",
-      "score": 68,
+      "published": "2026-11-02T10:38:50+00:00",
+      "score": 66,
       "category": "Handelsstrategie",
       "score_detail": {
         "Thema": 36,
         "Quelle": 12,
-        "Aktualität": 15,
+        "Aktualität": 13,
+        "Tragweite (Schlüsselwörter)": 5
+      }
+    },
+    {
+      "title": "Konsum: Einzelhandel verliert unerwartet Umsatz",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOWmdESGdQRlJpQ0lsenZVN1ZFYk1JX09aUThjVzd4bDhPTnhrUzJ1SG8yRTMxMHNqZklRUVlKWnJMNmJvalVnRmxONVRJMVcyRDdXbkxtSG9FN0paNkM3NHd3N3J1c1pSRjZhTVk5cnhtRG9uSXByQW1DaFlDSnFqZlJGZ29KTGFzVUhSN0hTQmltQUJJeS1lbXlpWkd4WV9jaXc?oc=5",
+      "source": "WirtschaftsWoche",
+      "source_url": "https://www.wiwo.de",
+      "published": "2026-11-02T10:38:10+00:00",
+      "score": 66,
+      "category": "Handelsstrategie",
+      "score_detail": {
+        "Thema": 36,
+        "Quelle": 12,
+        "Aktualität": 13,
         "Tragweite (Schlüsselwörter)": 5
       }
     },
@@ -70,87 +130,27 @@
       "source": "Lebensmittel Zeitung",
       "source_url": "https://www.lebensmittelzeitung.net",
       "published": "2026-11-02T06:00:00+00:00",
-      "score": 68,
-      "category": "Handelsstrategie",
-      "score_detail": {
-        "Thema": 24,
-        "Quelle": 20,
-        "Aktualität": 14,
-        "Tragweite (Schlüsselwörter)": 10
-      }
-    },
-    {
-      "title": "HDE-Konsumbarometer im November: Trotz leichter Erholung: Verbraucherstimmung weiterhin unter Vorjahresniveau",
-      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPWXFTbU1XQ1B4OHNkOURBblN1eE50VTZCLUpaT2VtN3RYWXhMajlIazJncmdGamp6dEJtZVZ4aEpkaTZNd3JJYnQ3V3JpdzYwZW5tR1g3eHJKVVZlLVpKUE1kVkstQWhraGgwUmQtc2Z3N0VLYVFNTFVsa0JpRUVPc1J0WmhnUUlFLWR2eUNjOWdhNHgxcVU4Z1hHUlN5a2g5OU9jLTllX0M4cnR6MGxMMktESWo2VUllZHZRQnJjdVJPOThUaXQ0ZmN2bEhHN0hjUUVFSy1ZVHpoQVZCUjJKUUpMNkJNbElXTkpXR212bTBiRjgw?oc=5",
-      "source": "Handelsverband Deutschland (HDE)",
-      "source_url": "https://einzelhandel.de",
-      "published": "2026-11-02T08:04:33+00:00",
-      "score": 67,
-      "category": "Konsumenten",
-      "score_detail": {
-        "Thema": 30,
-        "Quelle": 18,
-        "Aktualität": 14,
-        "Tragweite (Schlüsselwörter)": 5
-      }
-    },
-    {
-      "title": "KI-Investitionen: 10 Milliarden Dollar – Oracle will neue Aktien ausgeben",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPbF8tZG5pbGNUU0xFcWFuQnZjby1ONC0zckRfNHlGVXN3TlZ6M0hYOWtLSlBxcDRDZGVlQ3djRjBKbXIwaHZpQVd5em4zYjl0M0ttdXoxSEFrb0p0cjg2N09feDIwRHNQN2VEOUJSVTVOWmw5TmhTR1FLcHN1WU9sWXhpOG1lTlJKXzdVSVFwTXBXSFFwaGJnSWMyV2dqT0QwdHBpa3VnSWxySVlRd1lDTzVDQmN0QzcxMW8xbA?oc=5",
-      "source": "WirtschaftsWoche",
-      "source_url": "https://www.wiwo.de",
-      "published": "2026-11-02T15:30:00+00:00",
       "score": 66,
-      "category": "KI & Technologie",
-      "score_detail": {
-        "Thema": 24,
-        "Quelle": 12,
-        "Aktualität": 15,
-        "Tragweite (Schlüsselwörter)": 15
-      }
-    },
-    {
-      "title": "Küchenrollen-Produzent - Jung Papier beantragt Insolvenz in Eigenverwaltung",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOeWh1M0Z0RzAxTEtQVnJkWDJVSDk0RjdfMm0wWHBuUmZsT2lBMzROMG05UF9Xa3FaRnNEMFk1N2M3MXVSV3JiWjhoTnVQTkJpaVYxUEp1b3pJNlM5OVV3WmNwalBRR0hMQWJJNi1FdWZrMkVYOTJmZUFEcEhUcHQ3cnB5aXJBa05LcFZBMGN5SXcwNU5PS0JOSkl5cEhfVElNT0FFZC1DUU5lNXRReDFkb18xYzVlejhhWkVVWF9jUTRnVC1Jb1lFZDh5czlVQXZ5?oc=5",
-      "source": "Lebensmittelpraxis.de",
-      "source_url": "https://lebensmittelpraxis.de",
-      "published": "2026-11-02T13:47:00+00:00",
-      "score": 65,
       "category": "Handelsstrategie",
       "score_detail": {
         "Thema": 24,
-        "Quelle": 16,
-        "Aktualität": 15,
+        "Quelle": 20,
+        "Aktualität": 12,
         "Tragweite (Schlüsselwörter)": 10
       }
     },
     {
-      "title": "Einzelhandel Deutschland - Lebensmitteleinzelhandel verliert im September an Umsatz",
-      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOVEoyVWxUbHBwMDJUTVJRQnR5Z3ZaeG41ODUwNHRqMzNHclR1UFpGc3drbURKUXBrYk1Sc1hnXzh5blV6Q1JTWUJXRXk2U1JqUjVZbzhaSWtneWdTb0lMeG0wTmpwR0ZXOFBoLUVtRTkxa2pJOE0zQk5tSTYtZXF3ZFFYenRrSW9OdVlqUVE1TFdQRGZPZnF2WUp3U3JRVE9NU1A2eWVZcWVmb0FGTFR0UmM2M1daYWJvbmFFR3NITGdXWTMwNTNrSTBGVVZReFkwd3B2VVZfMEVLdFZ6RmJ5SU5JcWh1VUowQnNZUkhn?oc=5",
-      "source": "Lebensmittelpraxis.de",
-      "source_url": "https://lebensmittelpraxis.de",
-      "published": "2026-11-02T10:19:00+00:00",
+      "title": "400 Mio. Kunden nutzen Amazons Shopping-KI",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVUNqV3lYYVFvYm9oZHQ5dTFQYlRLaE9NdUNFRVNMUmZKTjRGOTVTY3dnOUloLWNBZjhvNFVWbHR0WWljQTZYb2JuWExuTndtbkNVUDZENGhySE45NHJrcHRBX0FrN0tQT3VoY3Z0ZFFrdTBlYklpN3JoTUxvVWlReGNQSHJudDhkQXViY3ln?oc=5",
+      "source": "etailment",
+      "source_url": "https://www.etailment.de",
+      "published": "2026-11-03T06:04:50+00:00",
       "score": 65,
-      "category": "Handelsstrategie",
+      "category": "KI & Technologie",
       "score_detail": {
         "Thema": 30,
         "Quelle": 16,
         "Aktualität": 14,
-        "Tragweite (Schlüsselwörter)": 5
-      }
-    },
-    {
-      "title": "Automatisierung: Otto Group testet KI-gestützten Roboter für Retouren",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNbDlRWkFQQUhiU1dhVWtHVnJXQ3lINlNQa2tHeXhoZHRNOGc1dVpLYmRPVjhWSUloTlBoUGZqcWc1WFdaNXNXN0hqZHloVHpjRTJvMkZFbDJPcEdnMTFRdWR5Y0RzajRYM3B1X1puQ2xqMkVLM3J3Sm1kMFpEeE1EYkJTZjZHY0RrdmljZXRKVlMtX1JiS3psVkxURnlxaTk0cmV3YUVDUVdOQy1VUnZtU0NBSGpOaElpbFYzSnRFM2VOc0V3NVdLMHVlNXM5OWlpMExkNw?oc=5",
-      "source": "Lebensmittel Zeitung",
-      "source_url": "https://www.lebensmittelzeitung.net",
-      "published": "2026-10-28T10:05:00+00:00",
-      "score": 65,
-      "category": "KI & Technologie",
-      "score_detail": {
-        "Thema": 36,
-        "Quelle": 20,
-        "Aktualität": 4,
         "Tragweite (Schlüsselwörter)": 5
       }
     }
