@@ -1,15 +1,30 @@
 {
-  "generated_at": "2026-11-03T14:35:40.868737+00:00",
+  "generated_at": "2026-11-04T14:49:28.766842+00:00",
   "window_days": 7,
-  "candidate_count": 218,
+  "candidate_count": 210,
   "errors_count": 0,
   "articles": [
     {
-      "title": "Freigabe: EU-Kommission gibt grünes Licht für Ceconomy-Übernahme",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQUlZlWXlUeW9ZcDJmbzF2cjltc3FDa05HdlF5aDcyeDBOM0pUQ0pURUhBd0YxdkkxWTBUOXJzd0UzeWVYNzUxT3pfcEdSYWc1ZXQ5em1ycnhLVlh0bGZyRy13OGRQY2pvSFN2N3p2VjdJeE53ZXc1Z2tiVTJycjVsbGh3amZmSlJvRjVzYkN3VENUeEttdVNzbDZvZEs3VnJGS3FteDh2bDFfMDJEekx0WTg5VC1hNkt1QmpNODYxV3dyUHFDOEw4?oc=5",
+      "title": "Konsumentenstudie: Verbraucher zweifeln an Schnäppchen im Handel",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQLU5RZXVVVVZIZmNENXVPOXBmRkNQaXVQY2FQemhKNHZFUl9iaDJ0bzZfWnhYanVERWtkY2dEbElvQWNMRkNsYVpyai0xNF9odVNEQ3VrRWdNWHA3MHlORWxqcTFKNGt0WXVuUGg2d3NNeHBaZWVtWWRpeW9FZ0thWkpxOXN1al91cW5TRGVJbnkzVVJhSVZ1ZE5HVFc2ZUs0V3A3enFObjFOd2xsQ2lFNUpSaWQwaDhXQmROb1d5YVl2MjZh?oc=5",
       "source": "Lebensmittel Zeitung",
       "source_url": "https://www.lebensmittelzeitung.net",
-      "published": "2026-11-03T11:00:00+00:00",
+      "published": "2026-11-04T12:57:32+00:00",
+      "score": 70,
+      "category": "Konsumenten",
+      "score_detail": {
+        "Thema": 30,
+        "Quelle": 20,
+        "Aktualität": 15,
+        "Tragweite (Schlüsselwörter)": 5
+      }
+    },
+    {
+      "title": "Tegut-Übernahme: Bürgermeister erhebt Vorwürfe gegen Edeka",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQTEs4dFBoT0NibDBycXV2cUVINzQ4Mmc1U1RDZnZKdU50ajJJcy1aTThSajYtMUFSRXFDbndDSjA3S0N6azkzU2Y5cGVWR3IxV3ZWeEtVeE1uelREOWk1QTY3cl90ODNUcFJTYi0yaDF4eDI2dXRfRzdtY09zVFkzZEpIS2o0ZVlDMm1EVFFvOUs3MGJoNWkteF8tZlpaR21xTWQtT3AxRW13SzVmVW1fd1ZzMzBObllSamxQMlBnOA?oc=5",
+      "source": "Lebensmittel Zeitung",
+      "source_url": "https://www.lebensmittelzeitung.net",
+      "published": "2026-11-04T10:48:14+00:00",
       "score": 69,
       "category": "Handelsstrategie",
       "score_detail": {
@@ -20,18 +35,33 @@
       }
     },
     {
-      "title": "HDE geht für November und Dezember von 2 % Umsatzplus aus - Prognose: Weihnachtsgeschäft im Einzelhandel trotzt der Krise – Handelsverband Deutschland (HDE)",
-      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPS3lZNXk0R19kR2hGZDgyX012RDkzemxGbTd2ZkczV3RSSTEwbXJFNDA2V0tKcWNqcHJOTDV3eVhfdDdjV2hBXzZjLWk5YmtnR251dTdSQ2ZBSVRXMVVzaTlhekRIM2wwenlkbGczNl9yUmJkVC1oc3dIQ3JIOGZxelRhUHJ0SlB1S2t5VWgwbUhWMy14WVIwY0F5TWtiMXdLdE9KUHU2ZHpiNVpjNlFCU0pzQ1N5Tmh1M0VQd0lqSWE0V0FPbU8zazBuaUVnME4zLWxMSFJnLUE2eTFMOVg1OURhUXFTbzdpV1V2SzExY1FfbnlWUTJtUk5Bcjg5WlJkenNN?oc=5",
-      "source": "Handelsverband Deutschland (HDE)",
-      "source_url": "https://einzelhandel.de",
-      "published": "2026-11-03T09:33:29+00:00",
-      "score": 68,
+      "title": "Lagerflächen stark gefragt: Flächenumsatz von Logistikimmobilien wächst",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9SWWY4R1RkeG4xdGRFVW5YSUxCQW8xSnVzZzN5bVllc0RWekVxTEEzVWlGM2pvbUFLWGdFb09VSG5KbTdobFM2dGlJcERCNHZ1YmFUXy1GMEpwVzhNemxtbng1MEkxVGFfekhjVmpNOA?oc=5",
+      "source": "RETAIL-NEWS Deutschland",
+      "source_url": "https://retail-news.de",
+      "published": "2026-11-04T05:11:55+00:00",
+      "score": 69,
+      "category": "Logistik",
+      "score_detail": {
+        "Thema": 36,
+        "Quelle": 14,
+        "Aktualität": 14,
+        "Tragweite (Schlüsselwörter)": 5
+      }
+    },
+    {
+      "title": "LZ Audio News: EU-Kommission gibt grünes Licht für Ceconomy-Übernahme",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQejdEYTE3RGo0VEVHNlJOU2VVZmhhUkRXRy1iNVNMcEsxU1JpdWdGTWVBVEpUVVhJWkg3aG1tX0xNSXdkUjh1bGt0ZDZsTzVNM2ZNVlluczdxbjl5Q3dIdU4wVDVzNy1QazNQSk11NjB2eDNMRGpvSjQwUUxBS2lPdVp0a1NBdW9RcFMwRzFnaktmWm82U2tfVjRQS0ltUXVRWHBYeWVBUGZ3YWJqaXFtcWFZUlZkWE84NlpQYk84RzN2ZVBUelNpOVBB?oc=5",
+      "source": "Lebensmittel Zeitung",
+      "source_url": "https://www.lebensmittelzeitung.net",
+      "published": "2026-11-03T16:45:00+00:00",
+      "score": 67,
       "category": "Handelsstrategie",
       "score_detail": {
-        "Thema": 30,
-        "Quelle": 18,
-        "Aktualität": 15,
-        "Tragweite (Schlüsselwörter)": 5
+        "Thema": 24,
+        "Quelle": 20,
+        "Aktualität": 13,
+        "Tragweite (Schlüsselwörter)": 10
       }
     },
     {
@@ -40,12 +70,27 @@
       "source": "RETAIL-NEWS Deutschland",
       "source_url": "https://retail-news.de",
       "published": "2026-11-02T14:07:59+00:00",
-      "score": 68,
+      "score": 66,
       "category": "KI & Technologie",
       "score_detail": {
         "Thema": 36,
         "Quelle": 14,
-        "Aktualität": 13,
+        "Aktualität": 11,
+        "Tragweite (Schlüsselwörter)": 5
+      }
+    },
+    {
+      "title": "HDE geht für November und Dezember von 2 % Umsatzplus aus - Prognose: Weihnachtsgeschäft im Einzelhandel trotzt der Krise",
+      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPS3lZNXk0R19kR2hGZDgyX012RDkzemxGbTd2ZkczV3RSSTEwbXJFNDA2V0tKcWNqcHJOTDV3eVhfdDdjV2hBXzZjLWk5YmtnR251dTdSQ2ZBSVRXMVVzaTlhekRIM2wwenlkbGczNl9yUmJkVC1oc3dIQ3JIOGZxelRhUHJ0SlB1S2t5VWgwbUhWMy14WVIwY0F5TWtiMXdLdE9KUHU2ZHpiNVpjNlFCU0pzQ1N5Tmh1M0VQd0lqSWE0V0FPbU8zazBuaUVnME4zLWxMSFJnLUE2eTFMOVg1OURhUXFTbzdpV1V2SzExY1FfbnlWUTJtUk5Bcjg5WlJkenNN?oc=5",
+      "source": "Handelsverband Deutschland (HDE)",
+      "source_url": "https://einzelhandel.de",
+      "published": "2026-11-03T09:33:29+00:00",
+      "score": 65,
+      "category": "Handelsstrategie",
+      "score_detail": {
+        "Thema": 30,
+        "Quelle": 18,
+        "Aktualität": 12,
         "Tragweite (Schlüsselwörter)": 5
       }
     },
@@ -55,12 +100,12 @@
       "source": "Lebensmittel Zeitung",
       "source_url": "https://www.lebensmittelzeitung.net",
       "published": "2026-11-02T17:15:00+00:00",
-      "score": 67,
+      "score": 65,
       "category": "Handelsstrategie",
       "score_detail": {
         "Thema": 24,
         "Quelle": 20,
-        "Aktualität": 13,
+        "Aktualität": 11,
         "Tragweite (Schlüsselwörter)": 10
       }
     },
@@ -70,12 +115,12 @@
       "source": "Handelsblatt",
       "source_url": "https://www.handelsblatt.com",
       "published": "2026-11-02T14:28:25+00:00",
-      "score": 67,
+      "score": 65,
       "category": "Handelsstrategie",
       "score_detail": {
         "Thema": 30,
         "Quelle": 14,
-        "Aktualität": 13,
+        "Aktualität": 11,
         "Tragweite (Schlüsselwörter)": 10
       }
     },
@@ -85,72 +130,27 @@
       "source": "Lebensmittel Zeitung",
       "source_url": "https://www.lebensmittelzeitung.net",
       "published": "2026-11-02T07:42:00+00:00",
-      "score": 67,
+      "score": 65,
       "category": "Handelsstrategie",
       "score_detail": {
         "Thema": 30,
         "Quelle": 20,
-        "Aktualität": 12,
+        "Aktualität": 10,
         "Tragweite (Schlüsselwörter)": 5
       }
     },
     {
-      "title": "Privater Konsum: Einzelhandel in Deutschland verliert unerwartet Umsatz",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNVWpieEU4eFcyQXd3UGtEN0RYODBrRkxoRUxjRkNFR3N3Ty1MMEMxcW9CS055dl9WaklIbG5LYmdETDliMTJ6aUpKQXV4dXdMX2NpYUNVMS1vRmpuYWFYX0NZcXdMNmFKS3FtWFBwMlQ4TDNCeGNXV1UtUmN1dWZ0NnhoUEtyT2ZPMHJudXBhbURScGFLUU9EZ1VmUFl3bjJ5LUt1VUFtVE91c3R1WjlLLXQxZHpheGhhUjJrWXhlWmRKUQ?oc=5",
-      "source": "WirtschaftsWoche",
-      "source_url": "https://www.wiwo.de",
-      "published": "2026-11-02T10:38:50+00:00",
-      "score": 66,
-      "category": "Handelsstrategie",
-      "score_detail": {
-        "Thema": 36,
-        "Quelle": 12,
-        "Aktualität": 13,
-        "Tragweite (Schlüsselwörter)": 5
-      }
-    },
-    {
-      "title": "Konsum: Einzelhandel verliert unerwartet Umsatz",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOWmdESGdQRlJpQ0lsenZVN1ZFYk1JX09aUThjVzd4bDhPTnhrUzJ1SG8yRTMxMHNqZklRUVlKWnJMNmJvalVnRmxONVRJMVcyRDdXbkxtSG9FN0paNkM3NHd3N3J1c1pSRjZhTVk5cnhtRG9uSXByQW1DaFlDSnFqZlJGZ29KTGFzVUhSN0hTQmltQUJJeS1lbXlpWkd4WV9jaXc?oc=5",
-      "source": "WirtschaftsWoche",
-      "source_url": "https://www.wiwo.de",
-      "published": "2026-11-02T10:38:10+00:00",
-      "score": 66,
-      "category": "Handelsstrategie",
-      "score_detail": {
-        "Thema": 36,
-        "Quelle": 12,
-        "Aktualität": 13,
-        "Tragweite (Schlüsselwörter)": 5
-      }
-    },
-    {
-      "title": "Früheres Hakle-Werk: Jung Papier stellt Insolvenzantrag",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOT3ZIY1QxbVRpdHA1WlhFOTJrbS1SZlp6ekhqVEMwRlNOZlIyeG5GeWctUkN4TFE4dzV0aTV2MlREemVuTnVZTDlUTnBTbVdzWmdkNEFoaHVTTFctNXRyakloQ1lQNHowd0trRUhDQjc2Tm1VV0NwNDliZC1RU0FZdF9zLXNteENFYjI3U0VjZWRCRjNhY1FUcVFSODg0aklEb2dkMDJJbmRJelA4dGV4SmF6UVZSbjJDVFV3ag?oc=5",
+      "title": "Einkaufsagent: Zalando lässt KI-Agenten bei anderen Händlern kaufen",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNNy1fUzgxOTlSakV1TDNXLWdYWXJZdWw4LVlZMzk1WFgtOE9reTUyOHZjV2lHR0ZsWS03VnRQQmx0dzdpaDFSR0hIRWxtbktPc29oZkpfcHpuZnVPLTFRc25LVFpnOWtJYnIzMGFXbjdFc1ZyQnNIeVpPODdmRFYwc2FKUi1mdkR0RndmM2ptR1gzZ192VjFfaXVHcm1LMjZ1bkFyU0llYThoejd1WHdQTWhCMW9uR1ZlQWFEYndwaU9nQS1Tbkd1ODlKZkFwZHQtdTlF?oc=5",
       "source": "Lebensmittel Zeitung",
       "source_url": "https://www.lebensmittelzeitung.net",
-      "published": "2026-11-02T06:00:00+00:00",
-      "score": 66,
-      "category": "Handelsstrategie",
+      "published": "2026-11-04T12:43:18+00:00",
+      "score": 64,
+      "category": "KI & Technologie",
       "score_detail": {
         "Thema": 24,
         "Quelle": 20,
-        "Aktualität": 12,
-        "Tragweite (Schlüsselwörter)": 10
-      }
-    },
-    {
-      "title": "400 Mio. Kunden nutzen Amazons Shopping-KI",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVUNqV3lYYVFvYm9oZHQ5dTFQYlRLaE9NdUNFRVNMUmZKTjRGOTVTY3dnOUloLWNBZjhvNFVWbHR0WWljQTZYb2JuWExuTndtbkNVUDZENGhySE45NHJrcHRBX0FrN0tQT3VoY3Z0ZFFrdTBlYklpN3JoTUxvVWlReGNQSHJudDhkQXViY3ln?oc=5",
-      "source": "etailment",
-      "source_url": "https://www.etailment.de",
-      "published": "2026-11-03T06:04:50+00:00",
-      "score": 65,
-      "category": "KI & Technologie",
-      "score_detail": {
-        "Thema": 30,
-        "Quelle": 16,
-        "Aktualität": 14,
+        "Aktualität": 15,
         "Tragweite (Schlüsselwörter)": 5
       }
     }
