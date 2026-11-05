@@ -1,47 +1,17 @@
 {
-  "generated_at": "2026-11-04T14:49:28.766842+00:00",
+  "generated_at": "2026-11-05T14:53:59.009994+00:00",
   "window_days": 7,
-  "candidate_count": 210,
+  "candidate_count": 181,
   "errors_count": 0,
   "articles": [
     {
-      "title": "Konsumentenstudie: Verbraucher zweifeln an Schnäppchen im Handel",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQLU5RZXVVVVZIZmNENXVPOXBmRkNQaXVQY2FQemhKNHZFUl9iaDJ0bzZfWnhYanVERWtkY2dEbElvQWNMRkNsYVpyai0xNF9odVNEQ3VrRWdNWHA3MHlORWxqcTFKNGt0WXVuUGg2d3NNeHBaZWVtWWRpeW9FZ0thWkpxOXN1al91cW5TRGVJbnkzVVJhSVZ1ZE5HVFc2ZUs0V3A3enFObjFOd2xsQ2lFNUpSaWQwaDhXQmROb1d5YVl2MjZh?oc=5",
-      "source": "Lebensmittel Zeitung",
-      "source_url": "https://www.lebensmittelzeitung.net",
-      "published": "2026-11-04T12:57:32+00:00",
-      "score": 70,
-      "category": "Konsumenten",
-      "score_detail": {
-        "Thema": 30,
-        "Quelle": 20,
-        "Aktualität": 15,
-        "Tragweite (Schlüsselwörter)": 5
-      }
-    },
-    {
-      "title": "Tegut-Übernahme: Bürgermeister erhebt Vorwürfe gegen Edeka",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQTEs4dFBoT0NibDBycXV2cUVINzQ4Mmc1U1RDZnZKdU50ajJJcy1aTThSajYtMUFSRXFDbndDSjA3S0N6azkzU2Y5cGVWR3IxV3ZWeEtVeE1uelREOWk1QTY3cl90ODNUcFJTYi0yaDF4eDI2dXRfRzdtY09zVFkzZEpIS2o0ZVlDMm1EVFFvOUs3MGJoNWkteF8tZlpaR21xTWQtT3AxRW13SzVmVW1fd1ZzMzBObllSamxQMlBnOA?oc=5",
-      "source": "Lebensmittel Zeitung",
-      "source_url": "https://www.lebensmittelzeitung.net",
-      "published": "2026-11-04T10:48:14+00:00",
-      "score": 69,
-      "category": "Handelsstrategie",
-      "score_detail": {
-        "Thema": 24,
-        "Quelle": 20,
-        "Aktualität": 15,
-        "Tragweite (Schlüsselwörter)": 10
-      }
-    },
-    {
-      "title": "Lagerflächen stark gefragt: Flächenumsatz von Logistikimmobilien wächst",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9SWWY4R1RkeG4xdGRFVW5YSUxCQW8xSnVzZzN5bVllc0RWekVxTEEzVWlGM2pvbUFLWGdFb09VSG5KbTdobFM2dGlJcERCNHZ1YmFUXy1GMEpwVzhNemxtbng1MEkxVGFfekhjVmpNOA?oc=5",
+      "title": "Von Lagerplanung bis Robotik: So integriert JD.com KI in seine Geschäftsabläufe",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9JTV9LcGVhUW9EbE9JY0tMeEluX1JTSVZReTlmeWYxTWxvNlA4RERtWWY4TExwLU9Jb3NSVzZaOEJBX2RuZnN5QTFGdWxPVXd6cTh0OHpUTFc2MjdMOERwUVctRWpIdEl4TG9aRFdFRlZmM0V5RkpmWDRn?oc=5",
       "source": "RETAIL-NEWS Deutschland",
       "source_url": "https://retail-news.de",
-      "published": "2026-11-04T05:11:55+00:00",
+      "published": "2026-11-05T03:15:26+00:00",
       "score": 69,
-      "category": "Logistik",
+      "category": "KI & Technologie",
       "score_detail": {
         "Thema": 36,
         "Quelle": 14,
@@ -50,108 +20,138 @@
       }
     },
     {
-      "title": "LZ Audio News: EU-Kommission gibt grünes Licht für Ceconomy-Übernahme",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQejdEYTE3RGo0VEVHNlJOU2VVZmhhUkRXRy1iNVNMcEsxU1JpdWdGTWVBVEpUVVhJWkg3aG1tX0xNSXdkUjh1bGt0ZDZsTzVNM2ZNVlluczdxbjl5Q3dIdU4wVDVzNy1QazNQSk11NjB2eDNMRGpvSjQwUUxBS2lPdVp0a1NBdW9RcFMwRzFnaktmWm82U2tfVjRQS0ltUXVRWHBYeWVBUGZ3YWJqaXFtcWFZUlZkWE84NlpQYk84RzN2ZVBUelNpOVBB?oc=5",
+      "title": "Geschäftsjahr 2025/26: Sinkende Rohstoffpreise drücken Umsatz bei Barry Callebaut",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOWUtnOHdla3ZTZXpyUS1PT2h3MXVQdlZKWXYtY1RxSHNhbmdBalBQd0JvLU5JUGRIT2VXMnpqU1NiMnFrUHd4NjdjcU9jUmt0Y0cyUmpXZmlrQUI2VVJYNHpmLXhNZzI5MU9UUUIyR1lzVE9YeEs3T3E1YllkcFY1NWhxaFZJU09JcGVqTTBsRnZNYXNkR0RsRk5zOVlBeHFTeHpvQ1JpU0c5X2IzcEpqUV9WM0ZMWV80QWd5ck43ZmVfRm1hcGJoTGh5Y3dLRGYyUDVLRGhXVDZwVVFlc1ZB?oc=5",
       "source": "Lebensmittel Zeitung",
       "source_url": "https://www.lebensmittelzeitung.net",
-      "published": "2026-11-03T16:45:00+00:00",
-      "score": 67,
+      "published": "2026-11-04T12:28:00+00:00",
+      "score": 68,
       "category": "Handelsstrategie",
       "score_detail": {
-        "Thema": 24,
+        "Thema": 30,
         "Quelle": 20,
         "Aktualität": 13,
-        "Tragweite (Schlüsselwörter)": 10
-      }
-    },
-    {
-      "title": "Otto Group und Sereact automatisieren Retouren mit KI-Technologie von NVIDIA",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5pbUhDckdLbERkR0pHUDkydVp3dm5icnk2V0U2dEI4UDktd1A1aWhnZjk3ZkpqaThZTlM1ODgtbUN2bTdrVGxBTXc0RGNZMHNqVjBFVHV3WTlkMmdESTJsc1Vzdm43X2d5YlFEVk1VZjZJSDNkeGtXSw?oc=5",
-      "source": "RETAIL-NEWS Deutschland",
-      "source_url": "https://retail-news.de",
-      "published": "2026-11-02T14:07:59+00:00",
-      "score": 66,
-      "category": "KI & Technologie",
-      "score_detail": {
-        "Thema": 36,
-        "Quelle": 14,
-        "Aktualität": 11,
         "Tragweite (Schlüsselwörter)": 5
       }
     },
     {
-      "title": "HDE geht für November und Dezember von 2 % Umsatzplus aus - Prognose: Weihnachtsgeschäft im Einzelhandel trotzt der Krise",
-      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPS3lZNXk0R19kR2hGZDgyX012RDkzemxGbTd2ZkczV3RSSTEwbXJFNDA2V0tKcWNqcHJOTDV3eVhfdDdjV2hBXzZjLWk5YmtnR251dTdSQ2ZBSVRXMVVzaTlhekRIM2wwenlkbGczNl9yUmJkVC1oc3dIQ3JIOGZxelRhUHJ0SlB1S2t5VWgwbUhWMy14WVIwY0F5TWtiMXdLdE9KUHU2ZHpiNVpjNlFCU0pzQ1N5Tmh1M0VQd0lqSWE0V0FPbU8zazBuaUVnME4zLWxMSFJnLUE2eTFMOVg1OURhUXFTbzdpV1V2SzExY1FfbnlWUTJtUk5Bcjg5WlJkenNN?oc=5",
-      "source": "Handelsverband Deutschland (HDE)",
-      "source_url": "https://einzelhandel.de",
-      "published": "2026-11-03T09:33:29+00:00",
-      "score": 65,
-      "category": "Handelsstrategie",
+      "title": "Konsumentenstudie: Verbraucher zweifeln an Schnäppchen im Handel",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQLU5RZXVVVVZIZmNENXVPOXBmRkNQaXVQY2FQemhKNHZFUl9iaDJ0bzZfWnhYanVERWtkY2dEbElvQWNMRkNsYVpyai0xNF9odVNEQ3VrRWdNWHA3MHlORWxqcTFKNGt0WXVuUGg2d3NNeHBaZWVtWWRpeW9FZ0thWkpxOXN1al91cW5TRGVJbnkzVVJhSVZ1ZE5HVFc2ZUs0V3A3enFObjFOd2xsQ2lFNUpSaWQwaDhXQmROb1d5YVl2MjZh?oc=5",
+      "source": "Lebensmittel Zeitung",
+      "source_url": "https://www.lebensmittelzeitung.net",
+      "published": "2026-11-04T10:15:00+00:00",
+      "score": 67,
+      "category": "Konsumenten",
       "score_detail": {
         "Thema": 30,
-        "Quelle": 18,
+        "Quelle": 20,
         "Aktualität": 12,
         "Tragweite (Schlüsselwörter)": 5
       }
     },
     {
-      "title": "LZ Audio News: Ehemaliger Hakle-Hersteller stellt Insolvenzantrag",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNa3hVeGszbFVRZEdZcDlDRWVyZFVPZDJCM0hleVNQRnE3MXZhSndrYmJuTWZBOXRCRllPYmhCUnE2OG1FdFBBaDBJLTBGM3VhOFJNX0V3LUJ6eTRuWEpuVzE2R0QtVjN6OU5GQTV5LXRzTUdZSHNFLTNOZm02a0tZc3pDMVpKSlJBMXFBcUtVT0ZSNWF2YTV0N2xzbXBsTTRuU0dHMS1BUm1oSjdUcTdjbXNDR0w5ME4xZjZGRXhqX1Y?oc=5",
-      "source": "Lebensmittel Zeitung",
-      "source_url": "https://www.lebensmittelzeitung.net",
-      "published": "2026-11-02T17:15:00+00:00",
-      "score": 65,
-      "category": "Handelsstrategie",
+      "title": "Lagerflächen stark gefragt: Flächenumsatz von Logistikimmobilien wächst",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9SWWY4R1RkeG4xdGRFVW5YSUxCQW8xSnVzZzN5bVllc0RWekVxTEEzVWlGM2pvbUFLWGdFb09VSG5KbTdobFM2dGlJcERCNHZ1YmFUXy1GMEpwVzhNemxtbng1MEkxVGFfekhjVmpNOA?oc=5",
+      "source": "RETAIL-NEWS Deutschland",
+      "source_url": "https://retail-news.de",
+      "published": "2026-11-04T05:11:55+00:00",
+      "score": 67,
+      "category": "Logistik",
       "score_detail": {
-        "Thema": 24,
-        "Quelle": 20,
-        "Aktualität": 11,
-        "Tragweite (Schlüsselwörter)": 10
-      }
-    },
-    {
-      "title": "Uber: Diese Strategie macht die Delivery-Hero-Übernahme möglich",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxORlZlS0M3YWdMRzkzMU1tQzAzWUg5aUs0aExFSlVQc1JteDBiaGFNYzlHcURYRGFCWmV0X01SZ0N5SWZXcTJMU2llNTFVRExIYzh2WGVfSXR4QkFIREZ0WW1JVERHNGZuT2RUOU0wUC05TnlmVXFRRU0yamIzVFpDTXAtZnZiOTFzSnR3b2ltSm8wa3JyeEpCbVRoQzlfY2ZSYjF2Z2t6YkZSa29jNUVpaWdtMENpU3F4X05uenI1QzF1R2FoMXNvM1loUklleXRkc005dGh2MA?oc=5",
-      "source": "Handelsblatt",
-      "source_url": "https://www.handelsblatt.com",
-      "published": "2026-11-02T14:28:25+00:00",
-      "score": 65,
-      "category": "Handelsstrategie",
-      "score_detail": {
-        "Thema": 30,
+        "Thema": 36,
         "Quelle": 14,
-        "Aktualität": 11,
-        "Tragweite (Schlüsselwörter)": 10
-      }
-    },
-    {
-      "title": "Statistisches Bundesamt: Einzelhandel verliert Umsatz im September",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQTGJlUUdzb0x4WFFJV0lKajhIR21EZnhCU0MyN3JsMFJxZ09jMXBRdWplSXhmcmdPY0VPVl9IUWxQV29tNkVWZkpDaEsxbUR0c1RRTlFIaGhadTRyUG55eUlBZG0yS0RudEhYdm9XMVAwb1NnZTB2RlZOQnd2azRmLVpEdzkzQnFoMDNOUGRNZm43S1IyRzN2SjBtQ1d6R0xudmR0N1lPUndrTzQtX01CdVNnU0NKc0RMSXVBQzk0WXlRSUFnQ3c?oc=5",
-      "source": "Lebensmittel Zeitung",
-      "source_url": "https://www.lebensmittelzeitung.net",
-      "published": "2026-11-02T07:42:00+00:00",
-      "score": 65,
-      "category": "Handelsstrategie",
-      "score_detail": {
-        "Thema": 30,
-        "Quelle": 20,
-        "Aktualität": 10,
+        "Aktualität": 12,
         "Tragweite (Schlüsselwörter)": 5
       }
     },
     {
-      "title": "Einkaufsagent: Zalando lässt KI-Agenten bei anderen Händlern kaufen",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNNy1fUzgxOTlSakV1TDNXLWdYWXJZdWw4LVlZMzk1WFgtOE9reTUyOHZjV2lHR0ZsWS03VnRQQmx0dzdpaDFSR0hIRWxtbktPc29oZkpfcHpuZnVPLTFRc25LVFpnOWtJYnIzMGFXbjdFc1ZyQnNIeVpPODdmRFYwc2FKUi1mdkR0RndmM2ptR1gzZ192VjFfaXVHcm1LMjZ1bkFyU0llYThoejd1WHdQTWhCMW9uR1ZlQWFEYndwaU9nQS1Tbkd1ODlKZkFwZHQtdTlF?oc=5",
+      "title": "Tegut-Übernahme: Bürgermeister erhebt Vorwürfe gegen Edeka",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQTEs4dFBoT0NibDBycXV2cUVINzQ4Mmc1U1RDZnZKdU50ajJJcy1aTThSajYtMUFSRXFDbndDSjA3S0N6azkzU2Y5cGVWR3IxV3ZWeEtVeE1uelREOWk1QTY3cl90ODNUcFJTYi0yaDF4eDI2dXRfRzdtY09zVFkzZEpIS2o0ZVlDMm1EVFFvOUs3MGJoNWkteF8tZlpaR21xTWQtT3AxRW13SzVmVW1fd1ZzMzBObllSamxQMlBnOA?oc=5",
       "source": "Lebensmittel Zeitung",
       "source_url": "https://www.lebensmittelzeitung.net",
-      "published": "2026-11-04T12:43:18+00:00",
+      "published": "2026-11-04T07:00:00+00:00",
+      "score": 66,
+      "category": "Handelsstrategie",
+      "score_detail": {
+        "Thema": 24,
+        "Quelle": 20,
+        "Aktualität": 12,
+        "Tragweite (Schlüsselwörter)": 10
+      }
+    },
+    {
+      "title": "OpenAI stellt Images 2.6 vor: Schnellere KI-Bilder und animierte GIFs",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNS2k2MllwNDRxcExRWklyNTB0NTZrMngxREJZTHJ5bGlTVnliaGVRRjhMcHZJcXpHSC1PWV9xVmttOGlSUkkzVU9sYjlHNy03Vmh2RFBOOWZKZEVhYy15eTh4N1AxclhKM0JFV0ZUb1lEczF6RHY2NUVJMm9qMFZ2Qw?oc=5",
+      "source": "RETAIL-NEWS Deutschland",
+      "source_url": "https://retail-news.de",
+      "published": "2026-11-05T14:32:02+00:00",
       "score": 64,
       "category": "KI & Technologie",
+      "score_detail": {
+        "Thema": 30,
+        "Quelle": 14,
+        "Aktualität": 15,
+        "Tragweite (Schlüsselwörter)": 5
+      }
+    },
+    {
+      "title": "Globus meldet höheres Ergebnis bei schwacher Konsumstimmung",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPd3lxXzl3Q1NPeXdPUnpiZlJNQ0RPb29FbkJVeEdBNUt0UTdOWnhncU1CUkNXRmFnSGp2eVU1M1VoWEVHUG1XcS04Tl9SYURQSXJuanJEQm9KeUpGSVRBR3RUaDVNVm1xb1FTRXFia0IwendHVGh2bkp5SkQzVzFCZi1rQUJ2RFQ0azZrY2lYcXZodERzdTlIdEJUSm9zOE43TVlmM1lzanJOQlZmdFc3aXZsbw?oc=5",
+      "source": "stores+shops",
+      "source_url": "https://www.stores-shops.de",
+      "published": "2026-11-05T10:43:50+00:00",
+      "score": 64,
+      "category": "Konsumenten",
       "score_detail": {
         "Thema": 24,
         "Quelle": 20,
         "Aktualität": 15,
         "Tragweite (Schlüsselwörter)": 5
+      }
+    },
+    {
+      "title": "Drittes Quartal: Hellofresh meldet weniger Umsatz und mehr Gewinn",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNNFpFa3ZyZjhwZm9FQWdzOGtqdGJfWkRaeVBHTDhsTWp5VTFQNGFUUWtHdnI4WU9NNWlWbVdMem80bjlXYjg0dWl6a3lBMldZajk4dzFYXy1rUDZNZ3JYQkhWSDVOS2xWMTk3aGxLeW1DTUc1bW9KODB5aE1TcUdFVGMxQUFJSG1uVnlacFloMEFUOXZZY2Zfb2V2eWxpRDN1SnlGa3V6RW5ZakFCeC1IVC1tQ2xNdVgtWERZcU85WXkySkpFS05v?oc=5",
+      "source": "Lebensmittel Zeitung",
+      "source_url": "https://www.lebensmittelzeitung.net",
+      "published": "2026-11-05T10:25:00+00:00",
+      "score": 64,
+      "category": "Handelsstrategie",
+      "score_detail": {
+        "Thema": 24,
+        "Quelle": 20,
+        "Aktualität": 15,
+        "Tragweite (Schlüsselwörter)": 5
+      }
+    },
+    {
+      "title": "Konsumgüter: Kraft Heinz verkauft Kaffeesparte in Nordamerika",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNU2toY1hvMml3VTdPS0Y1RXNMV1BmT3ZGeTdUdlpuWDlQcHNOdzZxLXFuMnRnNUpvRjhqX3lGUEFxREV3bkhLVl85ZXZYd3BiNVRZUUlTZjdEVjJJc0ZMZmM1UkdoMkVZTjRBblpmSnBsVW90UF9GQVdSZUYyV2FqZy1Jci1NZ2VyNGY0anlkdWtUWW9wZUxVT1A1ODE5UXJRXzhleFp4cVBWdDlETzk1TndodTc3MEJiNGdDZHVWQzh6SC1i?oc=5",
+      "source": "Lebensmittel Zeitung",
+      "source_url": "https://www.lebensmittelzeitung.net",
+      "published": "2026-11-05T09:46:00+00:00",
+      "score": 64,
+      "category": "Konsumenten",
+      "score_detail": {
+        "Thema": 24,
+        "Quelle": 20,
+        "Aktualität": 15,
+        "Tragweite (Schlüsselwörter)": 5
+      }
+    },
+    {
+      "title": "Freigabe: EU-Kommission gibt grünes Licht für Ceconomy-Übernahme",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQUlZlWXlUeW9ZcDJmbzF2cjltc3FDa05HdlF5aDcyeDBOM0pUQ0pURUhBd0YxdkkxWTBUOXJzd0UzeWVYNzUxT3pfcEdSYWc1ZXQ5em1ycnhLVlh0bGZyRy13OGRQY2pvSFN2N3p2VjdJeE53ZXc1Z2tiVTJycjVsbGh3amZmSlJvRjVzYkN3VENUeEttdVNzbDZvZEs3VnJGS3FteDh2bDFfMDJEekx0WTg5VC1hNkt1QmpNODYxV3dyUHFDOEw4?oc=5",
+      "source": "Lebensmittel Zeitung",
+      "source_url": "https://www.lebensmittelzeitung.net",
+      "published": "2026-11-03T11:00:00+00:00",
+      "score": 64,
+      "category": "Handelsstrategie",
+      "score_detail": {
+        "Thema": 24,
+        "Quelle": 20,
+        "Aktualität": 10,
+        "Tragweite (Schlüsselwörter)": 10
       }
     }
   ]
