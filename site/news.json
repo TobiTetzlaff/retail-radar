@@ -1,36 +1,36 @@
 {
-  "generated_at": "2026-11-05T14:53:59.009994+00:00",
+  "generated_at": "2026-11-06T14:32:11.026709+00:00",
   "window_days": 7,
-  "candidate_count": 181,
+  "candidate_count": 164,
   "errors_count": 0,
   "articles": [
+    {
+      "title": "Insolvenz: Etwa 60 Filialen von Mäc Geiz schließen, 123 bleiben",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQcEgwSEhGbFJybTNMTFkzTnBFa3ZXMEZvcmJ5ZXR6aHc3aHN1UFB6alhUSm1WZU5tNjVpWjhUaDFwZmwyclE4ZjVvUjFSRERBbGJoSjNoZHNyU185ejRTaldtSTRjQTgzdERhc2tHSzNiRkxobnlwVDZsbVc0THdtZGU0VGRTYVg5bWVneS1QTGhjTFRXeUJzczc1WjhxZlI1eFJGemFWR2tWNzJqb2R5YUxmbGhNNTU0YTM3UnFhN0FEYURackE?oc=5",
+      "source": "Handelsblatt",
+      "source_url": "https://www.handelsblatt.com",
+      "published": "2026-11-06T11:21:43+00:00",
+      "score": 69,
+      "category": "Handelsstrategie",
+      "score_detail": {
+        "Thema": 30,
+        "Quelle": 14,
+        "Aktualität": 15,
+        "Tragweite (Schlüsselwörter)": 10
+      }
+    },
     {
       "title": "Von Lagerplanung bis Robotik: So integriert JD.com KI in seine Geschäftsabläufe",
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9JTV9LcGVhUW9EbE9JY0tMeEluX1JTSVZReTlmeWYxTWxvNlA4RERtWWY4TExwLU9Jb3NSVzZaOEJBX2RuZnN5QTFGdWxPVXd6cTh0OHpUTFc2MjdMOERwUVctRWpIdEl4TG9aRFdFRlZmM0V5RkpmWDRn?oc=5",
       "source": "RETAIL-NEWS Deutschland",
       "source_url": "https://retail-news.de",
       "published": "2026-11-05T03:15:26+00:00",
-      "score": 69,
+      "score": 67,
       "category": "KI & Technologie",
       "score_detail": {
         "Thema": 36,
         "Quelle": 14,
-        "Aktualität": 14,
-        "Tragweite (Schlüsselwörter)": 5
-      }
-    },
-    {
-      "title": "Geschäftsjahr 2025/26: Sinkende Rohstoffpreise drücken Umsatz bei Barry Callebaut",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOWUtnOHdla3ZTZXpyUS1PT2h3MXVQdlZKWXYtY1RxSHNhbmdBalBQd0JvLU5JUGRIT2VXMnpqU1NiMnFrUHd4NjdjcU9jUmt0Y0cyUmpXZmlrQUI2VVJYNHpmLXhNZzI5MU9UUUIyR1lzVE9YeEs3T3E1YllkcFY1NWhxaFZJU09JcGVqTTBsRnZNYXNkR0RsRk5zOVlBeHFTeHpvQ1JpU0c5X2IzcEpqUV9WM0ZMWV80QWd5ck43ZmVfRm1hcGJoTGh5Y3dLRGYyUDVLRGhXVDZwVVFlc1ZB?oc=5",
-      "source": "Lebensmittel Zeitung",
-      "source_url": "https://www.lebensmittelzeitung.net",
-      "published": "2026-11-04T12:28:00+00:00",
-      "score": 68,
-      "category": "Handelsstrategie",
-      "score_detail": {
-        "Thema": 30,
-        "Quelle": 20,
-        "Aktualität": 13,
+        "Aktualität": 12,
         "Tragweite (Schlüsselwörter)": 5
       }
     },
@@ -40,12 +40,12 @@
       "source": "Lebensmittel Zeitung",
       "source_url": "https://www.lebensmittelzeitung.net",
       "published": "2026-11-04T10:15:00+00:00",
-      "score": 67,
+      "score": 65,
       "category": "Konsumenten",
       "score_detail": {
         "Thema": 30,
         "Quelle": 20,
-        "Aktualität": 12,
+        "Aktualität": 10,
         "Tragweite (Schlüsselwörter)": 5
       }
     },
@@ -55,13 +55,43 @@
       "source": "RETAIL-NEWS Deutschland",
       "source_url": "https://retail-news.de",
       "published": "2026-11-04T05:11:55+00:00",
-      "score": 67,
+      "score": 65,
       "category": "Logistik",
       "score_detail": {
         "Thema": 36,
         "Quelle": 14,
-        "Aktualität": 12,
+        "Aktualität": 10,
         "Tragweite (Schlüsselwörter)": 5
+      }
+    },
+    {
+      "title": "Nonfood-Discounter: Mäc-Geiz schließt jede dritte Filiale",
+      "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPTzUzaWEyeU40dkVDTndRVURjcEVZSzRhYXFfV25zSkJrLUxJRkdZQ1lMb0xIVkJuX3dTZVEyRDhJaWFqVjBmV05xSU1sSklpc2k4OHlfS3BKeUVNM2NUaWNOTUptRmNMalpMTm9FRFNWRTVNekJJS1IxcWc4TU44OFF3OFlkT2JOYkl3dWVhSWlNRnVTcEdtZ01SbEQ0TFpBaEJJZVNIRXZPeU83RWZfYlF2c3lRdWREWVpBSnNPLWRvMFR5ZDI5WnJvOEtYUEZiVXp1cVdZZ2xRR1JNVjJvRjQwM0xNN1dfVWhSUTlfUDlXLVI0R0lZUDN3Z0x6VDNmbjg3SU82dFdZNzljMFNpUw?oc=5",
+      "source": "Lebensmittel Zeitung",
+      "source_url": "https://www.lebensmittelzeitung.net",
+      "published": "2026-11-06T11:45:00+00:00",
+      "score": 64,
+      "category": "Handelsstrategie",
+      "score_detail": {
+        "Thema": 24,
+        "Quelle": 20,
+        "Aktualität": 15,
+        "Tragweite (Schlüsselwörter)": 5
+      }
+    },
+    {
+      "title": "Signa-Insolvenz - Gericht verurteilt René Benko wegen Betrugs an Investor",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxORzZTZ25Jd0x6OEE3ZWNtdXdZOHZ6cHZ3Wkxid2V1U0ZQVTlVMDJqWTY0TnRNeE40UjJhRGhjU2lqMU5sOV9IWnpWVFM3N1hPaHdoOG1sRmRnSjZDemw4VE1jTmpNNVZLLVhPbHZKT3JSazFRUS1xY2RRUmlLWmJRWTQxWi00S19TYXl1WXlTMkluMVRlR1NDV3ZMeWhIN0FXSGJZSkJIbi1CUUduLTBvNDR4WGVGVTdZQ0NGb3J6TEhUZ0tkeUdDZGdWUkh5enFXdk5idUM3WEYtUzJVb0Jyeg?oc=5",
+      "source": "Lebensmittelpraxis.de",
+      "source_url": "https://lebensmittelpraxis.de",
+      "published": "2026-11-06T08:13:00+00:00",
+      "score": 64,
+      "category": "Handelsstrategie",
+      "score_detail": {
+        "Thema": 24,
+        "Quelle": 16,
+        "Aktualität": 14,
+        "Tragweite (Schlüsselwörter)": 10
       }
     },
     {
@@ -70,87 +100,57 @@
       "source": "Lebensmittel Zeitung",
       "source_url": "https://www.lebensmittelzeitung.net",
       "published": "2026-11-04T07:00:00+00:00",
-      "score": 66,
-      "category": "Handelsstrategie",
-      "score_detail": {
-        "Thema": 24,
-        "Quelle": 20,
-        "Aktualität": 12,
-        "Tragweite (Schlüsselwörter)": 10
-      }
-    },
-    {
-      "title": "OpenAI stellt Images 2.6 vor: Schnellere KI-Bilder und animierte GIFs",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNS2k2MllwNDRxcExRWklyNTB0NTZrMngxREJZTHJ5bGlTVnliaGVRRjhMcHZJcXpHSC1PWV9xVmttOGlSUkkzVU9sYjlHNy03Vmh2RFBOOWZKZEVhYy15eTh4N1AxclhKM0JFV0ZUb1lEczF6RHY2NUVJMm9qMFZ2Qw?oc=5",
-      "source": "RETAIL-NEWS Deutschland",
-      "source_url": "https://retail-news.de",
-      "published": "2026-11-05T14:32:02+00:00",
-      "score": 64,
-      "category": "KI & Technologie",
-      "score_detail": {
-        "Thema": 30,
-        "Quelle": 14,
-        "Aktualität": 15,
-        "Tragweite (Schlüsselwörter)": 5
-      }
-    },
-    {
-      "title": "Globus meldet höheres Ergebnis bei schwacher Konsumstimmung",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPd3lxXzl3Q1NPeXdPUnpiZlJNQ0RPb29FbkJVeEdBNUt0UTdOWnhncU1CUkNXRmFnSGp2eVU1M1VoWEVHUG1XcS04Tl9SYURQSXJuanJEQm9KeUpGSVRBR3RUaDVNVm1xb1FTRXFia0IwendHVGh2bkp5SkQzVzFCZi1rQUJ2RFQ0azZrY2lYcXZodERzdTlIdEJUSm9zOE43TVlmM1lzanJOQlZmdFc3aXZsbw?oc=5",
-      "source": "stores+shops",
-      "source_url": "https://www.stores-shops.de",
-      "published": "2026-11-05T10:43:50+00:00",
-      "score": 64,
-      "category": "Konsumenten",
-      "score_detail": {
-        "Thema": 24,
-        "Quelle": 20,
-        "Aktualität": 15,
-        "Tragweite (Schlüsselwörter)": 5
-      }
-    },
-    {
-      "title": "Drittes Quartal: Hellofresh meldet weniger Umsatz und mehr Gewinn",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNNFpFa3ZyZjhwZm9FQWdzOGtqdGJfWkRaeVBHTDhsTWp5VTFQNGFUUWtHdnI4WU9NNWlWbVdMem80bjlXYjg0dWl6a3lBMldZajk4dzFYXy1rUDZNZ3JYQkhWSDVOS2xWMTk3aGxLeW1DTUc1bW9KODB5aE1TcUdFVGMxQUFJSG1uVnlacFloMEFUOXZZY2Zfb2V2eWxpRDN1SnlGa3V6RW5ZakFCeC1IVC1tQ2xNdVgtWERZcU85WXkySkpFS05v?oc=5",
-      "source": "Lebensmittel Zeitung",
-      "source_url": "https://www.lebensmittelzeitung.net",
-      "published": "2026-11-05T10:25:00+00:00",
-      "score": 64,
-      "category": "Handelsstrategie",
-      "score_detail": {
-        "Thema": 24,
-        "Quelle": 20,
-        "Aktualität": 15,
-        "Tragweite (Schlüsselwörter)": 5
-      }
-    },
-    {
-      "title": "Konsumgüter: Kraft Heinz verkauft Kaffeesparte in Nordamerika",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNU2toY1hvMml3VTdPS0Y1RXNMV1BmT3ZGeTdUdlpuWDlQcHNOdzZxLXFuMnRnNUpvRjhqX3lGUEFxREV3bkhLVl85ZXZYd3BiNVRZUUlTZjdEVjJJc0ZMZmM1UkdoMkVZTjRBblpmSnBsVW90UF9GQVdSZUYyV2FqZy1Jci1NZ2VyNGY0anlkdWtUWW9wZUxVT1A1ODE5UXJRXzhleFp4cVBWdDlETzk1TndodTc3MEJiNGdDZHVWQzh6SC1i?oc=5",
-      "source": "Lebensmittel Zeitung",
-      "source_url": "https://www.lebensmittelzeitung.net",
-      "published": "2026-11-05T09:46:00+00:00",
-      "score": 64,
-      "category": "Konsumenten",
-      "score_detail": {
-        "Thema": 24,
-        "Quelle": 20,
-        "Aktualität": 15,
-        "Tragweite (Schlüsselwörter)": 5
-      }
-    },
-    {
-      "title": "Freigabe: EU-Kommission gibt grünes Licht für Ceconomy-Übernahme",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQUlZlWXlUeW9ZcDJmbzF2cjltc3FDa05HdlF5aDcyeDBOM0pUQ0pURUhBd0YxdkkxWTBUOXJzd0UzeWVYNzUxT3pfcEdSYWc1ZXQ5em1ycnhLVlh0bGZyRy13OGRQY2pvSFN2N3p2VjdJeE53ZXc1Z2tiVTJycjVsbGh3amZmSlJvRjVzYkN3VENUeEttdVNzbDZvZEs3VnJGS3FteDh2bDFfMDJEekx0WTg5VC1hNkt1QmpNODYxV3dyUHFDOEw4?oc=5",
-      "source": "Lebensmittel Zeitung",
-      "source_url": "https://www.lebensmittelzeitung.net",
-      "published": "2026-11-03T11:00:00+00:00",
       "score": 64,
       "category": "Handelsstrategie",
       "score_detail": {
         "Thema": 24,
         "Quelle": 20,
         "Aktualität": 10,
+        "Tragweite (Schlüsselwörter)": 10
+      }
+    },
+    {
+      "title": "Studie : Handel will verstärkt KI-Agenten einsetzen",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPRVkxb19hdHZ5bFEzeW5NdXNpS25NTW5RSmZaSVMtWXVZMWRjREhqWmVFdVhBaGpzOFpFSzA3U08zY3FTZGh1OGthX1Q0R1VBSVV0RXpfaGk5YWJ1dER3Z3lhNE5KZjFWMUR2VHJXbXdVWmFGdDhGYzdWNDRGYzFvZ21iVzgtTEF2WDBBcm1nYXdTeV94NDR4cy1jQkt1cUdHb1Mwc3FkcXJxWk0yamxCVFZ0cjk4d19INnJz?oc=5",
+      "source": "Lebensmittel Zeitung",
+      "source_url": "https://www.lebensmittelzeitung.net",
+      "published": "2026-11-06T07:00:00+00:00",
+      "score": 63,
+      "category": "KI & Technologie",
+      "score_detail": {
+        "Thema": 24,
+        "Quelle": 20,
+        "Aktualität": 14,
+        "Tragweite (Schlüsselwörter)": 5
+      }
+    },
+    {
+      "title": "Quick Commerce: Amazon integriert Uber Eats in Prime für US-Kunden",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0tRXhYTXVwY2RCSW9XTVF5QWxtTUVOYnFhS2JlM0dZaWNOUFdqMW91VndPdUc5a29JVWFUQmZISFhnblhnZEFvTmd0N1Q2OUZkcXd3Rlp0aXpoOXh2TkpXdGx6RXJxTVRSaU9kNg?oc=5",
+      "source": "RETAIL-NEWS Deutschland",
+      "source_url": "https://retail-news.de",
+      "published": "2026-11-06T05:12:31+00:00",
+      "score": 63,
+      "category": "Konsumenten",
+      "score_detail": {
+        "Thema": 30,
+        "Quelle": 14,
+        "Aktualität": 14,
+        "Tragweite (Schlüsselwörter)": 5
+      }
+    },
+    {
+      "title": "Gildan wächst nach HanesBrands-Übernahme kräftig und streicht langfristige Finanzziele",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE52RkE2VHpSbjlYV0VyVnZuaUdsWnBvWDVQMzJiRlRUMHhOMkRxbzlaRUY4M2VEWHVBQzFyenFVZTI2dUUwX1dNVUxldkxfSjRKRVI2YjFoZWE4cl8tYmNzVWsyS19pMmFiQlR6LUVCTlMzaVRLcnV0UFduaXo?oc=5",
+      "source": "RETAIL-NEWS Deutschland",
+      "source_url": "https://retail-news.de",
+      "published": "2026-11-06T04:27:47+00:00",
+      "score": 62,
+      "category": "Handelsstrategie",
+      "score_detail": {
+        "Thema": 24,
+        "Quelle": 14,
+        "Aktualität": 14,
         "Tragweite (Schlüsselwörter)": 10
       }
     }
