@@ -1,21 +1,51 @@
 {
-  "generated_at": "2026-11-06T14:32:11.026709+00:00",
+  "generated_at": "2026-11-07T13:28:34.411191+00:00",
   "window_days": 7,
-  "candidate_count": 164,
+  "candidate_count": 163,
   "errors_count": 0,
   "articles": [
+    {
+      "title": "Übernahme: SoftBank und ABB prüfen China-Abspaltung zur Rettung von Robotik-Deal",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOQ3h5WFVUYU1IQkFNcUJDRTBhcFBxMDlhcERMOWYtZDNNcXQxcm0yR1ZEWDVqa1VmOTRybDltckpGSWVrV3BiOGJ3RVh1eEdnWmRqTFpYeUswSFQzUDAwazh5bHdGUmpyTjZ6UEc2NVhtdW9UdXFoSmJYclJKam5LODRFYXp0LWxCYlVCRnVQMGpuWGNUM3AyemZKX2htTU5vdXB2ZE05RTNJMnRMWnh5NUFuai1XOEwzTlA5a2c2dF9ZVlhUaUdsSTM3UQ?oc=5",
+      "source": "WirtschaftsWoche",
+      "source_url": "https://www.wiwo.de",
+      "published": "2026-11-07T11:55:06+00:00",
+      "score": 67,
+      "category": "KI & Technologie",
+      "score_detail": {
+        "Thema": 30,
+        "Quelle": 12,
+        "Aktualität": 15,
+        "Tragweite (Schlüsselwörter)": 10
+      }
+    },
+    {
+      "title": "Brandenburg Berlin: Mäc-Geiz-Insolvenz: Zwei Drittel der Filialen bleiben geöffnet",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQY2N0ZFlVcXJvcjFSV1g0U0hJTzlGTVpOYjBlYW1tcFJ2ejl5WVVET0hfM2NqQXM3bkwzOUVmZjc4b19ZQlNpRUJTaG1vVU1SR0VZUzVKTjFacnBnZ0tYWEJBME00em1jTzNpRFNiQi1LWFlzalJRV2hCaXVVLXppZDRVbnZFOFJ6U0VBV1JMNUJIQV9jUkE5dWtCbElHQVVFODdqQzRRQ1dQb3ZVRExtWlowY2NNOWFXdVk0d0lYanRTZTR0VDJRZUhTVTEyZGFROEw4dFA4eElOZw?oc=5",
+      "source": "tagesschau.de",
+      "source_url": "https://www.tagesschau.de",
+      "published": "2026-11-07T09:15:00+00:00",
+      "score": 67,
+      "category": "Handelsstrategie",
+      "score_detail": {
+        "Thema": 30,
+        "Quelle": 12,
+        "Aktualität": 15,
+        "Tragweite (Schlüsselwörter)": 10
+      }
+    },
     {
       "title": "Insolvenz: Etwa 60 Filialen von Mäc Geiz schließen, 123 bleiben",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQcEgwSEhGbFJybTNMTFkzTnBFa3ZXMEZvcmJ5ZXR6aHc3aHN1UFB6alhUSm1WZU5tNjVpWjhUaDFwZmwyclE4ZjVvUjFSRERBbGJoSjNoZHNyU185ejRTaldtSTRjQTgzdERhc2tHSzNiRkxobnlwVDZsbVc0THdtZGU0VGRTYVg5bWVneS1QTGhjTFRXeUJzczc1WjhxZlI1eFJGemFWR2tWNzJqb2R5YUxmbGhNNTU0YTM3UnFhN0FEYURackE?oc=5",
       "source": "Handelsblatt",
       "source_url": "https://www.handelsblatt.com",
       "published": "2026-11-06T11:21:43+00:00",
-      "score": 69,
+      "score": 67,
       "category": "Handelsstrategie",
       "score_detail": {
         "Thema": 30,
         "Quelle": 14,
-        "Aktualität": 15,
+        "Aktualität": 13,
         "Tragweite (Schlüsselwörter)": 10
       }
     },
@@ -25,12 +55,27 @@
       "source": "RETAIL-NEWS Deutschland",
       "source_url": "https://retail-news.de",
       "published": "2026-11-05T03:15:26+00:00",
-      "score": 67,
+      "score": 65,
       "category": "KI & Technologie",
       "score_detail": {
         "Thema": 36,
         "Quelle": 14,
-        "Aktualität": 12,
+        "Aktualität": 10,
+        "Tragweite (Schlüsselwörter)": 5
+      }
+    },
+    {
+      "title": "Digitalisierung - Kunden gezielt und modern ansprechen",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOTTM5NEdCY3JLdk5FTEdnMmlvb2tFY3lEZ2owcGpHQTEzSDhhV3F4aDlGZFVpQ3ZEUEpLaExqcnFQdFBlMmV6SVBreFlfLU9USXE3SFV3Q1g4VGNVRHJvVnZxRlhnaVgxTmdsb1NBMC12Nkh3MDkwRE9MLS1qVy13Q2MtZm1BemlmdW1kUzBKMGFDQzVka2ZJMEdCMGpXLU5PSXdzczBtNA?oc=5",
+      "source": "Lebensmittelpraxis.de",
+      "source_url": "https://lebensmittelpraxis.de",
+      "published": "2026-11-06T10:13:43+00:00",
+      "score": 64,
+      "category": "KI & Technologie",
+      "score_detail": {
+        "Thema": 30,
+        "Quelle": 16,
+        "Aktualität": 13,
         "Tragweite (Schlüsselwörter)": 5
       }
     },
@@ -40,42 +85,27 @@
       "source": "Lebensmittel Zeitung",
       "source_url": "https://www.lebensmittelzeitung.net",
       "published": "2026-11-04T10:15:00+00:00",
-      "score": 65,
+      "score": 63,
       "category": "Konsumenten",
       "score_detail": {
         "Thema": 30,
         "Quelle": 20,
-        "Aktualität": 10,
-        "Tragweite (Schlüsselwörter)": 5
-      }
-    },
-    {
-      "title": "Lagerflächen stark gefragt: Flächenumsatz von Logistikimmobilien wächst",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9SWWY4R1RkeG4xdGRFVW5YSUxCQW8xSnVzZzN5bVllc0RWekVxTEEzVWlGM2pvbUFLWGdFb09VSG5KbTdobFM2dGlJcERCNHZ1YmFUXy1GMEpwVzhNemxtbng1MEkxVGFfekhjVmpNOA?oc=5",
-      "source": "RETAIL-NEWS Deutschland",
-      "source_url": "https://retail-news.de",
-      "published": "2026-11-04T05:11:55+00:00",
-      "score": 65,
-      "category": "Logistik",
-      "score_detail": {
-        "Thema": 36,
-        "Quelle": 14,
-        "Aktualität": 10,
+        "Aktualität": 8,
         "Tragweite (Schlüsselwörter)": 5
       }
     },
     {
       "title": "Nonfood-Discounter: Mäc-Geiz schließt jede dritte Filiale",
-      "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPTzUzaWEyeU40dkVDTndRVURjcEVZSzRhYXFfV25zSkJrLUxJRkdZQ1lMb0xIVkJuX3dTZVEyRDhJaWFqVjBmV05xSU1sSklpc2k4OHlfS3BKeUVNM2NUaWNOTUptRmNMalpMTm9FRFNWRTVNekJJS1IxcWc4TU44OFF3OFlkT2JOYkl3dWVhSWlNRnVTcEdtZ01SbEQ0TFpBaEJJZVNIRXZPeU83RWZfYlF2c3lRdWREWVpBSnNPLWRvMFR5ZDI5WnJvOEtYUEZiVXp1cVdZZ2xRR1JNVjJvRjQwM0xNN1dfVWhSUTlfUDlXLVI0R0lZUDN3Z0x6VDNmbjg3SU82dFdZNzljMFNpUw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOd3Q1emJhM3hwajFwWFAwOTl0M3pKY24wSXc1NC1jcDFGT0tOQWdEQUZFSG0yQ0hwYzZkbzJJLVlOZmN3NEkyRjNEbk44UktRdU1GSEJmQ1FGNDA3YkI1X2llYjlMTjZTdkhCa1RIZldka0ZwVk1sWnNub1V1dTBhbU5EV3JCRUxqZ3BsUlFvWDFlYlFvOWJRNjBTVHcyNDl3d0Fzb2s1Y1ktV3FEU2UyUHRIdnNjZ0hBa3Z1cQ?oc=5",
       "source": "Lebensmittel Zeitung",
       "source_url": "https://www.lebensmittelzeitung.net",
       "published": "2026-11-06T11:45:00+00:00",
-      "score": 64,
+      "score": 62,
       "category": "Handelsstrategie",
       "score_detail": {
         "Thema": 24,
         "Quelle": 20,
-        "Aktualität": 15,
+        "Aktualität": 13,
         "Tragweite (Schlüsselwörter)": 5
       }
     },
@@ -85,12 +115,12 @@
       "source": "Lebensmittelpraxis.de",
       "source_url": "https://lebensmittelpraxis.de",
       "published": "2026-11-06T08:13:00+00:00",
-      "score": 64,
+      "score": 62,
       "category": "Handelsstrategie",
       "score_detail": {
         "Thema": 24,
         "Quelle": 16,
-        "Aktualität": 14,
+        "Aktualität": 12,
         "Tragweite (Schlüsselwörter)": 10
       }
     },
@@ -100,58 +130,28 @@
       "source": "Lebensmittel Zeitung",
       "source_url": "https://www.lebensmittelzeitung.net",
       "published": "2026-11-04T07:00:00+00:00",
-      "score": 64,
-      "category": "Handelsstrategie",
-      "score_detail": {
-        "Thema": 24,
-        "Quelle": 20,
-        "Aktualität": 10,
-        "Tragweite (Schlüsselwörter)": 10
-      }
-    },
-    {
-      "title": "Studie : Handel will verstärkt KI-Agenten einsetzen",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPRVkxb19hdHZ5bFEzeW5NdXNpS25NTW5RSmZaSVMtWXVZMWRjREhqWmVFdVhBaGpzOFpFSzA3U08zY3FTZGh1OGthX1Q0R1VBSVV0RXpfaGk5YWJ1dER3Z3lhNE5KZjFWMUR2VHJXbXdVWmFGdDhGYzdWNDRGYzFvZ21iVzgtTEF2WDBBcm1nYXdTeV94NDR4cy1jQkt1cUdHb1Mwc3FkcXJxWk0yamxCVFZ0cjk4d19INnJz?oc=5",
-      "source": "Lebensmittel Zeitung",
-      "source_url": "https://www.lebensmittelzeitung.net",
-      "published": "2026-11-06T07:00:00+00:00",
-      "score": 63,
-      "category": "KI & Technologie",
-      "score_detail": {
-        "Thema": 24,
-        "Quelle": 20,
-        "Aktualität": 14,
-        "Tragweite (Schlüsselwörter)": 5
-      }
-    },
-    {
-      "title": "Quick Commerce: Amazon integriert Uber Eats in Prime für US-Kunden",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0tRXhYTXVwY2RCSW9XTVF5QWxtTUVOYnFhS2JlM0dZaWNOUFdqMW91VndPdUc5a29JVWFUQmZISFhnblhnZEFvTmd0N1Q2OUZkcXd3Rlp0aXpoOXh2TkpXdGx6RXJxTVRSaU9kNg?oc=5",
-      "source": "RETAIL-NEWS Deutschland",
-      "source_url": "https://retail-news.de",
-      "published": "2026-11-06T05:12:31+00:00",
-      "score": 63,
-      "category": "Konsumenten",
-      "score_detail": {
-        "Thema": 30,
-        "Quelle": 14,
-        "Aktualität": 14,
-        "Tragweite (Schlüsselwörter)": 5
-      }
-    },
-    {
-      "title": "Gildan wächst nach HanesBrands-Übernahme kräftig und streicht langfristige Finanzziele",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE52RkE2VHpSbjlYV0VyVnZuaUdsWnBvWDVQMzJiRlRUMHhOMkRxbzlaRUY4M2VEWHVBQzFyenFVZTI2dUUwX1dNVUxldkxfSjRKRVI2YjFoZWE4cl8tYmNzVWsyS19pMmFiQlR6LUVCTlMzaVRLcnV0UFduaXo?oc=5",
-      "source": "RETAIL-NEWS Deutschland",
-      "source_url": "https://retail-news.de",
-      "published": "2026-11-06T04:27:47+00:00",
       "score": 62,
       "category": "Handelsstrategie",
       "score_detail": {
         "Thema": 24,
-        "Quelle": 14,
-        "Aktualität": 14,
+        "Quelle": 20,
+        "Aktualität": 8,
         "Tragweite (Schlüsselwörter)": 10
+      }
+    },
+    {
+      "title": "Dennis Sagorowski / Edeka Minden-Hannover: \"Ich bin ein Flächenkind\"",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPYTRmUDMta3RXd20tVEp0MmtSOHM3TUI0UFZ0T3VVQVZYY0xFU3VOMHluUFNwbXpWUVJmV2NraElXa2VfYUFDMTJNZXZabi1ZUG5iUFJXY092ZXdpR0NwMnFiZ1kyUUVXRHRsUWhFZnJFUnlEcHJfeGktOUk2bFpEWHZtcXRoOGFfaG85VUJWMWZGYnJUS2FXOUgwc3BoTk55WUppSkN4d010UFNpUnh1cWxpWncwdEJFaWZlMWxCU2gyRWZ1NXc?oc=5",
+      "source": "Lebensmittel Zeitung",
+      "source_url": "https://www.lebensmittelzeitung.net",
+      "published": "2026-11-06T09:00:00+00:00",
+      "score": 61,
+      "category": "KI & Technologie",
+      "score_detail": {
+        "Thema": 24,
+        "Quelle": 20,
+        "Aktualität": 12,
+        "Tragweite (Schlüsselwörter)": 5
       }
     }
   ]
