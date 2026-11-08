@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-07T13:28:34.411191+00:00",
+  "generated_at": "2026-11-08T13:47:31.638210+00:00",
   "window_days": 7,
-  "candidate_count": 163,
+  "candidate_count": 153,
   "errors_count": 0,
   "articles": [
     {
@@ -10,13 +10,28 @@
       "source": "WirtschaftsWoche",
       "source_url": "https://www.wiwo.de",
       "published": "2026-11-07T11:55:06+00:00",
-      "score": 67,
+      "score": 65,
       "category": "KI & Technologie",
       "score_detail": {
         "Thema": 30,
         "Quelle": 12,
-        "Aktualität": 15,
+        "Aktualität": 13,
         "Tragweite (Schlüsselwörter)": 10
+      }
+    },
+    {
+      "title": "Einzelhandel: Preisschock im Weihnachtsgeschäft – KI-Chips verteuern Elektronik",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNNmpQNnJsRTE5UXM4UFhMaUNLY1JSSE11RTI1RVpxeUxsYUJ3Qmc3NFRZSG84R002Tk4xUlFoY25WNGw2bmxhSUNPeXU1NlNwMDAtTnZ0S0hQbzNncWZWdXZRMVpkaHJGUVBlcUhDVGEzTlN0SDMwWWEtLVRiLUFjeUtBRl9XMUJtczE1RzVEWHVVSzdSRzRGY3M1WXRSOHRPcGRhZUxsdl9GcGU3SGRIN1pTRXlaUDR2UFVDdUx3S28tZ2NOMzdIeG5uMWNpbmFLY3V5RFkzQnJKTHN4ODdENUZ4T1JxdDB1?oc=5",
+      "source": "Handelsblatt",
+      "source_url": "https://www.handelsblatt.com",
+      "published": "2026-11-08T08:54:20+00:00",
+      "score": 64,
+      "category": "KI & Technologie",
+      "score_detail": {
+        "Thema": 30,
+        "Quelle": 14,
+        "Aktualität": 15,
+        "Tragweite (Schlüsselwörter)": 5
       }
     },
     {
@@ -25,12 +40,12 @@
       "source": "tagesschau.de",
       "source_url": "https://www.tagesschau.de",
       "published": "2026-11-07T09:15:00+00:00",
-      "score": 67,
+      "score": 64,
       "category": "Handelsstrategie",
       "score_detail": {
         "Thema": 30,
         "Quelle": 12,
-        "Aktualität": 15,
+        "Aktualität": 12,
         "Tragweite (Schlüsselwörter)": 10
       }
     },
@@ -40,12 +55,42 @@
       "source": "Handelsblatt",
       "source_url": "https://www.handelsblatt.com",
       "published": "2026-11-06T11:21:43+00:00",
-      "score": 67,
+      "score": 64,
       "category": "Handelsstrategie",
       "score_detail": {
         "Thema": 30,
         "Quelle": 14,
-        "Aktualität": 13,
+        "Aktualität": 10,
+        "Tragweite (Schlüsselwörter)": 10
+      }
+    },
+    {
+      "title": "Konsumgüterkonzern: Kimberly-Clark schließt Kenvue-Übernahme ab",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQX1h2ZUFkWmV6TklBTjVvWTczQXRoODRDR05tai1jd2FVeTVpSGJtNXRtNUxvTzBFbTl1VFFuLTZRWUlseHRGQVQ3ZmltblhKWmc4dGx5Y1dJQzdBXzJNWFpFZThmSjdBNXVHRUNQSEtfRXJxZ3JEcmN0dEtqREt3LU5aYXFEZ2VCNURuVzVBZUNGQkRjUk5HVTU5NEVTWmxnb0E4RjVOZFBqaW9YYTR6b0NQWm1EZElIS3NlZWQyQVlMc1pDMHloN0N3?oc=5",
+      "source": "Lebensmittel Zeitung",
+      "source_url": "https://www.lebensmittelzeitung.net",
+      "published": "2026-11-03T07:00:00+00:00",
+      "score": 64,
+      "category": "Handelsstrategie",
+      "score_detail": {
+        "Thema": 30,
+        "Quelle": 20,
+        "Aktualität": 4,
+        "Tragweite (Schlüsselwörter)": 10
+      }
+    },
+    {
+      "title": "Gewinnverlagerung: Apple spart offenbar 2,7 Milliarden Dollar Steuern in Singapur",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNVElUSzQtT1pPWi1sWFFfcFFLQ3BCMnIxWlByazZ4OGZ2VE8zQU01VXdMeEhJajhyZHRubWtNRm1DSXlHcVFZRVdWTElfU0k3dXl2aDR2eEtRYlljQ1RYYjZYbHZpNnZPb1dGbFFiU2pJZ3lFV3JqdjVwMFN2c0ZZcUlzOGk4cWRkelNqYVhRYy1rQkhHb2RZLV9FWUxKcWFrNEpYSFVrTHBfdklYdEsxZm96eDN2Q2FiOVVCeUsxQ2JnN3RBZ3pqZFJmdExhLTVteGVOQkdjcGxEemJacWdlMW1sTUs5cm1zd2Z3?oc=5",
+      "source": "Handelsblatt",
+      "source_url": "https://www.handelsblatt.com",
+      "published": "2026-11-08T11:05:31+00:00",
+      "score": 63,
+      "category": "Logistik",
+      "score_detail": {
+        "Thema": 24,
+        "Quelle": 14,
+        "Aktualität": 15,
         "Tragweite (Schlüsselwörter)": 10
       }
     },
@@ -55,103 +100,58 @@
       "source": "RETAIL-NEWS Deutschland",
       "source_url": "https://retail-news.de",
       "published": "2026-11-05T03:15:26+00:00",
-      "score": 65,
+      "score": 63,
       "category": "KI & Technologie",
       "score_detail": {
         "Thema": 36,
         "Quelle": 14,
-        "Aktualität": 10,
+        "Aktualität": 8,
         "Tragweite (Schlüsselwörter)": 5
       }
     },
     {
-      "title": "Digitalisierung - Kunden gezielt und modern ansprechen",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOTTM5NEdCY3JLdk5FTEdnMmlvb2tFY3lEZ2owcGpHQTEzSDhhV3F4aDlGZFVpQ3ZEUEpLaExqcnFQdFBlMmV6SVBreFlfLU9USXE3SFV3Q1g4VGNVRHJvVnZxRlhnaVgxTmdsb1NBMC12Nkh3MDkwRE9MLS1qVy13Q2MtZm1BemlmdW1kUzBKMGFDQzVka2ZJMEdCMGpXLU5PSXdzczBtNA?oc=5",
-      "source": "Lebensmittelpraxis.de",
-      "source_url": "https://lebensmittelpraxis.de",
-      "published": "2026-11-06T10:13:43+00:00",
-      "score": 64,
+      "title": "Picnic verbessert KI-basierte Nachfrageprognosen und beschleunigt Modellentwicklung",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9mVFNxYlM5dG10YnFXMW5fV1E5dThhTFd0QXppQXgwUUEzMDltcnRhNzhlYU9QX0dnNlJ2WjZlb3RGX3JWMVp0SVB5VEtoc2lXdVN4eVRDeEJvWW5hdDB6LWI0WnpEWGtiTmtqVVdXZHJUX0ZMV0E?oc=5",
+      "source": "RETAIL-NEWS Deutschland",
+      "source_url": "https://retail-news.de",
+      "published": "2026-11-07T15:16:27+00:00",
+      "score": 62,
       "category": "KI & Technologie",
       "score_detail": {
         "Thema": 30,
-        "Quelle": 16,
+        "Quelle": 14,
         "Aktualität": 13,
         "Tragweite (Schlüsselwörter)": 5
       }
     },
     {
-      "title": "Konsumentenstudie: Verbraucher zweifeln an Schnäppchen im Handel",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQLU5RZXVVVVZIZmNENXVPOXBmRkNQaXVQY2FQemhKNHZFUl9iaDJ0bzZfWnhYanVERWtkY2dEbElvQWNMRkNsYVpyai0xNF9odVNEQ3VrRWdNWHA3MHlORWxqcTFKNGt0WXVuUGg2d3NNeHBaZWVtWWRpeW9FZ0thWkpxOXN1al91cW5TRGVJbnkzVVJhSVZ1ZE5HVFc2ZUs0V3A3enFObjFOd2xsQ2lFNUpSaWQwaDhXQmROb1d5YVl2MjZh?oc=5",
-      "source": "Lebensmittel Zeitung",
-      "source_url": "https://www.lebensmittelzeitung.net",
-      "published": "2026-11-04T10:15:00+00:00",
-      "score": 63,
+      "title": "Zuckersteuer auf Getränke: Viele Verbraucher würden ihren Konsum senken",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE03VDg3c3NDZHpPYWdnZUxRV3hlenRuSk1ZZURJNUU5TTA3MjRuaENnVmhJdzkzTTY3MUljM3R2bjdiUW9rSld1bmxmWmZlSDdsRFlnMG5wYUNwclViQWdvR09uZWpTRDk3ZUVzeDVHbnFWN056NXNJeQ?oc=5",
+      "source": "RETAIL-NEWS Deutschland",
+      "source_url": "https://retail-news.de",
+      "published": "2026-11-07T15:05:12+00:00",
+      "score": 62,
       "category": "Konsumenten",
       "score_detail": {
         "Thema": 30,
-        "Quelle": 20,
-        "Aktualität": 8,
-        "Tragweite (Schlüsselwörter)": 5
-      }
-    },
-    {
-      "title": "Nonfood-Discounter: Mäc-Geiz schließt jede dritte Filiale",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOd3Q1emJhM3hwajFwWFAwOTl0M3pKY24wSXc1NC1jcDFGT0tOQWdEQUZFSG0yQ0hwYzZkbzJJLVlOZmN3NEkyRjNEbk44UktRdU1GSEJmQ1FGNDA3YkI1X2llYjlMTjZTdkhCa1RIZldka0ZwVk1sWnNub1V1dTBhbU5EV3JCRUxqZ3BsUlFvWDFlYlFvOWJRNjBTVHcyNDl3d0Fzb2s1Y1ktV3FEU2UyUHRIdnNjZ0hBa3Z1cQ?oc=5",
-      "source": "Lebensmittel Zeitung",
-      "source_url": "https://www.lebensmittelzeitung.net",
-      "published": "2026-11-06T11:45:00+00:00",
-      "score": 62,
-      "category": "Handelsstrategie",
-      "score_detail": {
-        "Thema": 24,
-        "Quelle": 20,
+        "Quelle": 14,
         "Aktualität": 13,
         "Tragweite (Schlüsselwörter)": 5
       }
     },
     {
-      "title": "Signa-Insolvenz - Gericht verurteilt René Benko wegen Betrugs an Investor",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxORzZTZ25Jd0x6OEE3ZWNtdXdZOHZ6cHZ3Wkxid2V1U0ZQVTlVMDJqWTY0TnRNeE40UjJhRGhjU2lqMU5sOV9IWnpWVFM3N1hPaHdoOG1sRmRnSjZDemw4VE1jTmpNNVZLLVhPbHZKT3JSazFRUS1xY2RRUmlLWmJRWTQxWi00S19TYXl1WXlTMkluMVRlR1NDV3ZMeWhIN0FXSGJZSkJIbi1CUUduLTBvNDR4WGVGVTdZQ0NGb3J6TEhUZ0tkeUdDZGdWUkh5enFXdk5idUM3WEYtUzJVb0Jyeg?oc=5",
-      "source": "Lebensmittelpraxis.de",
-      "source_url": "https://lebensmittelpraxis.de",
-      "published": "2026-11-06T08:13:00+00:00",
-      "score": 62,
-      "category": "Handelsstrategie",
-      "score_detail": {
-        "Thema": 24,
-        "Quelle": 16,
-        "Aktualität": 12,
-        "Tragweite (Schlüsselwörter)": 10
-      }
-    },
-    {
-      "title": "Tegut-Übernahme: Bürgermeister erhebt Vorwürfe gegen Edeka",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQTEs4dFBoT0NibDBycXV2cUVINzQ4Mmc1U1RDZnZKdU50ajJJcy1aTThSajYtMUFSRXFDbndDSjA3S0N6azkzU2Y5cGVWR3IxV3ZWeEtVeE1uelREOWk1QTY3cl90ODNUcFJTYi0yaDF4eDI2dXRfRzdtY09zVFkzZEpIS2o0ZVlDMm1EVFFvOUs3MGJoNWkteF8tZlpaR21xTWQtT3AxRW13SzVmVW1fd1ZzMzBObllSamxQMlBnOA?oc=5",
-      "source": "Lebensmittel Zeitung",
-      "source_url": "https://www.lebensmittelzeitung.net",
-      "published": "2026-11-04T07:00:00+00:00",
-      "score": 62,
-      "category": "Handelsstrategie",
-      "score_detail": {
-        "Thema": 24,
-        "Quelle": 20,
-        "Aktualität": 8,
-        "Tragweite (Schlüsselwörter)": 10
-      }
-    },
-    {
-      "title": "Dennis Sagorowski / Edeka Minden-Hannover: \"Ich bin ein Flächenkind\"",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPYTRmUDMta3RXd20tVEp0MmtSOHM3TUI0UFZ0T3VVQVZYY0xFU3VOMHluUFNwbXpWUVJmV2NraElXa2VfYUFDMTJNZXZabi1ZUG5iUFJXY092ZXdpR0NwMnFiZ1kyUUVXRHRsUWhFZnJFUnlEcHJfeGktOUk2bFpEWHZtcXRoOGFfaG85VUJWMWZGYnJUS2FXOUgwc3BoTk55WUppSkN4d010UFNpUnh1cWxpWncwdEJFaWZlMWxCU2gyRWZ1NXc?oc=5",
-      "source": "Lebensmittel Zeitung",
-      "source_url": "https://www.lebensmittelzeitung.net",
-      "published": "2026-11-06T09:00:00+00:00",
+      "title": "OECD-Chef zu KI-Investitionen: Wann droht eine Marktkorrektur?",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQSVE5YjhvTWk5YTVkamhPQUFkT0VFUWVlZENYaEYzemNYa1lWbGIwVnkwaG10U0d4ZHlhaTJRTVRsLUg5VGNSWnlJbXY0T28yNUpxNks5enV3UEx2VkhQXzJZOFZ6dk5xcVNJVGxUa2xMYkt3dGF4S2lCcnVOOWYyajhmbW5uUkptazcyMkJ0V1FsZEVYRHo0X0tyem1EcWd2WWN4TzJOd3ZpdHRvNmRZ?oc=5",
+      "source": "WirtschaftsWoche",
+      "source_url": "https://www.wiwo.de",
+      "published": "2026-11-08T12:48:07+00:00",
       "score": 61,
       "category": "KI & Technologie",
       "score_detail": {
         "Thema": 24,
-        "Quelle": 20,
-        "Aktualität": 12,
-        "Tragweite (Schlüsselwörter)": 5
+        "Quelle": 12,
+        "Aktualität": 15,
+        "Tragweite (Schlüsselwörter)": 10
       }
     }
   ]
