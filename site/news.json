@@ -1,37 +1,127 @@
 {
-  "generated_at": "2026-11-08T13:47:31.638210+00:00",
+  "generated_at": "2026-11-09T16:46:34.584942+00:00",
   "window_days": 7,
-  "candidate_count": 153,
+  "candidate_count": 150,
   "errors_count": 0,
   "articles": [
     {
-      "title": "Übernahme: SoftBank und ABB prüfen China-Abspaltung zur Rettung von Robotik-Deal",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOQ3h5WFVUYU1IQkFNcUJDRTBhcFBxMDlhcERMOWYtZDNNcXQxcm0yR1ZEWDVqa1VmOTRybDltckpGSWVrV3BiOGJ3RVh1eEdnWmRqTFpYeUswSFQzUDAwazh5bHdGUmpyTjZ6UEc2NVhtdW9UdXFoSmJYclJKam5LODRFYXp0LWxCYlVCRnVQMGpuWGNUM3AyemZKX2htTU5vdXB2ZE05RTNJMnRMWnh5NUFuai1XOEwzTlA5a2c2dF9ZVlhUaUdsSTM3UQ?oc=5",
-      "source": "WirtschaftsWoche",
-      "source_url": "https://www.wiwo.de",
-      "published": "2026-11-07T11:55:06+00:00",
-      "score": 65,
+      "title": "Strategie für Frischelogistik: EDEKA NORDfrische erweitert Automatisierung mit KI-gestützter Robotik",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQX0xSS01GTUlpUF9POHZTNTd5c044X1FtblMtTm5ONTVVbzNhSlhSb0x4NEgxbFN2LS1BU29jMDZHMGZFYi1IV1prU2ZtRVFZaGQ3NnFIMnlsMkY2SWkydzl0eV9XNFBfZlpZVEsyb0F2MGc3bkVyNEpjMHR6X19EVmkyWGdCYXVUR3Vldkdkc2VpbTNqcmh6bUNfbmJTN25MeEFYdkhaalhyMHlnS0lmQURyZFNjVE1KZ0lvS1cxN1hHVjI5OEpsNUd6djBBTzdKeDNSUTh2MG81Wks3YUpxOENqNDlOTWhrbWVlell2QVJFZUs4eWc?oc=5",
+      "source": "Lebensmittel Zeitung",
+      "source_url": "https://www.lebensmittelzeitung.net",
+      "published": "2026-11-08T23:01:00+00:00",
+      "score": 83,
       "category": "KI & Technologie",
       "score_detail": {
-        "Thema": 30,
-        "Quelle": 12,
+        "Thema": 45,
+        "Quelle": 20,
         "Aktualität": 13,
+        "Tragweite (Schlüsselwörter)": 5
+      }
+    },
+    {
+      "title": "Livekindly Collective schließt Übernahme von Greenforce ab",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQYVhtX0NxRm4tT1FOSTlDNFQ0bnBXclQ3TU9OVXpuZnBZbE94TjZDTlNrckpkN25PSkZjTFU1ZDIwcFZVbEtmbVpBYk9jS2xuUW5YTWRpVnZlblRNeHV4M0VxTnRVV3hqYU9tZVl6empGT2FNUXhmM2V4aDliN0xBMG9FNmtjNlNjMy1OdXpvTkd5c0FfQUdDMUlXRjNLNFBRRjQtVHlwQjc4SURwYW1MMEs1THhiSWFaUFIza2pkRnVLb3dDc2JQQ0FHTDBUbGtpb1pIRE5tV2UwZWluc1FsM0ViVklyejlwaDlsbDh5UjhnSXQ2VFE?oc=5",
+      "source": "Lebensmittelpraxis.de",
+      "source_url": "https://lebensmittelpraxis.de",
+      "published": "2026-11-09T14:44:00+00:00",
+      "score": 65,
+      "category": "Handelsstrategie",
+      "score_detail": {
+        "Thema": 24,
+        "Quelle": 16,
+        "Aktualität": 15,
         "Tragweite (Schlüsselwörter)": 10
       }
     },
     {
-      "title": "Einzelhandel: Preisschock im Weihnachtsgeschäft – KI-Chips verteuern Elektronik",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNNmpQNnJsRTE5UXM4UFhMaUNLY1JSSE11RTI1RVpxeUxsYUJ3Qmc3NFRZSG84R002Tk4xUlFoY25WNGw2bmxhSUNPeXU1NlNwMDAtTnZ0S0hQbzNncWZWdXZRMVpkaHJGUVBlcUhDVGEzTlN0SDMwWWEtLVRiLUFjeUtBRl9XMUJtczE1RzVEWHVVSzdSRzRGY3M1WXRSOHRPcGRhZUxsdl9GcGU3SGRIN1pTRXlaUDR2UFVDdUx3S28tZ2NOMzdIeG5uMWNpbmFLY3V5RFkzQnJKTHN4ODdENUZ4T1JxdDB1?oc=5",
-      "source": "Handelsblatt",
-      "source_url": "https://www.handelsblatt.com",
-      "published": "2026-11-08T08:54:20+00:00",
-      "score": 64,
+      "title": "Picnic KI-Prognose: 14-Tage-Planung für Logistik wird genauer",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPV3BxcF9KQU82dzhaZTVPZVZFTGZXUG1tT0ZGd18zUHlqWHdUbFc5ZUJfWmhRZ3Z5NDJWbl94NFZvMUlqLXVEb1FjaG9QOGxxU1lqXzhsLXVfa01JcGZzSkZBSmsyeWVGZVNzTUQxc0tCWExmYWdJZUh3bm1GTm9QM3NKZTFlN2M?oc=5",
+      "source": "etailment",
+      "source_url": "https://www.etailment.de",
+      "published": "2026-11-09T06:07:02+00:00",
+      "score": 65,
       "category": "KI & Technologie",
       "score_detail": {
         "Thema": 30,
-        "Quelle": 14,
-        "Aktualität": 15,
+        "Quelle": 16,
+        "Aktualität": 14,
         "Tragweite (Schlüsselwörter)": 5
+      }
+    },
+    {
+      "title": "Wayfair: Umsatz steigt um 9,7 Prozent, KI-Traffic bei 1 Prozent",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOV21HQkE5Q0R3T2QzMjJOUEVWc3JIWEszTUZCb3VldnNsNVBoN1ZKQkQxRkVieFFPakV4RDBDWlhWVHdwVlpQOG1fSFpnUXdxRmltUlNSQ2ZTN2dPREdDZ29aal9Sd1hOLVFCM25UWnVVcWg3VVNhWkJReXlISW5nSVNIMTZOS3B3aHQwaUJOLWtkUQ?oc=5",
+      "source": "etailment",
+      "source_url": "https://www.etailment.de",
+      "published": "2026-11-09T06:07:02+00:00",
+      "score": 65,
+      "category": "KI & Technologie",
+      "score_detail": {
+        "Thema": 30,
+        "Quelle": 16,
+        "Aktualität": 14,
+        "Tragweite (Schlüsselwörter)": 5
+      }
+    },
+    {
+      "title": "Smart-Stores: Yobsti flaggt Teo-Märkte um",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOdGJERWJMS052UGdyanlFempLSkhpSVNKNkxnUERheVdNRktadWc3ZnVXSUJucVJPOWRMR21RMWxTYjN5dUpuSFNsQVZRQlp6anhfV1diRERBdC1iOGpyY2k5ZHd5bzh5a1Nic2MxaHVlV05aZVcwWGZkcE9XVDJlaFZRYXE2TWEyVzRjTmhWNHhFSUM4V1EyWnNhQW5rWHpNbGNBdFpR?oc=5",
+      "source": "Lebensmittel Zeitung",
+      "source_url": "https://www.lebensmittelzeitung.net",
+      "published": "2026-11-09T10:37:00+00:00",
+      "score": 63,
+      "category": "KI & Technologie",
+      "score_detail": {
+        "Thema": 24,
+        "Quelle": 20,
+        "Aktualität": 14,
+        "Tragweite (Schlüsselwörter)": 5
+      }
+    },
+    {
+      "title": "Nielsen-Report: KI gehört inzwischen fest zum Marketing-Alltag",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxObzhTamNhZnhmZTNIbVQ2NUxDLU1rVXRPVlRaTTNuOEF1dm9UY1BJblFrWmdCRnp6NlRBb1IzdkZwZXhpZWU3Q2VFYm9HZXNiUVNidi02U0Y4QmVhak9QUzBiNFg5V0ptdEhMc1g2dm1hclU1dUpQNy10ZDZBb1YwOHpWWWItcU5RLTdZTUVDeGVGZWl3eE80Qk9kNGVxZWthRjB4RTg2ZC1jcjl0RnBqLW1TYnE1TGhpRDdubnBLNmNsQQ?oc=5",
+      "source": "Lebensmittel Zeitung",
+      "source_url": "https://www.lebensmittelzeitung.net",
+      "published": "2026-11-09T07:00:00+00:00",
+      "score": 63,
+      "category": "KI & Technologie",
+      "score_detail": {
+        "Thema": 24,
+        "Quelle": 20,
+        "Aktualität": 14,
+        "Tragweite (Schlüsselwörter)": 5
+      }
+    },
+    {
+      "title": "Logistik für Galeria: Fiege-Gesellschaften in Unna melden Insolvenz an",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQVTJ2eXBmODhBWnJsdkRGN1VfLTNGa0JNWDVyazFUQ09QUDZWN2pudTBLSHJSbHQ2Sk9HS0lGWGd5dkNxaGxzNU90cHFraUpwTk1MaVhySVBBVUZFb2p6OWNVbUktUFdFSi1sQ244Qjd1U2lfT2FLdUNWaWlGbExvQXhiT2xsaHJDMWpSUmxJclhUd2pJN1Y4Z01HMUxuSE1vNGRka1lUaFVzM0M2TGdFZDJUeHlSMlJEbXQyMU5ELWpxSmZIWWpIZFpnTEEwWi1Ha3ZxOG9B?oc=5",
+      "source": "Lebensmittel Zeitung",
+      "source_url": "https://www.lebensmittelzeitung.net",
+      "published": "2026-11-04T06:00:00+00:00",
+      "score": 63,
+      "category": "Handelsstrategie",
+      "score_detail": {
+        "Thema": 30,
+        "Quelle": 20,
+        "Aktualität": 3,
+        "Tragweite (Schlüsselwörter)": 10
+      }
+    },
+    {
+      "title": "München: Telekom investiert eine weitere Viertelmilliarde in KI-Fabrik",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPMzgwV250SHNhODFZRGREZmk4bWpJaHlpN00wcnFGYzRGanJoc1lqVEc4bFdjS3N4SVpDcGNLYnk3RWR0NzIwUkNpRmxiTkJfcm5ocTV0UmJVb3lKOTY1ZjR5SUlBSGlSN0JUSzBteGdPcmdvUndidWNkS2t4Q2dRRDlVV0xGSHVqdlNudGlMeFl1TWFybXZBOHpZWW1SQ0ZfaXRRUk90Z19ZZFVKRWptX0R0UDQzLWR0bGdRZ3ctVmxHdndmam9tbnJEUnJMMFk?oc=5",
+      "source": "Handelsblatt",
+      "source_url": "https://www.handelsblatt.com",
+      "published": "2026-11-09T09:59:03+00:00",
+      "score": 62,
+      "category": "KI & Technologie",
+      "score_detail": {
+        "Thema": 24,
+        "Quelle": 14,
+        "Aktualität": 14,
+        "Tragweite (Schlüsselwörter)": 10
       }
     },
     {
@@ -40,113 +130,23 @@
       "source": "tagesschau.de",
       "source_url": "https://www.tagesschau.de",
       "published": "2026-11-07T09:15:00+00:00",
-      "score": 64,
+      "score": 62,
       "category": "Handelsstrategie",
       "score_detail": {
         "Thema": 30,
         "Quelle": 12,
-        "Aktualität": 12,
-        "Tragweite (Schlüsselwörter)": 10
-      }
-    },
-    {
-      "title": "Insolvenz: Etwa 60 Filialen von Mäc Geiz schließen, 123 bleiben",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQcEgwSEhGbFJybTNMTFkzTnBFa3ZXMEZvcmJ5ZXR6aHc3aHN1UFB6alhUSm1WZU5tNjVpWjhUaDFwZmwyclE4ZjVvUjFSRERBbGJoSjNoZHNyU185ejRTaldtSTRjQTgzdERhc2tHSzNiRkxobnlwVDZsbVc0THdtZGU0VGRTYVg5bWVneS1QTGhjTFRXeUJzczc1WjhxZlI1eFJGemFWR2tWNzJqb2R5YUxmbGhNNTU0YTM3UnFhN0FEYURackE?oc=5",
-      "source": "Handelsblatt",
-      "source_url": "https://www.handelsblatt.com",
-      "published": "2026-11-06T11:21:43+00:00",
-      "score": 64,
-      "category": "Handelsstrategie",
-      "score_detail": {
-        "Thema": 30,
-        "Quelle": 14,
         "Aktualität": 10,
         "Tragweite (Schlüsselwörter)": 10
       }
     },
     {
-      "title": "Konsumgüterkonzern: Kimberly-Clark schließt Kenvue-Übernahme ab",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQX1h2ZUFkWmV6TklBTjVvWTczQXRoODRDR05tai1jd2FVeTVpSGJtNXRtNUxvTzBFbTl1VFFuLTZRWUlseHRGQVQ3ZmltblhKWmc4dGx5Y1dJQzdBXzJNWFpFZThmSjdBNXVHRUNQSEtfRXJxZ3JEcmN0dEtqREt3LU5aYXFEZ2VCNURuVzVBZUNGQkRjUk5HVTU5NEVTWmxnb0E4RjVOZFBqaW9YYTR6b0NQWm1EZElIS3NlZWQyQVlMc1pDMHloN0N3?oc=5",
-      "source": "Lebensmittel Zeitung",
-      "source_url": "https://www.lebensmittelzeitung.net",
-      "published": "2026-11-03T07:00:00+00:00",
-      "score": 64,
-      "category": "Handelsstrategie",
-      "score_detail": {
-        "Thema": 30,
-        "Quelle": 20,
-        "Aktualität": 4,
-        "Tragweite (Schlüsselwörter)": 10
-      }
-    },
-    {
-      "title": "Gewinnverlagerung: Apple spart offenbar 2,7 Milliarden Dollar Steuern in Singapur",
-      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNVElUSzQtT1pPWi1sWFFfcFFLQ3BCMnIxWlByazZ4OGZ2VE8zQU01VXdMeEhJajhyZHRubWtNRm1DSXlHcVFZRVdWTElfU0k3dXl2aDR2eEtRYlljQ1RYYjZYbHZpNnZPb1dGbFFiU2pJZ3lFV3JqdjVwMFN2c0ZZcUlzOGk4cWRkelNqYVhRYy1rQkhHb2RZLV9FWUxKcWFrNEpYSFVrTHBfdklYdEsxZm96eDN2Q2FiOVVCeUsxQ2JnN3RBZ3pqZFJmdExhLTVteGVOQkdjcGxEemJacWdlMW1sTUs5cm1zd2Z3?oc=5",
-      "source": "Handelsblatt",
-      "source_url": "https://www.handelsblatt.com",
-      "published": "2026-11-08T11:05:31+00:00",
-      "score": 63,
-      "category": "Logistik",
-      "score_detail": {
-        "Thema": 24,
-        "Quelle": 14,
-        "Aktualität": 15,
-        "Tragweite (Schlüsselwörter)": 10
-      }
-    },
-    {
-      "title": "Von Lagerplanung bis Robotik: So integriert JD.com KI in seine Geschäftsabläufe",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9JTV9LcGVhUW9EbE9JY0tMeEluX1JTSVZReTlmeWYxTWxvNlA4RERtWWY4TExwLU9Jb3NSVzZaOEJBX2RuZnN5QTFGdWxPVXd6cTh0OHpUTFc2MjdMOERwUVctRWpIdEl4TG9aRFdFRlZmM0V5RkpmWDRn?oc=5",
-      "source": "RETAIL-NEWS Deutschland",
-      "source_url": "https://retail-news.de",
-      "published": "2026-11-05T03:15:26+00:00",
-      "score": 63,
-      "category": "KI & Technologie",
-      "score_detail": {
-        "Thema": 36,
-        "Quelle": 14,
-        "Aktualität": 8,
-        "Tragweite (Schlüsselwörter)": 5
-      }
-    },
-    {
-      "title": "Picnic verbessert KI-basierte Nachfrageprognosen und beschleunigt Modellentwicklung",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9mVFNxYlM5dG10YnFXMW5fV1E5dThhTFd0QXppQXgwUUEzMDltcnRhNzhlYU9QX0dnNlJ2WjZlb3RGX3JWMVp0SVB5VEtoc2lXdVN4eVRDeEJvWW5hdDB6LWI0WnpEWGtiTmtqVVdXZHJUX0ZMV0E?oc=5",
-      "source": "RETAIL-NEWS Deutschland",
-      "source_url": "https://retail-news.de",
-      "published": "2026-11-07T15:16:27+00:00",
-      "score": 62,
-      "category": "KI & Technologie",
-      "score_detail": {
-        "Thema": 30,
-        "Quelle": 14,
-        "Aktualität": 13,
-        "Tragweite (Schlüsselwörter)": 5
-      }
-    },
-    {
-      "title": "Zuckersteuer auf Getränke: Viele Verbraucher würden ihren Konsum senken",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE03VDg3c3NDZHpPYWdnZUxRV3hlenRuSk1ZZURJNUU5TTA3MjRuaENnVmhJdzkzTTY3MUljM3R2bjdiUW9rSld1bmxmWmZlSDdsRFlnMG5wYUNwclViQWdvR09uZWpTRDk3ZUVzeDVHbnFWN056NXNJeQ?oc=5",
-      "source": "RETAIL-NEWS Deutschland",
-      "source_url": "https://retail-news.de",
-      "published": "2026-11-07T15:05:12+00:00",
-      "score": 62,
-      "category": "Konsumenten",
-      "score_detail": {
-        "Thema": 30,
-        "Quelle": 14,
-        "Aktualität": 13,
-        "Tragweite (Schlüsselwörter)": 5
-      }
-    },
-    {
-      "title": "OECD-Chef zu KI-Investitionen: Wann droht eine Marktkorrektur?",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQSVE5YjhvTWk5YTVkamhPQUFkT0VFUWVlZENYaEYzemNYa1lWbGIwVnkwaG10U0d4ZHlhaTJRTVRsLUg5VGNSWnlJbXY0T28yNUpxNks5enV3UEx2VkhQXzJZOFZ6dk5xcVNJVGxUa2xMYkt3dGF4S2lCcnVOOWYyajhmbW5uUkptazcyMkJ0V1FsZEVYRHo0X0tyem1EcWd2WWN4TzJOd3ZpdHRvNmRZ?oc=5",
+      "title": "Commerzbank-Übernahme: Wie UniCredit-Chef Andrea Orcel ein Fiasko riskiert",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOQTFEN3JtdXl6N1R2VTVVSndNTlE3em13TjRLS2hkUVRCbW5OcnByRlhXc0duVHloM1VpbUFTSzdacXZYeDdsMV9TemRuZUNiNzdYZWlTa0lNUUs2dnhkaml1YTJjZVF0OWxmd2V1UU9EWVV5ZGpocmEzTHZaRW8tNklBQkRqcm5hVUFUc3c2WklnUVBMdVFBbURXeklibTc3NW9QT0ZaNHM4aWtyOTZwMExjazNLR2JJQmZHS3ktS2ZjVkJ3ZWMw?oc=5",
       "source": "WirtschaftsWoche",
       "source_url": "https://www.wiwo.de",
-      "published": "2026-11-08T12:48:07+00:00",
+      "published": "2026-11-09T15:00:00+00:00",
       "score": 61,
-      "category": "KI & Technologie",
+      "category": "Handelsstrategie",
       "score_detail": {
         "Thema": 24,
         "Quelle": 12,
