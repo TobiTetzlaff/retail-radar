@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-09T16:46:34.584942+00:00",
+  "generated_at": "2026-11-10T15:10:41.002324+00:00",
   "window_days": 7,
   "candidate_count": 150,
   "errors_count": 0,
@@ -10,12 +10,72 @@
       "source": "Lebensmittel Zeitung",
       "source_url": "https://www.lebensmittelzeitung.net",
       "published": "2026-11-08T23:01:00+00:00",
-      "score": 83,
+      "score": 81,
       "category": "KI & Technologie",
       "score_detail": {
         "Thema": 45,
         "Quelle": 20,
-        "Aktualität": 13,
+        "Aktualität": 11,
+        "Tragweite (Schlüsselwörter)": 5
+      }
+    },
+    {
+      "title": "BVE-Konjukturreport: Ernährungsindustrie büßt Umsatz ein",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQakxwQ1FtdG9nMjlUWktaU2ZfM1FSTDZ4N05QdkJqSng1aFZYV0hlZG9TRWN3MUJrWjVqOFNnRXJQT0JWNWxtS1V5UmtMbTdXWEhsd2VCVXV1emwwanBQcUlQaHRZUWw0VUJoSEwzUnBLUXVOdmFUT0ZiY2dpYzluUGhnaERvM3NPeU1rTmdtSlpjMGtSN0QzRjA4T2xkbjc3S0VPZGRnYnMzSjhzTkFPSndfS1RkMzdoZ1FvYlhUdHc?oc=5",
+      "source": "Lebensmittel Zeitung",
+      "source_url": "https://www.lebensmittelzeitung.net",
+      "published": "2026-11-10T13:44:47+00:00",
+      "score": 64,
+      "category": "Handelsstrategie",
+      "score_detail": {
+        "Thema": 24,
+        "Quelle": 20,
+        "Aktualität": 15,
+        "Tragweite (Schlüsselwörter)": 5
+      }
+    },
+    {
+      "title": "Britischer Händler: M&S will Gewinn stärker steigern als Umsatz",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNTzFsb3NERGRUaWdEbmt4Wk1DQmR6NVVXNUNnMmo0WnVwZWhxa2ZoNDc0Tl9OM3J2dUViZWZ6ekVoM1ZUM08xaEV1Mnc2MEdrWG1kNWtlRnd0SXJwVFZHZHFPYjM5ZWZpMl84VEt5VXllcUJYQm1QYTM0a3gyMFh3emFNbHo5aGJYWWd4M3VaY2pjb1ZDMXZNd0FSRU1rSTg2U2Z1eURfaGwydWJ3bkJiQzlZS3ZyNDl1Q3RiMDk4MWtONWM?oc=5",
+      "source": "Lebensmittel Zeitung",
+      "source_url": "https://www.lebensmittelzeitung.net",
+      "published": "2026-11-10T09:50:00+00:00",
+      "score": 64,
+      "category": "Handelsstrategie",
+      "score_detail": {
+        "Thema": 24,
+        "Quelle": 20,
+        "Aktualität": 15,
+        "Tragweite (Schlüsselwörter)": 5
+      }
+    },
+    {
+      "title": "Agentic AI unter Kontrolle: Wie Unternehmen Innovation ermöglichen, ohne Verantwortung zu delegieren",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQVlYwYW1kNWxwVDhwRkJ2SFViV0VUU3ZwVEJpYlU0LXhSLTJYd2JVM2txYzZRVUE1ME9JLWZJVXExRlM2TXNzYzZmMnh5ZmpVSEs5aFFHNjZYelluTy1lbWo4Vy1PWGxNQXU5cHBKdnRkSlJ6a2dUTEtjVzVCTWVrM0s4cDBhcGk1VVZ0VExqRXZoaUhIMWFVV0RTeDdRQ081M3ZkSkJLNURVNTZRUTBhMUhJTC1TT2ZfNnVlXzdscGY3WVZPbmwwR1Fpem55WUkteDJjWQ?oc=5",
+      "source": "Handelsblatt Live",
+      "source_url": "https://live.handelsblatt.com",
+      "published": "2026-11-10T07:50:00+00:00",
+      "score": 63,
+      "category": "KI & Technologie",
+      "score_detail": {
+        "Thema": 30,
+        "Quelle": 14,
+        "Aktualität": 14,
+        "Tragweite (Schlüsselwörter)": 5
+      }
+    },
+    {
+      "title": "EHI-Studie: KI bringt Produktivitätssteigerungen",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOT2lMQjd2a3gzQ2YyeXRpRmVkU0ZYczlzNDhVd29lLU9iQkhMZEl6dnZEUzQzaE8wUV9keVVlcHhBYWZHb0ZwMktBd3lLWUl3NV93aTBGYTUtV1UtRU5kbkV4SThVeTNpbUV3TGFJQjVITlRDVlh2OEo4MlFMMHlFLVJUYk13WVE5NXBYODBOOFNFM2dUVkwtNzJrRFQ4ZFEt?oc=5",
+      "source": "stores+shops",
+      "source_url": "https://www.stores-shops.de",
+      "published": "2026-11-10T04:35:59+00:00",
+      "score": 63,
+      "category": "KI & Technologie",
+      "score_detail": {
+        "Thema": 24,
+        "Quelle": 20,
+        "Aktualität": 14,
         "Tragweite (Schlüsselwörter)": 5
       }
     },
@@ -25,12 +85,12 @@
       "source": "Lebensmittelpraxis.de",
       "source_url": "https://lebensmittelpraxis.de",
       "published": "2026-11-09T14:44:00+00:00",
-      "score": 65,
+      "score": 63,
       "category": "Handelsstrategie",
       "score_detail": {
         "Thema": 24,
         "Quelle": 16,
-        "Aktualität": 15,
+        "Aktualität": 13,
         "Tragweite (Schlüsselwörter)": 10
       }
     },
@@ -40,12 +100,12 @@
       "source": "etailment",
       "source_url": "https://www.etailment.de",
       "published": "2026-11-09T06:07:02+00:00",
-      "score": 65,
+      "score": 63,
       "category": "KI & Technologie",
       "score_detail": {
         "Thema": 30,
         "Quelle": 16,
-        "Aktualität": 14,
+        "Aktualität": 12,
         "Tragweite (Schlüsselwörter)": 5
       }
     },
@@ -55,102 +115,42 @@
       "source": "etailment",
       "source_url": "https://www.etailment.de",
       "published": "2026-11-09T06:07:02+00:00",
-      "score": 65,
+      "score": 63,
       "category": "KI & Technologie",
       "score_detail": {
         "Thema": 30,
         "Quelle": 16,
-        "Aktualität": 14,
+        "Aktualität": 12,
         "Tragweite (Schlüsselwörter)": 5
       }
     },
     {
-      "title": "Smart-Stores: Yobsti flaggt Teo-Märkte um",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOdGJERWJMS052UGdyanlFempLSkhpSVNKNkxnUERheVdNRktadWc3ZnVXSUJucVJPOWRMR21RMWxTYjN5dUpuSFNsQVZRQlp6anhfV1diRERBdC1iOGpyY2k5ZHd5bzh5a1Nic2MxaHVlV05aZVcwWGZkcE9XVDJlaFZRYXE2TWEyVzRjTmhWNHhFSUM4V1EyWnNhQW5rWHpNbGNBdFpR?oc=5",
-      "source": "Lebensmittel Zeitung",
-      "source_url": "https://www.lebensmittelzeitung.net",
-      "published": "2026-11-09T10:37:00+00:00",
-      "score": 63,
-      "category": "KI & Technologie",
-      "score_detail": {
-        "Thema": 24,
-        "Quelle": 20,
-        "Aktualität": 14,
-        "Tragweite (Schlüsselwörter)": 5
-      }
-    },
-    {
-      "title": "Nielsen-Report: KI gehört inzwischen fest zum Marketing-Alltag",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxObzhTamNhZnhmZTNIbVQ2NUxDLU1rVXRPVlRaTTNuOEF1dm9UY1BJblFrWmdCRnp6NlRBb1IzdkZwZXhpZWU3Q2VFYm9HZXNiUVNidi02U0Y4QmVhak9QUzBiNFg5V0ptdEhMc1g2dm1hclU1dUpQNy10ZDZBb1YwOHpWWWItcU5RLTdZTUVDeGVGZWl3eE80Qk9kNGVxZWthRjB4RTg2ZC1jcjl0RnBqLW1TYnE1TGhpRDdubnBLNmNsQQ?oc=5",
-      "source": "Lebensmittel Zeitung",
-      "source_url": "https://www.lebensmittelzeitung.net",
-      "published": "2026-11-09T07:00:00+00:00",
-      "score": 63,
-      "category": "KI & Technologie",
-      "score_detail": {
-        "Thema": 24,
-        "Quelle": 20,
-        "Aktualität": 14,
-        "Tragweite (Schlüsselwörter)": 5
-      }
-    },
-    {
-      "title": "Logistik für Galeria: Fiege-Gesellschaften in Unna melden Insolvenz an",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQVTJ2eXBmODhBWnJsdkRGN1VfLTNGa0JNWDVyazFUQ09QUDZWN2pudTBLSHJSbHQ2Sk9HS0lGWGd5dkNxaGxzNU90cHFraUpwTk1MaVhySVBBVUZFb2p6OWNVbUktUFdFSi1sQ244Qjd1U2lfT2FLdUNWaWlGbExvQXhiT2xsaHJDMWpSUmxJclhUd2pJN1Y4Z01HMUxuSE1vNGRka1lUaFVzM0M2TGdFZDJUeHlSMlJEbXQyMU5ELWpxSmZIWWpIZFpnTEEwWi1Ha3ZxOG9B?oc=5",
-      "source": "Lebensmittel Zeitung",
-      "source_url": "https://www.lebensmittelzeitung.net",
-      "published": "2026-11-04T06:00:00+00:00",
-      "score": 63,
-      "category": "Handelsstrategie",
-      "score_detail": {
-        "Thema": 30,
-        "Quelle": 20,
-        "Aktualität": 3,
-        "Tragweite (Schlüsselwörter)": 10
-      }
-    },
-    {
-      "title": "München: Telekom investiert eine weitere Viertelmilliarde in KI-Fabrik",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPMzgwV250SHNhODFZRGREZmk4bWpJaHlpN00wcnFGYzRGanJoc1lqVEc4bFdjS3N4SVpDcGNLYnk3RWR0NzIwUkNpRmxiTkJfcm5ocTV0UmJVb3lKOTY1ZjR5SUlBSGlSN0JUSzBteGdPcmdvUndidWNkS2t4Q2dRRDlVV0xGSHVqdlNudGlMeFl1TWFybXZBOHpZWW1SQ0ZfaXRRUk90Z19ZZFVKRWptX0R0UDQzLWR0bGdRZ3ctVmxHdndmam9tbnJEUnJMMFk?oc=5",
-      "source": "Handelsblatt",
-      "source_url": "https://www.handelsblatt.com",
-      "published": "2026-11-09T09:59:03+00:00",
+      "title": "Künstliche Intelligenz: KI-Firma Anthropic plant Börsengang mit Billionen-Bewertung",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPdVB6NC1IZXdBV3lqVS1PZGNXUExFMGM3NVlFbnhrQXhsTTZQNExEMWZkLTlGQXN3N3ZnYVFDaHRDYlJSNnNMaXlWNEVJV2VNRlIzb3MyeC1LUjc0dEt1OWZGZUVKeU83dVAzVHpKRjNtU3hEZDU1RjhuNmFyQl9RMGFWdzRxNURFNWdqNUZYNEhaVW5nVDFObXJwMmFWRFlHSVFpa0RVNVgzVU5tcGlWbTJXWDA1bkpQdUVhSW9RV1lKQ3JEVFZ3NmZ4TmpKaEtyektDb3kxek9OaTE4cUE?oc=5",
+      "source": "WirtschaftsWoche",
+      "source_url": "https://www.wiwo.de",
+      "published": "2026-11-10T13:28:24+00:00",
       "score": 62,
       "category": "KI & Technologie",
+      "score_detail": {
+        "Thema": 30,
+        "Quelle": 12,
+        "Aktualität": 15,
+        "Tragweite (Schlüsselwörter)": 5
+      }
+    },
+    {
+      "title": "Insolvenzen steigen im Oktober leicht, deutlich mehr Jobs betroffen",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE12Q0k2TWtQNnJMZ0xKaHVRMUItQVZSQl9aOWxVZV9YVUlPOGxaUmF1SjE5MmluQ1N3Z196X1ZzdFpUakdJUzZiMlBMUm1yZmZxcUJha3lZaFItSGtLc1VoTl9xRmJWcFNMQU95ckdqa3NKdw?oc=5",
+      "source": "RETAIL-NEWS Deutschland",
+      "source_url": "https://retail-news.de",
+      "published": "2026-11-10T02:47:12+00:00",
+      "score": 62,
+      "category": "Handelsstrategie",
       "score_detail": {
         "Thema": 24,
         "Quelle": 14,
         "Aktualität": 14,
-        "Tragweite (Schlüsselwörter)": 10
-      }
-    },
-    {
-      "title": "Brandenburg Berlin: Mäc-Geiz-Insolvenz: Zwei Drittel der Filialen bleiben geöffnet",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQY2N0ZFlVcXJvcjFSV1g0U0hJTzlGTVpOYjBlYW1tcFJ2ejl5WVVET0hfM2NqQXM3bkwzOUVmZjc4b19ZQlNpRUJTaG1vVU1SR0VZUzVKTjFacnBnZ0tYWEJBME00em1jTzNpRFNiQi1LWFlzalJRV2hCaXVVLXppZDRVbnZFOFJ6U0VBV1JMNUJIQV9jUkE5dWtCbElHQVVFODdqQzRRQ1dQb3ZVRExtWlowY2NNOWFXdVk0d0lYanRTZTR0VDJRZUhTVTEyZGFROEw4dFA4eElOZw?oc=5",
-      "source": "tagesschau.de",
-      "source_url": "https://www.tagesschau.de",
-      "published": "2026-11-07T09:15:00+00:00",
-      "score": 62,
-      "category": "Handelsstrategie",
-      "score_detail": {
-        "Thema": 30,
-        "Quelle": 12,
-        "Aktualität": 10,
-        "Tragweite (Schlüsselwörter)": 10
-      }
-    },
-    {
-      "title": "Commerzbank-Übernahme: Wie UniCredit-Chef Andrea Orcel ein Fiasko riskiert",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOQTFEN3JtdXl6N1R2VTVVSndNTlE3em13TjRLS2hkUVRCbW5OcnByRlhXc0duVHloM1VpbUFTSzdacXZYeDdsMV9TemRuZUNiNzdYZWlTa0lNUUs2dnhkaml1YTJjZVF0OWxmd2V1UU9EWVV5ZGpocmEzTHZaRW8tNklBQkRqcm5hVUFUc3c2WklnUVBMdVFBbURXeklibTc3NW9QT0ZaNHM4aWtyOTZwMExjazNLR2JJQmZHS3ktS2ZjVkJ3ZWMw?oc=5",
-      "source": "WirtschaftsWoche",
-      "source_url": "https://www.wiwo.de",
-      "published": "2026-11-09T15:00:00+00:00",
-      "score": 61,
-      "category": "Handelsstrategie",
-      "score_detail": {
-        "Thema": 24,
-        "Quelle": 12,
-        "Aktualität": 15,
         "Tragweite (Schlüsselwörter)": 10
       }
     }
