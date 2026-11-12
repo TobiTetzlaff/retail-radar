@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-11T14:40:42.486678+00:00",
+  "generated_at": "2026-11-12T15:32:12.901345+00:00",
   "window_days": 7,
-  "candidate_count": 156,
+  "candidate_count": 161,
   "errors_count": 0,
   "articles": [
     {
@@ -10,12 +10,87 @@
       "source": "Lebensmittel Zeitung",
       "source_url": "https://www.lebensmittelzeitung.net",
       "published": "2026-11-08T23:01:00+00:00",
-      "score": 79,
+      "score": 77,
       "category": "KI & Technologie",
       "score_detail": {
         "Thema": 45,
         "Quelle": 20,
-        "Aktualität": 9,
+        "Aktualität": 7,
+        "Tragweite (Schlüsselwörter)": 5
+      }
+    },
+    {
+      "title": "Mit KI-Tool Joule: SAP öffnet zweiten Smart Store in Walldorf",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOQ0xuN0dFT2YzdW5YUHhLaDVQX056cHdNbTA3cWJGYV9KVG5tcEd4Q1pnVUhWbW9TalBfbTdMc3B6Ml9Pb2U2VWxSNGFCb041R2FQOHVDczVnZW53VDlvWjRST1lIN1dpZkRsUzZpZVlfS2hzNEZfODJXMWJ6WkxYeG8xRXNzaS1KLUN2eEhYc1ZPU20zSVlTTjhfMEFJWGo3STJjZ2V6Z2pCQWh0Y0JxZl9aM05WT2FxSEpka09DZGtUWTlGZWFFcnNB?oc=5",
+      "source": "Lebensmittel Zeitung",
+      "source_url": "https://www.lebensmittelzeitung.net",
+      "published": "2026-11-12T11:00:00+00:00",
+      "score": 70,
+      "category": "KI & Technologie",
+      "score_detail": {
+        "Thema": 30,
+        "Quelle": 20,
+        "Aktualität": 15,
+        "Tragweite (Schlüsselwörter)": 5
+      }
+    },
+    {
+      "title": "Konsumentenstudie: Verbraucher sparen aus Prinzip",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOUW1STTdCWElzSHpYbVU1WGFmUjBDRVEtV2JCaFVSRnJLN2RCSnNJR1RUQmRmZmJLRWhoM0RWMVZLbVpsTVcyNEhWai1pYUs0amlpdEM4a1pWNjU3aDYzWXZ6QzhtSTR3czhtdURmU1g2UzF1MmtwcDBha1ZOUXVtNzNndXotVW9qOXRPN1VqMGlGZ2NKUEo2X1RiUW9MLVhfQ2luVzBPY3B4N20wQzRr?oc=5",
+      "source": "Lebensmittel Zeitung",
+      "source_url": "https://www.lebensmittelzeitung.net",
+      "published": "2026-11-12T10:58:32+00:00",
+      "score": 70,
+      "category": "Konsumenten",
+      "score_detail": {
+        "Thema": 30,
+        "Quelle": 20,
+        "Aktualität": 15,
+        "Tragweite (Schlüsselwörter)": 5
+      }
+    },
+    {
+      "title": "Elektronikhandel: JD schließt Ceconomy-Übernahme ab",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQSGlLZmtaTkxoNjc0QmhveFBCamZtWldjal9wWTR0aEYyaXZldGxVeFJBYUw4TmRpUmpvSnhYRXdVdi1MSGltSWp2SFl3UGpMamRHbkhkbWJqSUlUMDdGczRWZjNlOWotWUJiaV9jMkN4aGNiRTY1Qk04TXhBSUVDZy1nalhBRHNpMFA2UWdGREZBLThFN2g2M3d4TlAxQVdpY1FKTHFyVVRYaWRGc3FhR2w5WDNwOEU?oc=5",
+      "source": "Lebensmittel Zeitung",
+      "source_url": "https://www.lebensmittelzeitung.net",
+      "published": "2026-11-12T13:19:00+00:00",
+      "score": 69,
+      "category": "Handelsstrategie",
+      "score_detail": {
+        "Thema": 24,
+        "Quelle": 20,
+        "Aktualität": 15,
+        "Tragweite (Schlüsselwörter)": 10
+      }
+    },
+    {
+      "title": "KI in der industriellen Automatisierung : So verändert Agentic AI das Engineering",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQVjVuN3ctWkJZSS1FODhtRUVRSi1ET0szTmowck5lemdBUVh1Y3NTTWljbDQtc0hfMUZjNThKeThPVTU4RE5uU0ZydUM0cU9WUnY2SGx0cFcwRGRGSnhGT1ZoazBuNHJGNG13QnFjdU9jWC1oVV9YLTBlQXZTcEd4bnBDVXVTVl9DSGhjTQ?oc=5",
+      "source": "Handelsblatt",
+      "source_url": "https://www.handelsblatt.com",
+      "published": "2026-11-11T16:34:42+00:00",
+      "score": 68,
+      "category": "KI & Technologie",
+      "score_detail": {
+        "Thema": 36,
+        "Quelle": 14,
+        "Aktualität": 13,
+        "Tragweite (Schlüsselwörter)": 5
+      }
+    },
+    {
+      "title": "Konsumverhalten - Neun von zehn Verbrauchern sparen beim Einkaufen – viele freiwillig",
+      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQRV94cHBmMjhrU0tLR0VNSW1Vd3YtODRIYThoTVFMZU9oYXhpWVdaTzJwaGZXb3E2RkVqSE1qdmZQR3pLbW1oRkNCSUkzdWZVb0hrcEl3VFh0QXZuMmxaNnA2T0NFRlcyeE5acFVXUUMwZFdBOTA1WFVqd1dmcjhJbk4wRXNkQm0yOVRaZ0tRVmdVY0NXc21odU1SMzdBOXdIVjNvZjI2Z2lKX19SUEhSTWZveDdYMHdQTUlYNnpVaDJhLTVTWTRxdXdpcUZMMjBtMV9zdU9QdzFtRHhWOGdiOTg3UkFwUWp2U2NhOHZiUGFFOEFmWEk2NFVaOUh3eTJrSUE?oc=5",
+      "source": "Lebensmittelpraxis.de",
+      "source_url": "https://lebensmittelpraxis.de",
+      "published": "2026-11-12T13:21:00+00:00",
+      "score": 66,
+      "category": "Konsumenten",
+      "score_detail": {
+        "Thema": 30,
+        "Quelle": 16,
+        "Aktualität": 15,
         "Tragweite (Schlüsselwörter)": 5
       }
     },
@@ -25,27 +100,27 @@
       "source": "Unite.AI",
       "source_url": "https://www.unite.ai",
       "published": "2026-11-10T21:22:02+00:00",
-      "score": 67,
+      "score": 65,
       "category": "KI & Technologie",
       "score_detail": {
         "Thema": 36,
         "Quelle": 8,
-        "Aktualität": 13,
+        "Aktualität": 11,
         "Tragweite (Schlüsselwörter)": 10
       }
     },
     {
-      "title": "US-Konsumgüterkonzern: Mars investiert Milliardenbetrag in den USA",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOLW1zcUJtUDVrZ3AzVndJVGN3aW1FTkpLR0t0aUtWODNTOWpVbldPZk1LY1Joa2JuTF80YXhrMWVNOTBhQ254bFUyaWplZ0dGbVFFV0hyOE1uV3dxQVQxX05DLTlSdnZhSWdiVGY2eVdqM0lHR0V5SkVtOE1sNzY0TU52OHZDRlpiUldEMGdmdHBENjZ2NUFPMlo5MGlQVDFseXI4SHpKRExpWkg0VmhwVG5jWm1xaU5Ia2JqNDJRUENSSUZJUmJ5bHRPWQ?oc=5",
+      "title": "Einigung bei Stellenabbau: Warsteiner kommt bei Restrukturierung voran",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNcFhMQUxpcVBJSm9rQjdVcWVUYnFCeWJhUHNlRkhLaEJwSkc2dmtsa21TUm5pRjV4dENhd2pHUkpMX2R0d3ZOcXNscDM3QlB3ZDFHNTVGN2ZMdll5QU9ZRG5scTZOeDJ0NW5tMGlwZmZYbEVBeFdCb19FbEIzU3JxT2VIeGY0QmlGTDhVdjRBSEhwQV9NYkhPQmxlMFdORnZJRmJuU0JMeU5ZX3RvYkNvMGZMVVRLbFJqNTJyUGxBNEVDRFFIeXQxQnRrZU5ZNXM?oc=5",
       "source": "Lebensmittel Zeitung",
       "source_url": "https://www.lebensmittelzeitung.net",
-      "published": "2026-11-10T14:47:00+00:00",
-      "score": 67,
-      "category": "Konsumenten",
+      "published": "2026-11-10T14:00:00+00:00",
+      "score": 65,
+      "category": "Handelsstrategie",
       "score_detail": {
         "Thema": 24,
         "Quelle": 20,
-        "Aktualität": 13,
+        "Aktualität": 11,
         "Tragweite (Schlüsselwörter)": 10
       }
     },
@@ -55,102 +130,27 @@
       "source": "Handelsblatt",
       "source_url": "https://www.handelsblatt.com",
       "published": "2026-11-10T06:38:55+00:00",
-      "score": 67,
+      "score": 65,
       "category": "KI & Technologie",
       "score_detail": {
         "Thema": 36,
         "Quelle": 14,
-        "Aktualität": 12,
+        "Aktualität": 10,
         "Tragweite (Schlüsselwörter)": 5
       }
     },
     {
-      "title": "Nach Schwarz-Übernahme - Aus Unternehmensgruppe Göbber wird Bon Sweet",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPcGRtUm11ajY0RGZfLW5SbUotUnhvbnMtYTE2Z2VuU1Z2cXVFM1M2VXkyZlpsOTZfVTJaODJIdG1jRVQzcXcyRkxnVVVYcWdKVXFTTVp3MU9fd1Rmcm83OWtsTGViMExPUnBFdzVRUGxvN2ItVG94M21rc0VxSjRnVXhoUUc3TV9qcVlUR3dYWmZLMzF6d0ZNRjRQVEhWbTl0NHFKN2lSeXA4cVMxQTBwbTVHZm5pdlotLXJfNVc5U296ZWszaUY4ZkpBRlI4WHVpQjVfV0hxem5nRGRVbkl0bVFPOA?oc=5",
-      "source": "Lebensmittelpraxis.de",
-      "source_url": "https://lebensmittelpraxis.de",
-      "published": "2026-11-11T09:15:00+00:00",
-      "score": 65,
-      "category": "Handelsstrategie",
-      "score_detail": {
-        "Thema": 24,
-        "Quelle": 16,
-        "Aktualität": 15,
-        "Tragweite (Schlüsselwörter)": 10
-      }
-    },
-    {
-      "title": "Payback Produkte: Marktplatz für 35 Mio. Kunden startet",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOQk9teDZmVnoxejZhZk0zVnVpeUllTms4dUZabVNGd3ZKTFprSWRmRm9fTm5HMFBNVzBDSG9KRldUVmZaeDhUdEpZLWR4R3lSSlNZbXE3YjhqcXdkdjNXMWtiRDN5LUlkZ1B3UlU5OFZzc0h0djZ5WWVPcEtIZU9IMW5HclhPcHEtQ3gwN0FRY2hiUU5UUTlsTA?oc=5",
-      "source": "etailment",
-      "source_url": "https://www.etailment.de",
-      "published": "2026-11-11T06:02:32+00:00",
-      "score": 65,
-      "category": "Konsumenten",
-      "score_detail": {
-        "Thema": 30,
-        "Quelle": 16,
-        "Aktualität": 14,
-        "Tragweite (Schlüsselwörter)": 5
-      }
-    },
-    {
-      "title": "EHI-Studie: KI im Handel hat noch Potenzial",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPeVpvaFdEbldyczdldnV4RTJtU0RpVkZOaGRDRVhERkJacDZoRkVURGRnNm0wWEVwY3JwTVVJQlMzNXI5dXlibkRhUElsbkZKdlV4U3RxQUlFQkRoUzhzU1oydG1GNy1YVzFvakppQ0ZWcFFPeHNKcF9uUXVpY3doWXBhNGdvZXlUb21hOEJsRU9TeTgxaGExN3ZlVVhLb2MzQ05jZTRhMXZUdmZBUmktSw?oc=5",
+      "title": "\"Big-Trolley-Kunden\": Lidl steigert Anteil von Großeinkäufen",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQNTdTYkQxS2VqYlFwX1R6dWw2NUZFMDdLelRBMVJqdEtka2puaGxmZ2RfQjdnd0pWY1FFSjYzMmZ1VndPOEhoYmYtbVdkNjhiOF81TlFaTjBaTTZ6c0toclk0aEdmbEdqaHJIOHdOTy1QYlNySEJtcENoQUNKd2U0VktxeEFmTlFtMnd6cUVTNVVfNzAwa3ZMN2syU05RWC01Z2VJRmpvQU1FcVZkMERqc2NCZFhJU0RhVHdyTkRn?oc=5",
       "source": "Lebensmittel Zeitung",
       "source_url": "https://www.lebensmittelzeitung.net",
-      "published": "2026-11-11T14:25:46+00:00",
-      "score": 64,
-      "category": "KI & Technologie",
-      "score_detail": {
-        "Thema": 24,
-        "Quelle": 20,
-        "Aktualität": 15,
-        "Tragweite (Schlüsselwörter)": 5
-      }
-    },
-    {
-      "title": "News aus Handel und Konsumgüter-Industrie",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA3ZDhZclNmNEdROUZDRGtmd0hDMGRmQlFrNW5RZE5MSUVRQ005dmo3UVozYVRreTFXc3A2WTBfejV4ZFQySGpKVmRtcVhIYUEwMjV5emVoTEQ1aUZ2dFgwMjBROUxYLWd0dlpqTnh2Zw?oc=5",
-      "source": "Lebensmittel Zeitung",
-      "source_url": "https://www.lebensmittelzeitung.net",
-      "published": "2026-11-11T13:55:55+00:00",
+      "published": "2026-11-12T15:00:00+00:00",
       "score": 64,
       "category": "Konsumenten",
       "score_detail": {
         "Thema": 24,
         "Quelle": 20,
         "Aktualität": 15,
-        "Tragweite (Schlüsselwörter)": 5
-      }
-    },
-    {
-      "title": "Märkte in weiteren Provinzen: Aldi macht bei der Expansion in China Tempo",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQOHJLN2xNUzI2ZnVQZlVZXzVxWEZaZTJ6YnFhRnZVa1IzMXpiS3hIanNZaG54Qi1UWUp2TGZEbmNUVjJueDJhYVZWNkVxUUZGTlNPZkVhU25PYUdacVBNbnA1WjhadlFKQmExckNuMUd3YjlpQVo1STFXdnFZQUdmclJQYVdZQzJkTlB1Ry10UTdGdWhTNnp5bl9RWUk5T01IdlVjc00tcW1qeVlVeFdKNkUwRVI2ZVVS?oc=5",
-      "source": "Lebensmittel Zeitung",
-      "source_url": "https://www.lebensmittelzeitung.net",
-      "published": "2026-11-11T09:00:00+00:00",
-      "score": 63,
-      "category": "Handelsstrategie",
-      "score_detail": {
-        "Thema": 24,
-        "Quelle": 20,
-        "Aktualität": 14,
-        "Tragweite (Schlüsselwörter)": 5
-      }
-    },
-    {
-      "title": "Quick Commerce: Rewe und Wolt weiten Sofortlieferungen aus",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOOERHc29hbEdPN0VjNHQ2YTZGanRtdGEycXFlbjU3N2ptWjlVMFFVeHFGaDJSclNaZm1KTnRBZlYxUEEtdmlreWFpd0lUbUVfVHo4OWJraGo1RlBLNU9Cak5wRDRXU24zbGprOVRsXzN6TXRoa256aEhPUWZ0M2hKdUtUQjRxblBvN29oX29oV1VpX0FrTlBYSUhxSFpNQ0NTc2FDM1B3VzRjX1hHREVDSkpQOXZCay1KekZuNGJn?oc=5",
-      "source": "Lebensmittel Zeitung",
-      "source_url": "https://www.lebensmittelzeitung.net",
-      "published": "2026-11-11T08:26:00+00:00",
-      "score": 63,
-      "category": "E-Commerce",
-      "score_detail": {
-        "Thema": 24,
-        "Quelle": 20,
-        "Aktualität": 14,
         "Tragweite (Schlüsselwörter)": 5
       }
     }
