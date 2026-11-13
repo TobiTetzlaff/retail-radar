@@ -1,22 +1,67 @@
 {
-  "generated_at": "2026-11-12T15:32:12.901345+00:00",
+  "generated_at": "2026-11-13T14:50:57.161271+00:00",
   "window_days": 7,
-  "candidate_count": 161,
+  "candidate_count": 150,
   "errors_count": 0,
   "articles": [
+    {
+      "title": "Filialübernahmen: Rewe will bei Tegut nachlegen",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOdzhuaTFhcjNKQTR0UmFFRlNKRmdNNTFFNlFGWV9KUXQtSVRWeWRfbkFWVVc0U0dtaDNCS2VpSWhMWFJIM1B2YXhqZ2FJeFNHNlJqbExxN0pDU04zaHlFcDQyVTFQWm1teWRUTUpOQlFRZ185YkJJT1dKQ0ZMY0NyZTRsSjlYazhObmhEM21RN2hSbWdZZWR1M1dLX3hqYXh3X0VVNVI4U3pzYnlRb0E?oc=5",
+      "source": "Lebensmittel Zeitung",
+      "source_url": "https://www.lebensmittelzeitung.net",
+      "published": "2026-11-13T10:43:00+00:00",
+      "score": 75,
+      "category": "Handelsstrategie",
+      "score_detail": {
+        "Thema": 30,
+        "Quelle": 20,
+        "Aktualität": 15,
+        "Tragweite (Schlüsselwörter)": 10
+      }
+    },
     {
       "title": "Strategie für Frischelogistik: EDEKA NORDfrische erweitert Automatisierung mit KI-gestützter Robotik",
       "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQX0xSS01GTUlpUF9POHZTNTd5c044X1FtblMtTm5ONTVVbzNhSlhSb0x4NEgxbFN2LS1BU29jMDZHMGZFYi1IV1prU2ZtRVFZaGQ3NnFIMnlsMkY2SWkydzl0eV9XNFBfZlpZVEsyb0F2MGc3bkVyNEpjMHR6X19EVmkyWGdCYXVUR3Vldkdkc2VpbTNqcmh6bUNfbmJTN25MeEFYdkhaalhyMHlnS0lmQURyZFNjVE1KZ0lvS1cxN1hHVjI5OEpsNUd6djBBTzdKeDNSUTh2MG81Wks3YUpxOENqNDlOTWhrbWVlell2QVJFZUs4eWc?oc=5",
       "source": "Lebensmittel Zeitung",
       "source_url": "https://www.lebensmittelzeitung.net",
       "published": "2026-11-08T23:01:00+00:00",
-      "score": 77,
+      "score": 75,
       "category": "KI & Technologie",
       "score_detail": {
         "Thema": 45,
         "Quelle": 20,
-        "Aktualität": 7,
+        "Aktualität": 5,
         "Tragweite (Schlüsselwörter)": 5
+      }
+    },
+    {
+      "title": "Geschäftsjahr 2025: Bünting investiert in Logistik und Produktion",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOTllyUGJzWEtMMGpVenZkOWtHSnFNRGpTYlROT1puTE9JNUFjVnNINzdJTGMzWE5waC1PUm00Sy1OYjN3ekd0MUF6UVpnRDFxREhCNk11ZWVCbmEwU0Qzd2JPTld6YlV1dzNzY1U4TFZLbS1PRENjM1VCTFdpcEllUmw1V0JQcFlDdERqeFRSU3o2ZnFUM3JyeHFsRjA3MlBOVWQ5c3FySl9KZWNaMjNCUXlZMVJnNHJ6a1lSNmJPSU1mal9DRVJZ?oc=5",
+      "source": "Lebensmittel Zeitung",
+      "source_url": "https://www.lebensmittelzeitung.net",
+      "published": "2026-11-13T14:00:00+00:00",
+      "score": 70,
+      "category": "Handelsstrategie",
+      "score_detail": {
+        "Thema": 30,
+        "Quelle": 20,
+        "Aktualität": 15,
+        "Tragweite (Schlüsselwörter)": 5
+      }
+    },
+    {
+      "title": "Verkehr und Lagerei weisen 2026 bislang die höchste Insolvenzhäufigkeit auf",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBQVWNtZk1uMG1BbUx0ejJYUklIVE9lV1hHY2p4a2JZU2xTTWRXaExVOUZPQmE5M3NpV2JMWGVNcGJhOEY3T1lCQjk4U3VrQWhBUmt6Smc0eC1mSm5HT3JMbTl5bTZEMXFBN1RRQ3ExWVVCM1JZazd1SDdqbw?oc=5",
+      "source": "RETAIL-NEWS Deutschland",
+      "source_url": "https://retail-news.de",
+      "published": "2026-11-13T11:13:06+00:00",
+      "score": 69,
+      "category": "Handelsstrategie",
+      "score_detail": {
+        "Thema": 30,
+        "Quelle": 14,
+        "Aktualität": 15,
+        "Tragweite (Schlüsselwörter)": 10
       }
     },
     {
@@ -25,27 +70,12 @@
       "source": "Lebensmittel Zeitung",
       "source_url": "https://www.lebensmittelzeitung.net",
       "published": "2026-11-12T11:00:00+00:00",
-      "score": 70,
+      "score": 68,
       "category": "KI & Technologie",
       "score_detail": {
         "Thema": 30,
         "Quelle": 20,
-        "Aktualität": 15,
-        "Tragweite (Schlüsselwörter)": 5
-      }
-    },
-    {
-      "title": "Konsumentenstudie: Verbraucher sparen aus Prinzip",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOUW1STTdCWElzSHpYbVU1WGFmUjBDRVEtV2JCaFVSRnJLN2RCSnNJR1RUQmRmZmJLRWhoM0RWMVZLbVpsTVcyNEhWai1pYUs0amlpdEM4a1pWNjU3aDYzWXZ6QzhtSTR3czhtdURmU1g2UzF1MmtwcDBha1ZOUXVtNzNndXotVW9qOXRPN1VqMGlGZ2NKUEo2X1RiUW9MLVhfQ2luVzBPY3B4N20wQzRr?oc=5",
-      "source": "Lebensmittel Zeitung",
-      "source_url": "https://www.lebensmittelzeitung.net",
-      "published": "2026-11-12T10:58:32+00:00",
-      "score": 70,
-      "category": "Konsumenten",
-      "score_detail": {
-        "Thema": 30,
-        "Quelle": 20,
-        "Aktualität": 15,
+        "Aktualität": 13,
         "Tragweite (Schlüsselwörter)": 5
       }
     },
@@ -55,13 +85,28 @@
       "source": "Lebensmittel Zeitung",
       "source_url": "https://www.lebensmittelzeitung.net",
       "published": "2026-11-12T13:19:00+00:00",
-      "score": 69,
+      "score": 67,
       "category": "Handelsstrategie",
       "score_detail": {
         "Thema": 24,
         "Quelle": 20,
-        "Aktualität": 15,
+        "Aktualität": 13,
         "Tragweite (Schlüsselwörter)": 10
+      }
+    },
+    {
+      "title": "Konsumentenstudie: Verbraucher sparen aus Prinzip",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOUW1STTdCWElzSHpYbVU1WGFmUjBDRVEtV2JCaFVSRnJLN2RCSnNJR1RUQmRmZmJLRWhoM0RWMVZLbVpsTVcyNEhWai1pYUs0amlpdEM4a1pWNjU3aDYzWXZ6QzhtSTR3czhtdURmU1g2UzF1MmtwcDBha1ZOUXVtNzNndXotVW9qOXRPN1VqMGlGZ2NKUEo2X1RiUW9MLVhfQ2luVzBPY3B4N20wQzRr?oc=5",
+      "source": "Lebensmittel Zeitung",
+      "source_url": "https://www.lebensmittelzeitung.net",
+      "published": "2026-11-12T09:25:00+00:00",
+      "score": 67,
+      "category": "Konsumenten",
+      "score_detail": {
+        "Thema": 30,
+        "Quelle": 20,
+        "Aktualität": 12,
+        "Tragweite (Schlüsselwörter)": 5
       }
     },
     {
@@ -70,86 +115,41 @@
       "source": "Handelsblatt",
       "source_url": "https://www.handelsblatt.com",
       "published": "2026-11-11T16:34:42+00:00",
-      "score": 68,
+      "score": 66,
       "category": "KI & Technologie",
       "score_detail": {
         "Thema": 36,
         "Quelle": 14,
-        "Aktualität": 13,
+        "Aktualität": 11,
         "Tragweite (Schlüsselwörter)": 5
       }
     },
     {
-      "title": "Konsumverhalten - Neun von zehn Verbrauchern sparen beim Einkaufen – viele freiwillig",
-      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQRV94cHBmMjhrU0tLR0VNSW1Vd3YtODRIYThoTVFMZU9oYXhpWVdaTzJwaGZXb3E2RkVqSE1qdmZQR3pLbW1oRkNCSUkzdWZVb0hrcEl3VFh0QXZuMmxaNnA2T0NFRlcyeE5acFVXUUMwZFdBOTA1WFVqd1dmcjhJbk4wRXNkQm0yOVRaZ0tRVmdVY0NXc21odU1SMzdBOXdIVjNvZjI2Z2lKX19SUEhSTWZveDdYMHdQTUlYNnpVaDJhLTVTWTRxdXdpcUZMMjBtMV9zdU9QdzFtRHhWOGdiOTg3UkFwUWp2U2NhOHZiUGFFOEFmWEk2NFVaOUh3eTJrSUE?oc=5",
+      "title": "Konjunktur - DIHK rechnet für 2026 mit Insolvenzrekord",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQeG1ranMyRU9FZk5YMnkwcWMyZUhiSzlhYzhiTE5KM1dRTmRFM0tUN3FfYm9LSm9ucVc3eFZtaFZYMGllY0puNmVWVzBxSjE3OWZaVC0ySnR0Wk5nQVdyVks1YXZFY3FMS24tWThxRUdQU1Zya2g4NUNSVFJDeUFkN0dkNTlOcnZmMS1GSm9UdmxwbDVzdkNQVmdMYlNiMWcxYWg2YjlueEVSN1V1UTlxTGpMX0FTRFdELUdMZEg1aUNMdk9nWk9jbw?oc=5",
       "source": "Lebensmittelpraxis.de",
       "source_url": "https://lebensmittelpraxis.de",
-      "published": "2026-11-12T13:21:00+00:00",
-      "score": 66,
-      "category": "Konsumenten",
-      "score_detail": {
-        "Thema": 30,
-        "Quelle": 16,
-        "Aktualität": 15,
-        "Tragweite (Schlüsselwörter)": 5
-      }
-    },
-    {
-      "title": "Avanade vereinbart die Übernahme von Robiquity, um die KI-Automatisierung im Vereinigten Königreich auszubauen",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQNW1wZDljbVpZdTJZeGlKUTU3czFNUmFuWGR3S0tDWU0xN0tzZXhrd0Q1a3FNbUF0YTF6OHBDY2hMVmNiWTZJTXFTZHA5aF9TbnF0X1Fjd1NHRGZqWm9KbDMxaTQxamQ2R2wxbHhaSGdxMldjdVBqcjNscWpvclU1dE5qS3E1cWFfR0ZKcFpORjk?oc=5",
-      "source": "Unite.AI",
-      "source_url": "https://www.unite.ai",
-      "published": "2026-11-10T21:22:02+00:00",
-      "score": 65,
-      "category": "KI & Technologie",
-      "score_detail": {
-        "Thema": 36,
-        "Quelle": 8,
-        "Aktualität": 11,
-        "Tragweite (Schlüsselwörter)": 10
-      }
-    },
-    {
-      "title": "Einigung bei Stellenabbau: Warsteiner kommt bei Restrukturierung voran",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNcFhMQUxpcVBJSm9rQjdVcWVUYnFCeWJhUHNlRkhLaEJwSkc2dmtsa21TUm5pRjV4dENhd2pHUkpMX2R0d3ZOcXNscDM3QlB3ZDFHNTVGN2ZMdll5QU9ZRG5scTZOeDJ0NW5tMGlwZmZYbEVBeFdCb19FbEIzU3JxT2VIeGY0QmlGTDhVdjRBSEhwQV9NYkhPQmxlMFdORnZJRmJuU0JMeU5ZX3RvYkNvMGZMVVRLbFJqNTJyUGxBNEVDRFFIeXQxQnRrZU5ZNXM?oc=5",
-      "source": "Lebensmittel Zeitung",
-      "source_url": "https://www.lebensmittelzeitung.net",
-      "published": "2026-11-10T14:00:00+00:00",
+      "published": "2026-11-13T10:35:00+00:00",
       "score": 65,
       "category": "Handelsstrategie",
       "score_detail": {
         "Thema": 24,
-        "Quelle": 20,
-        "Aktualität": 11,
+        "Quelle": 16,
+        "Aktualität": 15,
         "Tragweite (Schlüsselwörter)": 10
       }
     },
     {
-      "title": "Technologie: Chiphersteller Infineon rechnet mit massiv steigendem KI-Umsatz",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNeHNidUlLNlAxNUc4ZG1mV1F3QnI1QUZMMlZXWVdtVjNPbUFCbFhtWm1xcVVQRk5JSjU0T08zaFFsSVJoMDFzMVR0VkhHV2U0REszMm12dXJUdm9SVTlza3U1X2w2X21hUmJVSENlRG9LZm8tcVpLMG1lWEhCckpmQ0NNTjdJTE9wakJFVmI2V0N2N1Q5UXZ6NEl4WDdJNWp0U2xDLTlDQ3NfREhPQ19rSzBDb0lPaE5mQUVJSmRFUEUwaGlJd0xvYUZGOXVMR0pwdnlkLVdn?oc=5",
-      "source": "Handelsblatt",
-      "source_url": "https://www.handelsblatt.com",
-      "published": "2026-11-10T06:38:55+00:00",
-      "score": 65,
+      "title": "Dark Patterns, Abofallen und KI-Agenten: Die EU will den Onlinehandel neu regeln",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA2TGwzTXQ1Y1dkbDV1Z2RJVjk4T2hCeUVmaVpxVG1JNERBYzBLMEsyelFCdHpSLVpfQ0NQVVV1em1vb0pfUG0yNmxWbUZOUlhVQUZ0VjB0a2gyOHlOdGJGNUpDdHp0eDBBbkpsbm9rZjA1ak9z?oc=5",
+      "source": "t3n",
+      "source_url": "https://t3n.de",
+      "published": "2026-11-13T10:30:18+00:00",
+      "score": 64,
       "category": "KI & Technologie",
       "score_detail": {
-        "Thema": 36,
+        "Thema": 30,
         "Quelle": 14,
-        "Aktualität": 10,
-        "Tragweite (Schlüsselwörter)": 5
-      }
-    },
-    {
-      "title": "\"Big-Trolley-Kunden\": Lidl steigert Anteil von Großeinkäufen",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQNTdTYkQxS2VqYlFwX1R6dWw2NUZFMDdLelRBMVJqdEtka2puaGxmZ2RfQjdnd0pWY1FFSjYzMmZ1VndPOEhoYmYtbVdkNjhiOF81TlFaTjBaTTZ6c0toclk0aEdmbEdqaHJIOHdOTy1QYlNySEJtcENoQUNKd2U0VktxeEFmTlFtMnd6cUVTNVVfNzAwa3ZMN2syU05RWC01Z2VJRmpvQU1FcVZkMERqc2NCZFhJU0RhVHdyTkRn?oc=5",
-      "source": "Lebensmittel Zeitung",
-      "source_url": "https://www.lebensmittelzeitung.net",
-      "published": "2026-11-12T15:00:00+00:00",
-      "score": 64,
-      "category": "Konsumenten",
-      "score_detail": {
-        "Thema": 24,
-        "Quelle": 20,
         "Aktualität": 15,
         "Tragweite (Schlüsselwörter)": 5
       }
