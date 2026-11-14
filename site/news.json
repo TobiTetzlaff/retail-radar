@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-13T14:50:57.161271+00:00",
+  "generated_at": "2026-11-14T13:45:13.024613+00:00",
   "window_days": 7,
-  "candidate_count": 150,
+  "candidate_count": 154,
   "errors_count": 0,
   "articles": [
     {
@@ -10,12 +10,12 @@
       "source": "Lebensmittel Zeitung",
       "source_url": "https://www.lebensmittelzeitung.net",
       "published": "2026-11-13T10:43:00+00:00",
-      "score": 75,
+      "score": 73,
       "category": "Handelsstrategie",
       "score_detail": {
         "Thema": 30,
         "Quelle": 20,
-        "Aktualität": 15,
+        "Aktualität": 13,
         "Tragweite (Schlüsselwörter)": 10
       }
     },
@@ -25,12 +25,12 @@
       "source": "Lebensmittel Zeitung",
       "source_url": "https://www.lebensmittelzeitung.net",
       "published": "2026-11-08T23:01:00+00:00",
-      "score": 75,
+      "score": 73,
       "category": "KI & Technologie",
       "score_detail": {
         "Thema": 45,
         "Quelle": 20,
-        "Aktualität": 5,
+        "Aktualität": 3,
         "Tragweite (Schlüsselwörter)": 5
       }
     },
@@ -40,12 +40,12 @@
       "source": "Lebensmittel Zeitung",
       "source_url": "https://www.lebensmittelzeitung.net",
       "published": "2026-11-13T14:00:00+00:00",
-      "score": 70,
+      "score": 68,
       "category": "Handelsstrategie",
       "score_detail": {
         "Thema": 30,
         "Quelle": 20,
-        "Aktualität": 15,
+        "Aktualität": 13,
         "Tragweite (Schlüsselwörter)": 5
       }
     },
@@ -55,12 +55,27 @@
       "source": "RETAIL-NEWS Deutschland",
       "source_url": "https://retail-news.de",
       "published": "2026-11-13T11:13:06+00:00",
-      "score": 69,
+      "score": 67,
       "category": "Handelsstrategie",
       "score_detail": {
         "Thema": 30,
         "Quelle": 14,
-        "Aktualität": 15,
+        "Aktualität": 13,
+        "Tragweite (Schlüsselwörter)": 10
+      }
+    },
+    {
+      "title": "Elektronikhandel: JD schließt Ceconomy-Übernahme ab",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQSGlLZmtaTkxoNjc0QmhveFBCamZtWldjal9wWTR0aEYyaXZldGxVeFJBYUw4TmRpUmpvSnhYRXdVdi1MSGltSWp2SFl3UGpMamRHbkhkbWJqSUlUMDdGczRWZjNlOWotWUJiaV9jMkN4aGNiRTY1Qk04TXhBSUVDZy1nalhBRHNpMFA2UWdGREZBLThFN2g2M3d4TlAxQVdpY1FKTHFyVVRYaWRGc3FhR2w5WDNwOEU?oc=5",
+      "source": "Lebensmittel Zeitung",
+      "source_url": "https://www.lebensmittelzeitung.net",
+      "published": "2026-11-12T13:19:00+00:00",
+      "score": 65,
+      "category": "Handelsstrategie",
+      "score_detail": {
+        "Thema": 24,
+        "Quelle": 20,
+        "Aktualität": 11,
         "Tragweite (Schlüsselwörter)": 10
       }
     },
@@ -70,28 +85,13 @@
       "source": "Lebensmittel Zeitung",
       "source_url": "https://www.lebensmittelzeitung.net",
       "published": "2026-11-12T11:00:00+00:00",
-      "score": 68,
+      "score": 65,
       "category": "KI & Technologie",
       "score_detail": {
         "Thema": 30,
         "Quelle": 20,
-        "Aktualität": 13,
+        "Aktualität": 10,
         "Tragweite (Schlüsselwörter)": 5
-      }
-    },
-    {
-      "title": "Elektronikhandel: JD schließt Ceconomy-Übernahme ab",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQSGlLZmtaTkxoNjc0QmhveFBCamZtWldjal9wWTR0aEYyaXZldGxVeFJBYUw4TmRpUmpvSnhYRXdVdi1MSGltSWp2SFl3UGpMamRHbkhkbWJqSUlUMDdGczRWZjNlOWotWUJiaV9jMkN4aGNiRTY1Qk04TXhBSUVDZy1nalhBRHNpMFA2UWdGREZBLThFN2g2M3d4TlAxQVdpY1FKTHFyVVRYaWRGc3FhR2w5WDNwOEU?oc=5",
-      "source": "Lebensmittel Zeitung",
-      "source_url": "https://www.lebensmittelzeitung.net",
-      "published": "2026-11-12T13:19:00+00:00",
-      "score": 67,
-      "category": "Handelsstrategie",
-      "score_detail": {
-        "Thema": 24,
-        "Quelle": 20,
-        "Aktualität": 13,
-        "Tragweite (Schlüsselwörter)": 10
       }
     },
     {
@@ -100,27 +100,27 @@
       "source": "Lebensmittel Zeitung",
       "source_url": "https://www.lebensmittelzeitung.net",
       "published": "2026-11-12T09:25:00+00:00",
-      "score": 67,
+      "score": 65,
       "category": "Konsumenten",
       "score_detail": {
         "Thema": 30,
         "Quelle": 20,
-        "Aktualität": 12,
+        "Aktualität": 10,
         "Tragweite (Schlüsselwörter)": 5
       }
     },
     {
-      "title": "KI in der industriellen Automatisierung : So verändert Agentic AI das Engineering",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQVjVuN3ctWkJZSS1FODhtRUVRSi1ET0szTmowck5lemdBUVh1Y3NTTWljbDQtc0hfMUZjNThKeThPVTU4RE5uU0ZydUM0cU9WUnY2SGx0cFcwRGRGSnhGT1ZoazBuNHJGNG13QnFjdU9jWC1oVV9YLTBlQXZTcEd4bnBDVXVTVl9DSGhjTQ?oc=5",
+      "title": "Touristik: Mit dieser Strategie kämpft Tui um seine Kunden",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOMHR3SGM0UU83b2ZPVVVoUmUwdUdTdEVsdW01ZjV5QXpIcjBjZTBwVjBkSXBsekZwZWNvdUtYZUgyYXV6R3RLLTlEbmJ0VnFtVkRnalBxTlhQaVlzQ0NpejhGMVg4cGF4SUR4VS1uaXRseV9vZzdXWmp6WUhTSkxKbHRkMlpYZWJLanEzcjdXZ2RuN1hGaU9ST0dsN1pVaWxTdkhJVHZfZHdvY1hDc0pjSTZvLUNuUnhzTUlWaEk1LXdiZmE1aUNR?oc=5",
       "source": "Handelsblatt",
       "source_url": "https://www.handelsblatt.com",
-      "published": "2026-11-11T16:34:42+00:00",
-      "score": 66,
-      "category": "KI & Technologie",
+      "published": "2026-11-14T08:57:48+00:00",
+      "score": 64,
+      "category": "Handelsstrategie",
       "score_detail": {
-        "Thema": 36,
+        "Thema": 30,
         "Quelle": 14,
-        "Aktualität": 11,
+        "Aktualität": 15,
         "Tragweite (Schlüsselwörter)": 5
       }
     },
@@ -130,27 +130,27 @@
       "source": "Lebensmittelpraxis.de",
       "source_url": "https://lebensmittelpraxis.de",
       "published": "2026-11-13T10:35:00+00:00",
-      "score": 65,
+      "score": 63,
       "category": "Handelsstrategie",
       "score_detail": {
         "Thema": 24,
         "Quelle": 16,
-        "Aktualität": 15,
+        "Aktualität": 13,
         "Tragweite (Schlüsselwörter)": 10
       }
     },
     {
-      "title": "Dark Patterns, Abofallen und KI-Agenten: Die EU will den Onlinehandel neu regeln",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA2TGwzTXQ1Y1dkbDV1Z2RJVjk4T2hCeUVmaVpxVG1JNERBYzBLMEsyelFCdHpSLVpfQ0NQVVV1em1vb0pfUG0yNmxWbUZOUlhVQUZ0VjB0a2gyOHlOdGJGNUpDdHp0eDBBbkpsbm9rZjA1ak9z?oc=5",
-      "source": "t3n",
-      "source_url": "https://t3n.de",
-      "published": "2026-11-13T10:30:18+00:00",
-      "score": 64,
+      "title": "Minimal AI – KI-Agenten für den E-Commerce-Support, Bestellautomatisierung & Training in natürlicher Sprache",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQLWx2a0hScEJBNEJSV3A0d2FrYlFUUkt5OVdMS3VLX2EwNXdhNE82bnZyME9FclhEbnlMRkVIUl9laXlkQ0s5WEZHR1NTM2NreWc0MjhoVmNTZ0N2V2hwN3ROREQ5dVBvdnNDRGY3czFVYk1NRkNGalBjbVRjTENnQ2VNUVlmTDdIMGQ5c19lWTFlakN0aWZodEFDbWlUQnEyMlNSeERqTWxWaEctMENIelpQaXNSU3hPRGo1cktQYmhKRmxUc0hoVzFPaw?oc=5",
+      "source": "quasa.io",
+      "source_url": "https://quasa.io",
+      "published": "2026-11-13T17:17:16+00:00",
+      "score": 62,
       "category": "KI & Technologie",
       "score_detail": {
-        "Thema": 30,
-        "Quelle": 14,
-        "Aktualität": 15,
+        "Thema": 36,
+        "Quelle": 8,
+        "Aktualität": 13,
         "Tragweite (Schlüsselwörter)": 5
       }
     }
