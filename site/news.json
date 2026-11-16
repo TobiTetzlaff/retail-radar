@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-14T13:45:13.024613+00:00",
+  "generated_at": "2026-11-16T16:18:48.294620+00:00",
   "window_days": 7,
-  "candidate_count": 154,
+  "candidate_count": 163,
   "errors_count": 0,
   "articles": [
     {
@@ -10,147 +10,147 @@
       "source": "Lebensmittel Zeitung",
       "source_url": "https://www.lebensmittelzeitung.net",
       "published": "2026-11-13T10:43:00+00:00",
-      "score": 73,
-      "category": "Handelsstrategie",
-      "score_detail": {
-        "Thema": 30,
-        "Quelle": 20,
-        "Aktualität": 13,
-        "Tragweite (Schlüsselwörter)": 10
-      }
-    },
-    {
-      "title": "Strategie für Frischelogistik: EDEKA NORDfrische erweitert Automatisierung mit KI-gestützter Robotik",
-      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQX0xSS01GTUlpUF9POHZTNTd5c044X1FtblMtTm5ONTVVbzNhSlhSb0x4NEgxbFN2LS1BU29jMDZHMGZFYi1IV1prU2ZtRVFZaGQ3NnFIMnlsMkY2SWkydzl0eV9XNFBfZlpZVEsyb0F2MGc3bkVyNEpjMHR6X19EVmkyWGdCYXVUR3Vldkdkc2VpbTNqcmh6bUNfbmJTN25MeEFYdkhaalhyMHlnS0lmQURyZFNjVE1KZ0lvS1cxN1hHVjI5OEpsNUd6djBBTzdKeDNSUTh2MG81Wks3YUpxOENqNDlOTWhrbWVlell2QVJFZUs4eWc?oc=5",
-      "source": "Lebensmittel Zeitung",
-      "source_url": "https://www.lebensmittelzeitung.net",
-      "published": "2026-11-08T23:01:00+00:00",
-      "score": 73,
-      "category": "KI & Technologie",
-      "score_detail": {
-        "Thema": 45,
-        "Quelle": 20,
-        "Aktualität": 3,
-        "Tragweite (Schlüsselwörter)": 5
-      }
-    },
-    {
-      "title": "Geschäftsjahr 2025: Bünting investiert in Logistik und Produktion",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOTllyUGJzWEtMMGpVenZkOWtHSnFNRGpTYlROT1puTE9JNUFjVnNINzdJTGMzWE5waC1PUm00Sy1OYjN3ekd0MUF6UVpnRDFxREhCNk11ZWVCbmEwU0Qzd2JPTld6YlV1dzNzY1U4TFZLbS1PRENjM1VCTFdpcEllUmw1V0JQcFlDdERqeFRSU3o2ZnFUM3JyeHFsRjA3MlBOVWQ5c3FySl9KZWNaMjNCUXlZMVJnNHJ6a1lSNmJPSU1mal9DRVJZ?oc=5",
-      "source": "Lebensmittel Zeitung",
-      "source_url": "https://www.lebensmittelzeitung.net",
-      "published": "2026-11-13T14:00:00+00:00",
       "score": 68,
       "category": "Handelsstrategie",
       "score_detail": {
         "Thema": 30,
         "Quelle": 20,
-        "Aktualität": 13,
-        "Tragweite (Schlüsselwörter)": 5
-      }
-    },
-    {
-      "title": "Verkehr und Lagerei weisen 2026 bislang die höchste Insolvenzhäufigkeit auf",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBQVWNtZk1uMG1BbUx0ejJYUklIVE9lV1hHY2p4a2JZU2xTTWRXaExVOUZPQmE5M3NpV2JMWGVNcGJhOEY3T1lCQjk4U3VrQWhBUmt6Smc0eC1mSm5HT3JMbTl5bTZEMXFBN1RRQ3ExWVVCM1JZazd1SDdqbw?oc=5",
-      "source": "RETAIL-NEWS Deutschland",
-      "source_url": "https://retail-news.de",
-      "published": "2026-11-13T11:13:06+00:00",
-      "score": 67,
-      "category": "Handelsstrategie",
-      "score_detail": {
-        "Thema": 30,
-        "Quelle": 14,
-        "Aktualität": 13,
+        "Aktualität": 8,
         "Tragweite (Schlüsselwörter)": 10
       }
     },
     {
-      "title": "Elektronikhandel: JD schließt Ceconomy-Übernahme ab",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQSGlLZmtaTkxoNjc0QmhveFBCamZtWldjal9wWTR0aEYyaXZldGxVeFJBYUw4TmRpUmpvSnhYRXdVdi1MSGltSWp2SFl3UGpMamRHbkhkbWJqSUlUMDdGczRWZjNlOWotWUJiaV9jMkN4aGNiRTY1Qk04TXhBSUVDZy1nalhBRHNpMFA2UWdGREZBLThFN2g2M3d4TlAxQVdpY1FKTHFyVVRYaWRGc3FhR2w5WDNwOEU?oc=5",
-      "source": "Lebensmittel Zeitung",
-      "source_url": "https://www.lebensmittelzeitung.net",
-      "published": "2026-11-12T13:19:00+00:00",
-      "score": 65,
+      "title": "Black Friday 2026: Einzelhandel peilt Rekordumsatz von 6,2 Milliarden Euro für Aktionstage an",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPcVplNXhJYUdSRWRLX2NRQllJUzQ2YjNsTGlpMnV2VjdGaFNZRG53d0pZOC00X21oZWtnLWFELVpXUnFLOHdVZHp5eUMzQzlLWVB3N0lsMmxvcW1ybUlJT1A5TUJCeXdnbjZ6X2RLeU5JWnAyc2ZSWTRYVUYwYnF2ajN4MzNBWmVZc045UndFWUFCYmxyeDJFVVFDZk90WHRsSllQcWxpdnZRcU41RUJwV0MwMXZ5cHdNYzktNmVLaUVNa3R2NG04c2p1emoxUzVsdG9LYlBocmV1VUw1Zmln?oc=5",
+      "source": "WirtschaftsWoche",
+      "source_url": "https://www.wiwo.de",
+      "published": "2026-11-16T09:06:59+00:00",
+      "score": 66,
+      "category": "Handelsstrategie",
+      "score_detail": {
+        "Thema": 30,
+        "Quelle": 12,
+        "Aktualität": 14,
+        "Tragweite (Schlüsselwörter)": 10
+      }
+    },
+    {
+      "title": "Black Friday und Cyber Monday: HDE rechnet zu Aktionstagen mit Umsatz von 6,2 Milliarden Euro",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNbzhjM0JoXzZ0bmg1WXlKT2V2SHo5OUZFdllxMGhzMW1oWnFhOU13QmZwRzRPdjliRV84VkJELUI0RFdyMFlia3pNYzlwa3VVblVFMjl0b0UwNW55dVk4THFHVm5YaTFGdDIxODFFQzhVM25LQ0toSnJzZ1pWMUVReTVvVEhpcGZyek5KVVFFcHFjb1gyLVQ0ZnhjQ3gzVzhGcWdxTEM5LV91V1JNTXdBdzRrNkxkQkFSbV9Sb1I4RHdUYkpLclNCUTkwUl9uNmNLWC11VUhVYzZ1bmtzd3ZSbw?oc=5",
+      "source": "Handelsverband Deutschland (HDE)",
+      "source_url": "https://einzelhandel.de",
+      "published": "2026-11-16T06:58:52+00:00",
+      "score": 66,
       "category": "Handelsstrategie",
       "score_detail": {
         "Thema": 24,
-        "Quelle": 20,
-        "Aktualität": 11,
+        "Quelle": 18,
+        "Aktualität": 14,
         "Tragweite (Schlüsselwörter)": 10
       }
     },
     {
-      "title": "Mit KI-Tool Joule: SAP öffnet zweiten Smart Store in Walldorf",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOQ0xuN0dFT2YzdW5YUHhLaDVQX056cHdNbTA3cWJGYV9KVG5tcEd4Q1pnVUhWbW9TalBfbTdMc3B6Ml9Pb2U2VWxSNGFCb041R2FQOHVDczVnZW53VDlvWjRST1lIN1dpZkRsUzZpZVlfS2hzNEZfODJXMWJ6WkxYeG8xRXNzaS1KLUN2eEhYc1ZPU20zSVlTTjhfMEFJWGo3STJjZ2V6Z2pCQWh0Y0JxZl9aM05WT2FxSEpka09DZGtUWTlGZWFFcnNB?oc=5",
+      "title": "Smart Stores: Rewe zieht bei Pick & Go den Stecker",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQLU9kdFYzdEUzYjhuZWZmeUlLRldzUFYwaHNrNVh0REdyQ19UempMdjYtdkdiMWluVURXcUpTeFR2OGh6TlpIUGQ4bVJ1TlYxenZhVW1PU19VQkZOck9CM3Z1ZXlmRF9JNlhueEdIYW8ySUhySmt0b09vbnNINmFmZHc2RURJd3o2aldaY2k5U2pWd1RjNmo5R0tfYllSTXAyU04wenBNUnFMRTRoMUNUSm5POXhMcVpX?oc=5",
       "source": "Lebensmittel Zeitung",
       "source_url": "https://www.lebensmittelzeitung.net",
-      "published": "2026-11-12T11:00:00+00:00",
-      "score": 65,
+      "published": "2026-11-16T14:23:00+00:00",
+      "score": 64,
       "category": "KI & Technologie",
       "score_detail": {
-        "Thema": 30,
+        "Thema": 24,
         "Quelle": 20,
-        "Aktualität": 10,
-        "Tragweite (Schlüsselwörter)": 5
-      }
-    },
-    {
-      "title": "Konsumentenstudie: Verbraucher sparen aus Prinzip",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOUW1STTdCWElzSHpYbVU1WGFmUjBDRVEtV2JCaFVSRnJLN2RCSnNJR1RUQmRmZmJLRWhoM0RWMVZLbVpsTVcyNEhWai1pYUs0amlpdEM4a1pWNjU3aDYzWXZ6QzhtSTR3czhtdURmU1g2UzF1MmtwcDBha1ZOUXVtNzNndXotVW9qOXRPN1VqMGlGZ2NKUEo2X1RiUW9MLVhfQ2luVzBPY3B4N20wQzRr?oc=5",
-      "source": "Lebensmittel Zeitung",
-      "source_url": "https://www.lebensmittelzeitung.net",
-      "published": "2026-11-12T09:25:00+00:00",
-      "score": 65,
-      "category": "Konsumenten",
-      "score_detail": {
-        "Thema": 30,
-        "Quelle": 20,
-        "Aktualität": 10,
-        "Tragweite (Schlüsselwörter)": 5
-      }
-    },
-    {
-      "title": "Touristik: Mit dieser Strategie kämpft Tui um seine Kunden",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOMHR3SGM0UU83b2ZPVVVoUmUwdUdTdEVsdW01ZjV5QXpIcjBjZTBwVjBkSXBsekZwZWNvdUtYZUgyYXV6R3RLLTlEbmJ0VnFtVkRnalBxTlhQaVlzQ0NpejhGMVg4cGF4SUR4VS1uaXRseV9vZzdXWmp6WUhTSkxKbHRkMlpYZWJLanEzcjdXZ2RuN1hGaU9ST0dsN1pVaWxTdkhJVHZfZHdvY1hDc0pjSTZvLUNuUnhzTUlWaEk1LXdiZmE1aUNR?oc=5",
-      "source": "Handelsblatt",
-      "source_url": "https://www.handelsblatt.com",
-      "published": "2026-11-14T08:57:48+00:00",
-      "score": 64,
-      "category": "Handelsstrategie",
-      "score_detail": {
-        "Thema": 30,
-        "Quelle": 14,
         "Aktualität": 15,
         "Tragweite (Schlüsselwörter)": 5
       }
     },
     {
-      "title": "Konjunktur - DIHK rechnet für 2026 mit Insolvenzrekord",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQeG1ranMyRU9FZk5YMnkwcWMyZUhiSzlhYzhiTE5KM1dRTmRFM0tUN3FfYm9LSm9ucVc3eFZtaFZYMGllY0puNmVWVzBxSjE3OWZaVC0ySnR0Wk5nQVdyVks1YXZFY3FMS24tWThxRUdQU1Zya2g4NUNSVFJDeUFkN0dkNTlOcnZmMS1GSm9UdmxwbDVzdkNQVmdMYlNiMWcxYWg2YjlueEVSN1V1UTlxTGpMX0FTRFdELUdMZEg1aUNMdk9nWk9jbw?oc=5",
-      "source": "Lebensmittelpraxis.de",
-      "source_url": "https://lebensmittelpraxis.de",
-      "published": "2026-11-13T10:35:00+00:00",
+      "title": "Smart Stores: Rewe beendet Pick-&-Go-Test",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPVEhWUktXaE5kM2FaWmN1SkZyNUtqalZxbEFfQUJleWQxaFdWMl9CclF0Z213c2ljZkExZmQyYV9xS1pUc1dXM2EwaTJBREEteXBjdFlMMl9FS19aNGphcXN5WjUyTDNRT2d3SVlWYlZhSFVKdWk4OUlPWUhTMUk0YnR2TkdzN3FNLUR2cEVDMnIxX3MwTHFEdm5ZYURWNE1nalVsUXVVQzRfV3dy?oc=5",
+      "source": "Lebensmittel Zeitung",
+      "source_url": "https://www.lebensmittelzeitung.net",
+      "published": "2026-11-16T14:23:00+00:00",
+      "score": 64,
+      "category": "KI & Technologie",
+      "score_detail": {
+        "Thema": 24,
+        "Quelle": 20,
+        "Aktualität": 15,
+        "Tragweite (Schlüsselwörter)": 5
+      }
+    },
+    {
+      "title": "Finanzbranche: EU gibt Unicredit grünes Licht für Commerzbank-Übernahme",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPV1FsZ0JfVkUzaU9RdmcxRXNaWEJvZDZuTDlxNFZDdThCdk12aXo0UEtUZmljOE1nQlRESEhRRFlGdkg5dTc5WEZzcUtnbkJBM1dPTnIwcDA2RFI2dzJ0MmI5WExaMnBBRms3eEpNaDNlcHpmRVVvZklpS2RIYUJCczhzMHNiNkUyQnhISnk2R2hOZXdEVXpaM2FZZ3N4U3l3ckJlTTJtbm1DQmROdmRPck5aaDdMV3RZdXFhMmFOUUp1a3Z6ZW9FRkdxOC1Wb2g5aEZF?oc=5",
+      "source": "Handelsblatt",
+      "source_url": "https://www.handelsblatt.com",
+      "published": "2026-11-16T13:34:00+00:00",
       "score": 63,
       "category": "Handelsstrategie",
       "score_detail": {
         "Thema": 24,
-        "Quelle": 16,
-        "Aktualität": 13,
+        "Quelle": 14,
+        "Aktualität": 15,
         "Tragweite (Schlüsselwörter)": 10
       }
     },
     {
-      "title": "Minimal AI – KI-Agenten für den E-Commerce-Support, Bestellautomatisierung & Training in natürlicher Sprache",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQLWx2a0hScEJBNEJSV3A0d2FrYlFUUkt5OVdMS3VLX2EwNXdhNE82bnZyME9FclhEbnlMRkVIUl9laXlkQ0s5WEZHR1NTM2NreWc0MjhoVmNTZ0N2V2hwN3ROREQ5dVBvdnNDRGY3czFVYk1NRkNGalBjbVRjTENnQ2VNUVlmTDdIMGQ5c19lWTFlakN0aWZodEFDbWlUQnEyMlNSeERqTWxWaEctMENIelpQaXNSU3hPRGo1cktQYmhKRmxUc0hoVzFPaw?oc=5",
-      "source": "quasa.io",
-      "source_url": "https://quasa.io",
-      "published": "2026-11-13T17:17:16+00:00",
-      "score": 62,
-      "category": "KI & Technologie",
+      "title": "Kommentar: Meyer-Werft-Übernahme durch Reederei MSC hätte fatale Folgen",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNTURIcVdTZml6Z1IzTEFvV1B2NEplcWxTSFdsbGFUcFJWUkhaVnZrQzNIaWVPMkpWVHpEY3pSZUY1XzVrM0pEMzI3c1FZYWg3RUhmWUdpWWNseG5laUMyY3VGUkF0UVRBQ3lhMnkwQU1vb0ZSck4xVUpwRHQyQ0FYa0JrV0pRLVBUZ2ZyTmFHdGd1UkZvZlFLMWNBeUkyMUx2ZnRzX3MyM0gtSVJsSDFuSzJlaExGRmJKUEFHM0lwalJNV0M0OUxkQUh6WkdoYjhU?oc=5",
+      "source": "Handelsblatt",
+      "source_url": "https://www.handelsblatt.com",
+      "published": "2026-11-16T11:20:02+00:00",
+      "score": 63,
+      "category": "Handelsstrategie",
       "score_detail": {
-        "Thema": 36,
-        "Quelle": 8,
-        "Aktualität": 13,
+        "Thema": 24,
+        "Quelle": 14,
+        "Aktualität": 15,
+        "Tragweite (Schlüsselwörter)": 10
+      }
+    },
+    {
+      "title": "Black Friday und Cyber Monday: HDE erwartet 6,2 Milliarden Euro Umsatz",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE8wcXlsb0UybGdrM3cwVmFZTHRuUkpZYTJXV3JOaFBIQmRLdmdNbmgwdjQ0MkJZXzlqTGxJYUM1ZkRSTVlheFRHUEx3Z2JlUjQ3cFNNcGlQX1A2cnJGVURKckZpeGtoNk8zUUN4T1diNktuc3gzMHpFbU9udzM4QQ?oc=5",
+      "source": "RETAIL-NEWS Deutschland",
+      "source_url": "https://retail-news.de",
+      "published": "2026-11-16T11:15:42+00:00",
+      "score": 63,
+      "category": "Handelsstrategie",
+      "score_detail": {
+        "Thema": 24,
+        "Quelle": 14,
+        "Aktualität": 15,
+        "Tragweite (Schlüsselwörter)": 10
+      }
+    },
+    {
+      "title": "Banken: EU und Fed erlauben Commerzbank-Übernahme durch Unicredit",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPVUhGZ0swS3l1MGNMd1lXaGZoTTJKbHFPYmtNSWJZMjNMTFRuRUNYSGpjOFdYSUFaYjl3ZEZkY3FEcWRWcGRiZUxpZk5HdTBGVWNHTWhPX3FLcHhaTkRBdHk2MXNPWlFzMG9ncHFxUlJXaUM5S2NrcDdORmZuTjBMeWhrZTZYMDF1M0N5WTFjbTZOSXZfOWZrbXJBMkpWSDYtZkc2MG1tVUdjLUdvNXRTc3ZMakZSWDdJY0JoUk1VaHN5ODJnai0xUlJHNEltLWU2UXg2RUdna0RmYVFhLUNERQ?oc=5",
+      "source": "Handelsblatt",
+      "source_url": "https://www.handelsblatt.com",
+      "published": "2026-11-16T10:45:39+00:00",
+      "score": 63,
+      "category": "Handelsstrategie",
+      "score_detail": {
+        "Thema": 24,
+        "Quelle": 14,
+        "Aktualität": 15,
+        "Tragweite (Schlüsselwörter)": 10
+      }
+    },
+    {
+      "title": "Arbeitsbedingungen: Branche legt Schwerpunkte für faire Lieferketten fest",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQN2VZclRBT2twOW1JRGp5NmZoVkRJY1JMcDdRRzJ1SHVZSjdjR29SNFNSemE0M1RlR2psYzFiaHJvVE1Yd0VyVDVRZ212NDRDQ0NLTHY4elR4enMyNEJYVUFwNEJNTkZHZVZsU09RT2p3VDE1TjBURENqalB0Q1N3OTM4R1ZBYTJjQXdrSTRZU0VCMlAwTThWczktb3ZQSUFWcVBnUHRRa0RmbmZVSURQa3YwSTZNa19FVlBuWmxlSUQzSi01M3lENl9fZTh2eTcyS3c?oc=5",
+      "source": "Lebensmittel Zeitung",
+      "source_url": "https://www.lebensmittelzeitung.net",
+      "published": "2026-11-16T10:34:41+00:00",
+      "score": 63,
+      "category": "Logistik",
+      "score_detail": {
+        "Thema": 24,
+        "Quelle": 20,
+        "Aktualität": 14,
         "Tragweite (Schlüsselwörter)": 5
       }
     }
