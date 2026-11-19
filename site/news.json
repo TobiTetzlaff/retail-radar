@@ -1,22 +1,82 @@
 {
-  "generated_at": "2026-11-18T15:55:33.331349+00:00",
+  "generated_at": "2026-11-19T15:59:42.522147+00:00",
   "window_days": 7,
-  "candidate_count": 135,
+  "candidate_count": 166,
   "errors_count": 0,
   "articles": [
+    {
+      "title": "Jahresbilanz - dm steigert Umsatz und gewinnt Marktanteile bei Drogeriewaren",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPUVJaRGZCc0ZMc1FudGEyOEZ3dWhnV3M3blRfSjVzNEhxNGxpS0lMZmVxT1A3bWhQVlNkRVRBbEdlVzJMOGd3TklEanBHYjFBLW40bW52UzFpTkJRNjRHYmYtZmhaeWhmNzBXMEpKd1QwRy1YZEwxYlNGNzVSbU5WV3lpd2VMSWRuN0FjYmRNS3Brd2QtcFNjekZqNHFPaFlpdGhndW5kcTBjdV9jM1czZ2JRWHQ2UzQzRzFVMHpGWmY4VzUzNmtUeE9yMFNRaFJyZ3BVYmpHZjNqOGJJZzhEN2hlUGs?oc=5",
+      "source": "Lebensmittelpraxis.de",
+      "source_url": "https://lebensmittelpraxis.de",
+      "published": "2026-11-19T11:00:00+00:00",
+      "score": 71,
+      "category": "Handelsstrategie",
+      "score_detail": {
+        "Thema": 30,
+        "Quelle": 16,
+        "Aktualität": 15,
+        "Tragweite (Schlüsselwörter)": 10
+      }
+    },
     {
       "title": "Konsumentenstudie: Künstliche Intelligenz verscheucht Kunden",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOVmNCbVpabHhNV3c1d2FXbm5KUXRWZ3JWMHBoU1N1aEEzZ1Rab09yWlBfUmRxU3FJZExVMXRBWVpzVlV2cWFFTjlnZlJDc21uUXNxMkgtNzYxaGRlQ2ZBdGNtTFFEemxfMVBPMzhkVl8wTVlUQTRCTWNrQ0otbUMxSjhzMGFZUmRjaXUySzl1MERvcHVwclNiSVdqN1JTYTlaOUpLZm5DQjRWdzNxaFBNRld6WjJKR0pVem1ueE1Scw?oc=5",
       "source": "Lebensmittel Zeitung",
       "source_url": "https://www.lebensmittelzeitung.net",
       "published": "2026-11-17T10:30:00+00:00",
-      "score": 73,
+      "score": 71,
       "category": "Konsumenten",
       "score_detail": {
         "Thema": 36,
         "Quelle": 20,
-        "Aktualität": 12,
+        "Aktualität": 10,
         "Tragweite (Schlüsselwörter)": 5
+      }
+    },
+    {
+      "title": "E-Commerce: KI-Agenten befeuern Onlinehandel",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNR3RIYlJhZkFIR1dYcGZ2R2FGVFJVQ1NOMVlCckhmWnhhZnptS0JCUF9EalhlWTRTRlJSXzJNdHkxMmNtMURIT29Xa2FWdTJwbWlQVnZFYTdUY1NfY3poN0dCSGd6TmVxdzBIaU1iVEtMSWEwM1M1cjh4VGp6bmlTeXdfWmRNdEg2ZmZYYkhqQXNobE85T05YOHZ5ZFU5dFBZbTNaSXB6ZUY?oc=5",
+      "source": "Lebensmittel Zeitung",
+      "source_url": "https://www.lebensmittelzeitung.net",
+      "published": "2026-11-19T14:17:43+00:00",
+      "score": 70,
+      "category": "KI & Technologie",
+      "score_detail": {
+        "Thema": 30,
+        "Quelle": 20,
+        "Aktualität": 15,
+        "Tragweite (Schlüsselwörter)": 5
+      }
+    },
+    {
+      "title": "Übernahme: Sazerac muss Angebot für Berentzen erhöhen",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNRGstSXFZdmoxb3k2c0xkQnd1SVRDN1p2azBsSkJLYlJNMVl2aDh5NzVsQW5wT0J1WEJFMk5iRF9FQzk0NWlaNDRSbk1rYWR4b3JlWnB3TS1GLXJDTUdnekxPTDhkR2JhbFdWbGZvUm1MakNDektIM0tTRDF6NTlFOTZ1N2ZLeElRQVZQaEhsU3ZUdHUybnNiUzdwYUpJUHU1U1Z3Q2pIekZtU2YybkV5TVAtZGxaNURWN3dIRA?oc=5",
+      "source": "Lebensmittel Zeitung",
+      "source_url": "https://www.lebensmittelzeitung.net",
+      "published": "2026-11-19T15:05:00+00:00",
+      "score": 69,
+      "category": "Handelsstrategie",
+      "score_detail": {
+        "Thema": 24,
+        "Quelle": 20,
+        "Aktualität": 15,
+        "Tragweite (Schlüsselwörter)": 10
+      }
+    },
+    {
+      "title": "Geschäftsjahr 2025/26: dm knackt die 20-Milliarden-Marke",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVWY0d0JTLVByeXRaSmRGdkZnZXQzazcxVUFxQVA3blAwU0YwdWlOZWJRQTFma1lLbURUeC1CQXE3OFptRFBGVkdtU2N6OUl2cnluSXdlLUJOdDBEdGx0Y0xvMWpaVkMyODV6Q2RpOER5Q1hWX2Z5RURMZHFhckpCUGl0SWF3WkQ4WHNiY2FUbjMyakg4NE96T293T193TVp5X3VSV25QU2NEalJSSlF1eTlHY19LMndM?oc=5",
+      "source": "Lebensmittel Zeitung",
+      "source_url": "https://www.lebensmittelzeitung.net",
+      "published": "2026-11-19T11:00:00+00:00",
+      "score": 69,
+      "category": "Handelsstrategie",
+      "score_detail": {
+        "Thema": 24,
+        "Quelle": 20,
+        "Aktualität": 15,
+        "Tragweite (Schlüsselwörter)": 10
       }
     },
     {
@@ -24,133 +84,73 @@
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNa1NCakc0anQ3TF9mNkFOQjdOel9FTEZKVW5wemFBSDdWNXY0bXVHUkE3cFpKbFJsbV9CQUVMTnA1R09aeWJaWXRjczVWMFU1QnFfWTdIWVptZ0hVQndlSHVpLVFmaDlnQklycUc2cFBITTE1X1hGcjlJTUpGV2Q5UmFSSHlKdlU2ejNzTjdSajFVYTcyak96bkdqdjVPZERoN1hhajVxY3Y0RTdscFhTZEdqOG9ZS2N5elNORV9hU29vd2pBV3AxVS1B?oc=5",
       "source": "Lebensmittel Zeitung",
       "source_url": "https://www.lebensmittelzeitung.net",
-      "published": "2026-11-18T13:54:36+00:00",
-      "score": 70,
+      "published": "2026-11-18T12:25:00+00:00",
+      "score": 68,
       "category": "Konsumenten",
       "score_detail": {
         "Thema": 30,
         "Quelle": 20,
-        "Aktualität": 15,
+        "Aktualität": 13,
         "Tragweite (Schlüsselwörter)": 5
       }
     },
     {
-      "title": "Insolvenzverfahren: Beirat soll Gläubigerinteressen von Veganz-Nachfolger Planethic Group schützen",
-      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQUWpuTU9RWXpIVVFCdXNPeXVaYjJyc3h4MEFnV01vejdjWS1fanh2N1pOXy1lLXNzN3cwNU1zWnNBSkQ3Z05yV0R3V1lxV0lud3ZOdHZjaElyeXdINlpaSUpqWG9RSDFGbGoySGJENkxEWElTZHhQblZtbTJ2UFlVd3hSaHY3eU9yeUZpbkg5VGJMUnpXb0twZW95ZGFKeWRTYkd3SG0tZ1BIb0NXMnRiMnY0djktWmxiLWJJQjVWd2lpeUJaSUZlQ1ZwZUlMTGpWakhKTFV5cW1MZ3BibFdTQVFPT0J4amtfNjlFSGlOQ1l6ZUZ2YzRr?oc=5",
-      "source": "Lebensmittel Zeitung",
-      "source_url": "https://www.lebensmittelzeitung.net",
-      "published": "2026-11-18T08:50:00+00:00",
-      "score": 68,
-      "category": "Handelsstrategie",
-      "score_detail": {
-        "Thema": 24,
-        "Quelle": 20,
-        "Aktualität": 14,
-        "Tragweite (Schlüsselwörter)": 10
-      }
-    },
-    {
-      "title": "Drittes Quartal: Mediamarkt-Mutterkonzern JD.com steigert den Umsatz",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPQU55R3JpcEVtWGM2dkotbndpMkkwOXpWX2RsLW9La0pYQjlFczE2Z1RFdi1HMFNjTzltMzBmdHp6c2Y1V1dPWWplOTJkbzFRazB6WHpZTV90OXhVN2F0cUtNNjdmVTlBNnR3UXlFRnhyUVJ5N0JYanE2SEFtUTF1aUlsY1dvR2Vja2VQR0pZcVFTVmlxWHVMVFU5alBXOVJ1LXNacmY1VVNtNjN6b1FlbnRib29iUkVGOXBLV3hMNkNuQ0wycGRXTA?oc=5",
-      "source": "Lebensmittel Zeitung",
-      "source_url": "https://www.lebensmittelzeitung.net",
-      "published": "2026-11-18T15:12:47+00:00",
-      "score": 64,
-      "category": "Handelsstrategie",
-      "score_detail": {
-        "Thema": 24,
-        "Quelle": 20,
-        "Aktualität": 15,
-        "Tragweite (Schlüsselwörter)": 5
-      }
-    },
-    {
-      "title": "Tencent steigert Umsatz um acht Prozent, doch KI belastet den Cashflow",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE84SnU0RnI5S3QyWS04VW9Cek1XVXRLUE94cmhzVlNweDdsRE9EdFpId3ppbi1xTURYeE9kWV9BUGxCRVRhZ2RORVZ3M2xicnNyUHV3VzlpbUlVX25pR0VKekMtVTZCbmVoanF3ak1xSllQMFUyajlUci1aOE0?oc=5",
-      "source": "RETAIL-NEWS Deutschland",
-      "source_url": "https://retail-news.de",
-      "published": "2026-11-18T14:58:11+00:00",
-      "score": 64,
+      "title": "Onlinehandel rechnet mit Schub durch KI-Agenten",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNaTRvT012UDJwRjVtekdqNmVXWThwdzhCV2gtSTVsZW9JYjd6cm51bktBa1RfSENsZkFmSVNNM0RUUkdfMXhLRURRS1pXbk5CZTNHN2N3cFdrRHlFUlRoYnRLVU4zeFhEdWs2MjhOMzdqdHl0aG5RVTBMMTRQZmsxeg?oc=5",
+      "source": "EHI Retail Institute",
+      "source_url": "https://www.ehi.org",
+      "published": "2026-11-19T05:00:27+00:00",
+      "score": 67,
       "category": "KI & Technologie",
       "score_detail": {
         "Thema": 30,
-        "Quelle": 14,
-        "Aktualität": 15,
+        "Quelle": 18,
+        "Aktualität": 14,
         "Tragweite (Schlüsselwörter)": 5
       }
     },
     {
-      "title": "ESL-Rollout: dm bringt digitale Preisschilder in alle deutschen Filialen",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNdjFPSXl3VmROYTFSTkpWdTJkRVdSaDhDV05UaG54SkxsVVdUa1VRZ1ktRzdmSW9BbmZWcmNDbHp2d202SFBYbW5EcWtvYlAxZ1F2OG83d1BpX0paLXlPWmFMOVkycEMxOC14NU9NZUtYQXY2SjJJWWd5bHI1Y0s3VU5lbzU5eWFHaFhaNEtXU3dpWnpoT2xtZjFKRzhDeHh3Y3o5enRudkJZQXVMOGRGaTRkZXhXbkdnNlRDVU1HRWpzVEZ5di1fR3BXMkxwbUdvVDQzdjdtQQ?oc=5",
-      "source": "Lebensmittel Zeitung",
-      "source_url": "https://www.lebensmittelzeitung.net",
-      "published": "2026-11-18T14:00:00+00:00",
-      "score": 64,
-      "category": "Handelsstrategie",
+      "title": "Rockwell Automation vereinbart Übernahme von AGILOX für KI-gestützte Logistik",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPRXR6eHVWbDVvWlFYM0dSNnU0VURjQ0o4dThNNlEwZkVUUUJCeldzNkFRT2gyQzB3Z3ptMVhGbTlFSGJXeHlGNUR5NUZDV0NKUUtQeVNtdGdpSXBFTmwxTC1xLVdRZ19famxBSktZTEpZUUFIRHhpVFhCY1d5T3E1SGxpWXR5c1hXNkR3eWxIVURWbzQ?oc=5",
+      "source": "Unite.AI",
+      "source_url": "https://www.unite.ai",
+      "published": "2026-11-18T15:29:05+00:00",
+      "score": 67,
+      "category": "KI & Technologie",
       "score_detail": {
-        "Thema": 24,
-        "Quelle": 20,
-        "Aktualität": 15,
-        "Tragweite (Schlüsselwörter)": 5
-      }
-    },
-    {
-      "title": "Das Tante-Emma-Prinzip: So nah am Kunden ist Kristins Rewe in Ebsdorfergrund",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQNGFpQ1dyRmlSZEQ4R21vOE4taExJUFgzSDB6SmUtYXNtTWdEOTlnVmhpdzYyZS1MampETEpKcnhvczdVZHNtaWNrZWw2RVFtdjJQNG9tMHRqZVh1cnREcC1sa0VxaU81OTNraFRxX0xxNXR5SW9xWWxMeW1mRkZaRDJBTko5S3pRN29aa1FhLXJYdjFKNndzd0RUbzNEaGx0OHdPQUdn?oc=5",
-      "source": "Lebensmittel Zeitung",
-      "source_url": "https://www.lebensmittelzeitung.net",
-      "published": "2026-11-18T13:29:33+00:00",
-      "score": 64,
-      "category": "Konsumenten",
-      "score_detail": {
-        "Thema": 24,
-        "Quelle": 20,
-        "Aktualität": 15,
-        "Tragweite (Schlüsselwörter)": 5
-      }
-    },
-    {
-      "title": "Was macht einen Händler zur Marke? Und wie gelingt es, Kunden langfristig zu begeistern?",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQN21lMHc5dVJibzNJQTNrWGdfX0N1SGNPOTJyWGpSdjB5TDRwcXA2UkZNbVk0M1ZUelEyYmtSVVg1bzhvWkV4anVEaXNsQVFJQ09SUEZ3MUhxVzh3TTVSemdCd1dLdjdZTWYzcGRGd3p1R2xqaTBBa19DdWdrdDZUdEsyWnk0SDZEWUowV1JuSlJCTzNYck5ETGlRN01qN0g4T3R3WERFQ2tZU21CMU9PcVBn?oc=5",
-      "source": "Lebensmittel Zeitung",
-      "source_url": "https://www.lebensmittelzeitung.net",
-      "published": "2026-11-18T11:39:35+00:00",
-      "score": 64,
-      "category": "Konsumenten",
-      "score_detail": {
-        "Thema": 24,
-        "Quelle": 20,
-        "Aktualität": 15,
-        "Tragweite (Schlüsselwörter)": 5
-      }
-    },
-    {
-      "title": "Filialübernahmen: Rewe will bei Tegut nachlegen",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOdzhuaTFhcjNKQTR0UmFFRlNKRmdNNTFFNlFGWV9KUXQtSVRWeWRfbkFWVVc0U0dtaDNCS2VpSWhMWFJIM1B2YXhqZ2FJeFNHNlJqbExxN0pDU04zaHlFcDQyVTFQWm1teWRUTUpOQlFRZ185YkJJT1dKQ0ZMY0NyZTRsSjlYazhObmhEM21RN2hSbWdZZWR1M1dLX3hqYXh3X0VVNVI4U3pzYnlRb0E?oc=5",
-      "source": "Lebensmittel Zeitung",
-      "source_url": "https://www.lebensmittelzeitung.net",
-      "published": "2026-11-13T10:43:00+00:00",
-      "score": 64,
-      "category": "Handelsstrategie",
-      "score_detail": {
-        "Thema": 30,
-        "Quelle": 20,
-        "Aktualität": 4,
+        "Thema": 36,
+        "Quelle": 8,
+        "Aktualität": 13,
         "Tragweite (Schlüsselwörter)": 10
       }
     },
     {
-      "title": "Videointerview mit Toom: Wie Führung Technologie wirksam macht",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOYTNjMFhlMmdldHFnckFqS1ZoVzF4SG1SSmtoVUZnODJvWGkzbDJxRUllU05KOF91TTFaWi1VVHpBbWh1dkNwQWhsaC1BU2thMzV3Y0F4anlGU2lKY001LUp0bjVjd3luTGQ2LVBuUnNoT21RYlNRc2dGb2NnaGk0TW9zWGdhUWRNQVYxc3BXRHVyb0V1WVNzcFE3TE5CUlZ1NkhMT2prRWk4Y0hfeEVMVnhDQQ?oc=5",
+      "title": "Ikea testet KI-Einrichtungsvorschläge auf Immobilienportal",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNSWo2elhrYkF4LUF6RFl5UllxcnU1TExRSTZTUjFXeGp4akNlTFZHMS1tOUJzM3ZDeEN1MTJucmUzNFQ1M2RGQlZGbFJvbnkzQXcwaDh0cHRscW5kREhUZ1oxaTJhcFBmMDJ5NGQ0Q2U4QU5udnlnSFVQVTMzbGVQaFMzOU9GdWppTUpMcDlwSHJNS0JuM1JJcTRhdDc3NU5zbkZiTkdnbUxObUF1QXc?oc=5",
       "source": "stores+shops",
       "source_url": "https://www.stores-shops.de",
-      "published": "2026-11-18T05:54:43+00:00",
-      "score": 63,
+      "published": "2026-11-19T14:50:41+00:00",
+      "score": 64,
       "category": "KI & Technologie",
       "score_detail": {
         "Thema": 24,
         "Quelle": 20,
-        "Aktualität": 14,
+        "Aktualität": 15,
+        "Tragweite (Schlüsselwörter)": 5
+      }
+    },
+    {
+      "title": "Geschäftsjahr 2025/2026: Danish Crown verfehlt Jahresziele",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQaU50VkQ1ZVhhaUowZlNrUkNJRVh0a0xIV1dKazF4Und6RFFuUTRlQW1TSmJRV3ZYWm5fNGpFaW5ZVkVTbVpuZzlveEVKVWJHcVhkdUtnd2E2LV9xaXd4TzJ2VzB2NUpEOGN2TTVkU29WRGJtTkwzSE5YOFJkMXdzZVlva0VMWnNkRUdGS1JiRGNoNFhEWEE0TkExLWgxZExkYkxqZ1JTNVpiS2FpcUszN3BoRWJCUmlNOXNpRzJmdw?oc=5",
+      "source": "Lebensmittel Zeitung",
+      "source_url": "https://www.lebensmittelzeitung.net",
+      "published": "2026-11-19T14:21:00+00:00",
+      "score": 64,
+      "category": "Handelsstrategie",
+      "score_detail": {
+        "Thema": 24,
+        "Quelle": 20,
+        "Aktualität": 15,
         "Tragweite (Schlüsselwörter)": 5
       }
     }
