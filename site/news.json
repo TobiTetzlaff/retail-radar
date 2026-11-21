@@ -1,22 +1,22 @@
 {
-  "generated_at": "2026-11-20T15:42:29.142342+00:00",
+  "generated_at": "2026-11-21T14:53:41.421545+00:00",
   "window_days": 7,
-  "candidate_count": 187,
+  "candidate_count": 180,
   "errors_count": 0,
   "articles": [
     {
-      "title": "Amazon vor Milliardenübernahme: KI-Start-up Decart soll 7,5 Milliarden kosten",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBObUNCekJNNlZyd2pqNmplMUJaTXhJYmFRTHFuUWdaa0ZfYVc2V1k5ajFWQzZadG5IVy1NMGRyS24tb0JfSjJ5Y0c4bmY0SURhSVpCNkFkRjZEd293MDdjQkN2b2xlcFhXLTBoQ2hIbjR6LUVNcmc?oc=5",
-      "source": "RETAIL-NEWS Deutschland",
-      "source_url": "https://retail-news.de",
-      "published": "2026-11-20T00:46:56+00:00",
-      "score": 73,
+      "title": "Abacus.AI – KI-Arbeitsplattform, Chat mit mehreren Modellen & Workflow-Automatisierung",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdjh1eWJ0ZkNOZHJWXzd2MW5iTTNQanh4dnQ5WHViUkUzc3p1TDNveXBJV0JJUy0tcDNfWkVELTFQSHBrMlQ3MEt0WkJXbk15dWRMZW9aLVpfbnBWSlJpRElXR3ZPRVZkMVl4VEQzS0Q5MXd5U2F0cWxBYWlfekZtZW9NY2w2bXdjdHlWVlVIeVRiX0dvbnE1YW9wdGRDTThwMk5UNWppQlh3Zw?oc=5",
+      "source": "quasa.io",
+      "source_url": "https://quasa.io",
+      "published": "2026-11-20T16:45:31+00:00",
+      "score": 68,
       "category": "KI & Technologie",
       "score_detail": {
-        "Thema": 30,
-        "Quelle": 14,
-        "Aktualität": 14,
-        "Tragweite (Schlüsselwörter)": 15
+        "Thema": 42,
+        "Quelle": 8,
+        "Aktualität": 13,
+        "Tragweite (Schlüsselwörter)": 5
       }
     },
     {
@@ -25,12 +25,12 @@
       "source": "Lebensmittel Zeitung",
       "source_url": "https://www.lebensmittelzeitung.net",
       "published": "2026-11-20T12:39:35+00:00",
-      "score": 70,
+      "score": 68,
       "category": "Logistik",
       "score_detail": {
         "Thema": 30,
         "Quelle": 20,
-        "Aktualität": 15,
+        "Aktualität": 13,
         "Tragweite (Schlüsselwörter)": 5
       }
     },
@@ -40,36 +40,6 @@
       "source": "etailment",
       "source_url": "https://www.etailment.de",
       "published": "2026-11-20T06:12:08+00:00",
-      "score": 70,
-      "category": "Handelsstrategie",
-      "score_detail": {
-        "Thema": 30,
-        "Quelle": 16,
-        "Aktualität": 14,
-        "Tragweite (Schlüsselwörter)": 10
-      }
-    },
-    {
-      "title": "Konsumentenstudie: Künstliche Intelligenz verscheucht Kunden",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOVmNCbVpabHhNV3c1d2FXbm5KUXRWZ3JWMHBoU1N1aEEzZ1Rab09yWlBfUmRxU3FJZExVMXRBWVpzVlV2cWFFTjlnZlJDc21uUXNxMkgtNzYxaGRlQ2ZBdGNtTFFEemxfMVBPMzhkVl8wTVlUQTRCTWNrQ0otbUMxSjhzMGFZUmRjaXUySzl1MERvcHVwclNiSVdqN1JTYTlaOUpLZm5DQjRWdzNxaFBNRld6WjJKR0pVem1ueE1Scw?oc=5",
-      "source": "Lebensmittel Zeitung",
-      "source_url": "https://www.lebensmittelzeitung.net",
-      "published": "2026-11-17T10:30:00+00:00",
-      "score": 69,
-      "category": "Konsumenten",
-      "score_detail": {
-        "Thema": 36,
-        "Quelle": 20,
-        "Aktualität": 8,
-        "Tragweite (Schlüsselwörter)": 5
-      }
-    },
-    {
-      "title": "Jahresbilanz - dm steigert Umsatz und gewinnt Marktanteile bei Drogeriewaren",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPUVJaRGZCc0ZMc1FudGEyOEZ3dWhnV3M3blRfSjVzNEhxNGxpS0lMZmVxT1A3bWhQVlNkRVRBbEdlVzJMOGd3TklEanBHYjFBLW40bW52UzFpTkJRNjRHYmYtZmhaeWhmNzBXMEpKd1QwRy1YZEwxYlNGNzVSbU5WV3lpd2VMSWRuN0FjYmRNS3Brd2QtcFNjekZqNHFPaFlpdGhndW5kcTBjdV9jM1czZ2JRWHQ2UzQzRzFVMHpGWmY4VzUzNmtUeE9yMFNRaFJyZ3BVYmpHZjNqOGJJZzhEN2hlUGs?oc=5",
-      "source": "Lebensmittelpraxis.de",
-      "source_url": "https://lebensmittelpraxis.de",
-      "published": "2026-11-19T11:00:00+00:00",
       "score": 68,
       "category": "Handelsstrategie",
       "score_detail": {
@@ -80,17 +50,47 @@
       }
     },
     {
+      "title": "Konsumentenstudie: Künstliche Intelligenz verscheucht Kunden",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOVmNCbVpabHhNV3c1d2FXbm5KUXRWZ3JWMHBoU1N1aEEzZ1Rab09yWlBfUmRxU3FJZExVMXRBWVpzVlV2cWFFTjlnZlJDc21uUXNxMkgtNzYxaGRlQ2ZBdGNtTFFEemxfMVBPMzhkVl8wTVlUQTRCTWNrQ0otbUMxSjhzMGFZUmRjaXUySzl1MERvcHVwclNiSVdqN1JTYTlaOUpLZm5DQjRWdzNxaFBNRld6WjJKR0pVem1ueE1Scw?oc=5",
+      "source": "Lebensmittel Zeitung",
+      "source_url": "https://www.lebensmittelzeitung.net",
+      "published": "2026-11-17T10:30:00+00:00",
+      "score": 67,
+      "category": "Konsumenten",
+      "score_detail": {
+        "Thema": 36,
+        "Quelle": 20,
+        "Aktualität": 6,
+        "Tragweite (Schlüsselwörter)": 5
+      }
+    },
+    {
+      "title": "Jahresbilanz - dm steigert Umsatz und gewinnt Marktanteile bei Drogeriewaren",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPUVJaRGZCc0ZMc1FudGEyOEZ3dWhnV3M3blRfSjVzNEhxNGxpS0lMZmVxT1A3bWhQVlNkRVRBbEdlVzJMOGd3TklEanBHYjFBLW40bW52UzFpTkJRNjRHYmYtZmhaeWhmNzBXMEpKd1QwRy1YZEwxYlNGNzVSbU5WV3lpd2VMSWRuN0FjYmRNS3Brd2QtcFNjekZqNHFPaFlpdGhndW5kcTBjdV9jM1czZ2JRWHQ2UzQzRzFVMHpGWmY4VzUzNmtUeE9yMFNRaFJyZ3BVYmpHZjNqOGJJZzhEN2hlUGs?oc=5",
+      "source": "Lebensmittelpraxis.de",
+      "source_url": "https://lebensmittelpraxis.de",
+      "published": "2026-11-19T11:00:00+00:00",
+      "score": 66,
+      "category": "Handelsstrategie",
+      "score_detail": {
+        "Thema": 30,
+        "Quelle": 16,
+        "Aktualität": 10,
+        "Tragweite (Schlüsselwörter)": 10
+      }
+    },
+    {
       "title": "Übernahme: Sazerac muss Angebot für Berentzen erhöhen",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNRGstSXFZdmoxb3k2c0xkQnd1SVRDN1p2azBsSkJLYlJNMVl2aDh5NzVsQW5wT0J1WEJFMk5iRF9FQzk0NWlaNDRSbk1rYWR4b3JlWnB3TS1GLXJDTUdnekxPTDhkR2JhbFdWbGZvUm1MakNDektIM0tTRDF6NTlFOTZ1N2ZLeElRQVZQaEhsU3ZUdHUybnNiUzdwYUpJUHU1U1Z3Q2pIekZtU2YybkV5TVAtZGxaNURWN3dIRA?oc=5",
       "source": "Lebensmittel Zeitung",
       "source_url": "https://www.lebensmittelzeitung.net",
       "published": "2026-11-19T15:05:00+00:00",
-      "score": 67,
+      "score": 65,
       "category": "Handelsstrategie",
       "score_detail": {
         "Thema": 24,
         "Quelle": 20,
-        "Aktualität": 13,
+        "Aktualität": 11,
         "Tragweite (Schlüsselwörter)": 10
       }
     },
@@ -100,12 +100,12 @@
       "source": "Lebensmittel Zeitung",
       "source_url": "https://www.lebensmittelzeitung.net",
       "published": "2026-11-19T10:33:00+00:00",
-      "score": 67,
+      "score": 65,
       "category": "KI & Technologie",
       "score_detail": {
         "Thema": 30,
         "Quelle": 20,
-        "Aktualität": 12,
+        "Aktualität": 10,
         "Tragweite (Schlüsselwörter)": 5
       }
     },
@@ -115,12 +115,12 @@
       "source": "etailment",
       "source_url": "https://www.etailment.de",
       "published": "2026-11-20T14:23:48+00:00",
-      "score": 66,
+      "score": 64,
       "category": "Logistik",
       "score_detail": {
         "Thema": 30,
         "Quelle": 16,
-        "Aktualität": 15,
+        "Aktualität": 13,
         "Tragweite (Schlüsselwörter)": 5
       }
     },
@@ -130,27 +130,27 @@
       "source": "Lebensmittel Zeitung",
       "source_url": "https://www.lebensmittelzeitung.net",
       "published": "2026-11-19T11:00:00+00:00",
-      "score": 66,
+      "score": 64,
       "category": "Handelsstrategie",
       "score_detail": {
         "Thema": 24,
         "Quelle": 20,
-        "Aktualität": 12,
+        "Aktualität": 10,
         "Tragweite (Schlüsselwörter)": 10
       }
     },
     {
       "title": "Finanzierungslücke - Gebietswinzergenossenschaft Franken droht die Insolvenz",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNSm16SlM3dHNLSk5SWUdVZjZkdFQ0RTFySjZLcGxOaEFDMndTNnkxVWFsVDNmb2VoMzNidGZVcEE4YmpDZ0dYYzJZbU96cjdJWlhEMUZJeVd3emFFajk5SWpsV0E4dHl6TS1SZkM5OTcwemxCOWQzdFpWTEtaYlRTTm9reW5TQzFndy1VT01PakdhbkExN0VKd0VORG9wWmVxaXVCcDh4Nm5oYWNvRzA1b0V1ZU92X3BndTBXTEZYQTlZcFgxeWY4ODBTX2NUMm5vTktTSzBSdklkT25qVWlKNHNWWVJ0OTFO?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNemx5S0ZCdVF0a2N4TWZSQUtMQmIzY3hBOWJ3WUdCMV9pNzFuTVM5X3huU0ptTjFNeXdLLWtIUFAxUlBOcVJNMnAxb3Q3WjRhZ2xhemNlcDkza0pwelVrLTdZOEh2dUlkOHBBOGhJUFRZU2F3bVA5a2J4cTV2ZC1BZ3drZFVWdUR6YnZaNjhMYzJnVERqb05nRHd1MTRfeGw3bHF2ZDc2UDVYRjZxVmx5Vk55N1ZqM0hwZ1VKN290TWhHbjNlMDdLZmx1bkpBeU1SeFg3Y1FjWnBRb2ZZbTdtaHdCZXI1S1k?oc=5",
       "source": "Lebensmittelpraxis.de",
-      "source_url": "https://lebensmittelpraxis.de",
+      "source_url": "http://lebensmittelpraxis.de",
       "published": "2026-11-20T13:05:00+00:00",
-      "score": 65,
+      "score": 63,
       "category": "Handelsstrategie",
       "score_detail": {
         "Thema": 24,
         "Quelle": 16,
-        "Aktualität": 15,
+        "Aktualität": 13,
         "Tragweite (Schlüsselwörter)": 10
       }
     }
