@@ -1,20 +1,80 @@
 {
-  "generated_at": "2026-11-24T18:10:21.728566+00:00",
+  "generated_at": "2026-11-25T17:32:30.061945+00:00",
   "window_days": 7,
-  "candidate_count": 194,
+  "candidate_count": 186,
   "errors_count": 0,
   "articles": [
+    {
+      "title": "Automation Anywhere schließt Übernahme von Boost.ai zur Automatisierung des Kundenservice ab",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZFFodlZSUDc2dXJQY2hHclBCU0hpWjduYkp4UlF6R3lUeE5NVTVvUHJDay1QbjFkQWV5Y3NNRlJjS0lja05LUl9uRVVQR0t0QUFpcFQ2VTVTMTZVV0lNSE9jVVNfc3RaeUNoN0pGdVBVSlFmSldkZ1BEQ2VVOVlOcUdiWU0xQVdaazkyOFhPVTJ4bDJ5czhzelhn?oc=5",
+      "source": "Unite.AI",
+      "source_url": "https://www.unite.ai",
+      "published": "2026-11-24T13:19:03+00:00",
+      "score": 72,
+      "category": "KI & Technologie",
+      "score_detail": {
+        "Thema": 42,
+        "Quelle": 8,
+        "Aktualität": 12,
+        "Tragweite (Schlüsselwörter)": 10
+      }
+    },
     {
       "title": "Nikolaus bringt dem Einzelhandel mehr als eine Milliarde Euro Umsatz",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQSmp6Wkl1Q21OdWpQdm1mYUxLRTNVTEs4dXRUNFk2Ql9Sd29oR3Rpb2RWTzJ1SEpuaF96QVlEa1FWZHFLTU9uNHJvdlFyNDZFTWlUODMzelNJRTVEcWVKVXVWY2tmNVlLaUZsSDJjR3EyQ0ZRZmZUVU56NFA5R3VwWG9jRUxxS2R1bVM1TDk4TUt0NzRDTU1aZDZwUlF6WnRWSndER0hRakZ6Ukt6WTJnZTZwMHlTYkpfU2Z2Z1pIN3U?oc=5",
       "source": "Handelsverband Deutschland (HDE)",
       "source_url": "https://einzelhandel.de",
       "published": "2026-11-24T07:32:41+00:00",
-      "score": 72,
+      "score": 70,
       "category": "Handelsstrategie",
       "score_detail": {
         "Thema": 30,
         "Quelle": 18,
+        "Aktualität": 12,
+        "Tragweite (Schlüsselwörter)": 10
+      }
+    },
+    {
+      "title": "Kaufhäuser: Insolvenzverwalter: Galeria ist bis März durchfinanziert",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQeld4QmNOYWh5TXk3Zk8yNnRkcTJVVTB2S3BfNXRfVmFxZ0tiZmRfYzRXV2dQMUdaNXR5UU5KcDhrT1pyOHk2TE1NN0xMOGNXZERhUTVCUWJfbC0ybWF0VXppUjEwNkZoX3ppV0owN3M0dWlYM242UXBwdlFMa1gzdFpodzlsOVppRU54dFVuRG1IQjdjbEd3TWM0T1RabUt4aHdnWW1rRmZGTWlLdk5VcHRDR2dhS0hHYWF3djVSbUp0OENjcXVFWmd3?oc=5",
+      "source": "Lebensmittel Zeitung",
+      "source_url": "https://www.lebensmittelzeitung.net",
+      "published": "2026-11-25T12:47:00+00:00",
+      "score": 69,
+      "category": "Handelsstrategie",
+      "score_detail": {
+        "Thema": 24,
+        "Quelle": 20,
+        "Aktualität": 15,
+        "Tragweite (Schlüsselwörter)": 10
+      }
+    },
+    {
+      "title": "Agentic Commerce: Metas KI-Agent Muse legt im britischen LEH los",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPVkR3ODRXeC1LX0VaV1pxSldBQkljejR1YU5EUmNRTEV0MVcwYmI2dUlYZDMzVXhycFp0S05BQS10ZExCUVZTMG1tTHlfTTBHUm9aTFdKSTREeG5mZVNDbTZBVkRyWk9GWHNRZHNzVHQtM01rWEJ4NjJBc0gteFAyaDVBZ05HX0tVN2JDTk9BejNTNlYzeHduSEZ0UE5TVl90T1NiWkpGOThOMWFIeEg5ZU1GSFNFZkR5NzlGdFBkLWNTRGtYWC1iNHJ4TWs?oc=5",
+      "source": "Lebensmittel Zeitung",
+      "source_url": "https://www.lebensmittelzeitung.net",
+      "published": "2026-11-25T06:00:00+00:00",
+      "score": 69,
+      "category": "KI & Technologie",
+      "score_detail": {
+        "Thema": 30,
+        "Quelle": 20,
+        "Aktualität": 14,
+        "Tragweite (Schlüsselwörter)": 5
+      }
+    },
+    {
+      "title": "Nonfood: Wenco beantragt Insolvenz in Eigenverwaltung",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQRGRkUks3RlNKblhiblhoUTBhcERWdUZZM1htbmFOcFg2VUd0VUI2aXJWRXpjOG9MUTBZempsU0dnTE5xS20ySy1xSkxVNFIxZkpHLWU2OVRCV01WbnhCRWJxZzNqQk5mcUJQNkliSlB2VUczdWcwWWltUktBc1pGX0x4b0hqdHdlWFFhbUgxR0lnM2dMSndSM2pPQnBQS3l0Z3BFSVE3SDdEVlU5QXZYR01jZ28?oc=5",
+      "source": "Lebensmittel Zeitung",
+      "source_url": "https://www.lebensmittelzeitung.net",
+      "published": "2026-11-25T09:43:00+00:00",
+      "score": 68,
+      "category": "Handelsstrategie",
+      "score_detail": {
+        "Thema": 24,
+        "Quelle": 20,
         "Aktualität": 14,
         "Tragweite (Schlüsselwörter)": 10
       }
@@ -25,12 +85,12 @@
       "source": "Handelsblatt",
       "source_url": "https://www.handelsblatt.com",
       "published": "2026-11-24T11:52:47+00:00",
-      "score": 69,
+      "score": 67,
       "category": "KI & Technologie",
       "score_detail": {
         "Thema": 36,
         "Quelle": 14,
-        "Aktualität": 14,
+        "Aktualität": 12,
         "Tragweite (Schlüsselwörter)": 5
       }
     },
@@ -40,117 +100,57 @@
       "source": "Lebensmittel Zeitung",
       "source_url": "https://www.lebensmittelzeitung.net",
       "published": "2026-11-23T10:19:00+00:00",
-      "score": 66,
+      "score": 64,
       "category": "Handelsstrategie",
       "score_detail": {
         "Thema": 24,
         "Quelle": 20,
-        "Aktualität": 12,
+        "Aktualität": 10,
         "Tragweite (Schlüsselwörter)": 10
       }
     },
     {
-      "title": "News aus Handel und Konsumgüter-Industrie",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBaTnZhbTd6V2EtZjVnV0JnUVhhT1E3czU0cUtTeXRPT2tGZmJ0cXVMSVpHNUNKRE1fbk13eExNR3dYUGJ0SmZzVDQwTUlOTWd5OU04YjVUM0FyUmtXc3VLQ3pLcHlla09aWFhyVFMtNA?oc=5",
+      "title": "Xiaomi steigert Smartphone-Marktanteil und plant Auto-Start in Europa",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1adEJjdGRyZnF4SlFtclkyQ1lHM21aQ1hmdG9zekxXeVN6SkhwUEdMcHdKY3E5TU5vTDBXbzZGNXkxd2Z0ZzVjd0MxcW4wZElyckNBQnNCMlRGVWtCUFlMM1VwcE92bC13VTBaVjVYZ0s0QTh0UlFFcHNn?oc=5",
+      "source": "RETAIL-NEWS Deutschland",
+      "source_url": "https://retail-news.de",
+      "published": "2026-11-25T15:23:22+00:00",
+      "score": 63,
+      "category": "Handelsstrategie",
+      "score_detail": {
+        "Thema": 24,
+        "Quelle": 14,
+        "Aktualität": 15,
+        "Tragweite (Schlüsselwörter)": 10
+      }
+    },
+    {
+      "title": "Verbraucherzentrale: Honig im Handel kommt häufig nicht aus Deutschland",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOMXBJVF9WWUlzMFBGaDVOUkoxOVU2MWRBOTFmMWxQOE15RWlwX0JEcUhhUUtxNHQ5SXNyTTY0ZVo1d2Iwc1pZVlJtUHI5UUstTDVnNWNGMXhZYlN2TXF4c01uTm15ZHVZcGJMeEJJcEFWa3pfa29SWUswWEI0N3hORTdIanZRLWJQamJ4UDQ4REFCVG9VelMyT2hkY3ZmN2hXaXpJaVBxMms3QW9FeVpfWkc0ODBLTXdhUllxaGd3T1hEZ1g2X0tZRlJ2dmlhNG1NdGRkNEJUdVo3VlRIY1lTMlhsYng?oc=5",
       "source": "Lebensmittel Zeitung",
       "source_url": "https://www.lebensmittelzeitung.net",
-      "published": "2026-11-24T13:44:50+00:00",
-      "score": 64,
+      "published": "2026-11-25T10:51:00+00:00",
+      "score": 63,
       "category": "Konsumenten",
       "score_detail": {
         "Thema": 24,
         "Quelle": 20,
-        "Aktualität": 15,
+        "Aktualität": 14,
         "Tragweite (Schlüsselwörter)": 5
       }
     },
     {
-      "title": "Amazon vor Milliardenübernahme: KI-Start-up Decart soll 7,5 Milliarden kosten",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBObUNCekJNNlZyd2pqNmplMUJaTXhJYmFRTHFuUWdaa0ZfYVc2V1k5ajFWQzZadG5IVy1NMGRyS24tb0JfSjJ5Y0c4bmY0SURhSVpCNkFkRjZEd293MDdjQkN2b2xlcFhXLTBoQ2hIbjR6LUVNcmc?oc=5",
-      "source": "RETAIL-NEWS Deutschland",
-      "source_url": "https://retail-news.de",
-      "published": "2026-11-20T00:46:56+00:00",
-      "score": 64,
-      "category": "KI & Technologie",
-      "score_detail": {
-        "Thema": 30,
-        "Quelle": 14,
-        "Aktualität": 5,
-        "Tragweite (Schlüsselwörter)": 15
-      }
-    },
-    {
-      "title": "Baumarkt-Riesen: Obi übernimmt Toom: Wie ein Handelsexperte die Übernahme einordnet",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNd3ZjbnBOU0FFRGFsbWpzZWJfNGhQQVpmUnRrWlYySXZ1WGhTX3J6dktCT2Z2NVNsQk9WSVlGbUZHWGF1OG9MN1pnSWVGMllpdEVSZ0hMNVVwUy0tUkxqY0RsaHNkN3V2U3FjbnZFdDdIOWxVV2tFV0xtMmlxUk1rd0hmRnFKQ1poa2NoU1owSEJiTjZBd1g1ekNBaE1VUXU0d2h4cnpuOTQwTnhjWjBmZkE0YXZaZ1RnNHpQNzFRZldINEJ3dWpPc1ZxQ0Y?oc=5",
-      "source": "Horizont.net",
-      "source_url": "https://www.horizont.net",
-      "published": "2026-11-24T17:30:00+00:00",
-      "score": 63,
-      "category": "Handelsstrategie",
-      "score_detail": {
-        "Thema": 24,
-        "Quelle": 14,
-        "Aktualität": 15,
-        "Tragweite (Schlüsselwörter)": 10
-      }
-    },
-    {
-      "title": "HDE-Umfrage: Handel rechnet mit Umsatzrückgang zu Nikolaus",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNWURWYW5FQTR4N010V0VMTjlud2JuM05tTTQwa0FfeGlkZVpXZlhkQjlGTnlqUWo5SmtEYVY5aG9NTFJxMGNKTnRFOGJoZHEyVlhVaFZXSWhXZWpLSEdka3c1V2JGR0VOYXRnNDM5SThYTXk1Q1o4bkVUaldMM1dtWUhDWVBEZXdNaFVVazc4aExISzZHOFlkSkxtQ3p2M19DU3lzM21nNzJmdGI2LWFBMjVWU0RpNFhBRnVkMw?oc=5",
+      "title": "Studie zur Werbewirkung: Diese Kaffee-Spots überzeugen Verbraucher am meisten",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOSTh5UVdfS1l4RmMydWdyVndmNVl6bTRtUHVfWWF6X2o4R1BDaEltX2U0MVU2ajA3QXh5YWVlTWRWSi1takxTR3o3U2prcXZXR3JTblp6cllzbzhkMmZsSnFvbVhYOE1xU2M3cEE2WGFVWlQwYzFDQzhhdUVOa282eFJHaGV5Ykg5WGNGTUZDQzNZbFp6Yld3cEhsQWQ5WUREX3JCN3hnVnZxZ2NRSW83aFhCSW1GcWpPbUpfSE9fa2hzbFlaMEQ0N09mZTRQN1QzT2ZkUzhiZF9qUQ?oc=5",
       "source": "Lebensmittel Zeitung",
       "source_url": "https://www.lebensmittelzeitung.net",
-      "published": "2026-11-24T11:59:00+00:00",
+      "published": "2026-11-25T07:01:41+00:00",
       "score": 63,
-      "category": "Handelsstrategie",
+      "category": "Konsumenten",
       "score_detail": {
         "Thema": 24,
         "Quelle": 20,
         "Aktualität": 14,
-        "Tragweite (Schlüsselwörter)": 5
-      }
-    },
-    {
-      "title": "KI in Europa: Weg von Sprachmodellen, hin zur Industrial AI und Staats-KI?",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQa3VicTI4TG5HTWpNc2JJeG1UbFpNdHJRaXJVRkk4Mkc2XzEtc2tPTFo1RkFFOTdRVkYybmJPOFI3V2ZOMFp4YXMzLUFFam1rYjJkOUhkRjMxTVlqOWdPSEl1NHZJVXBWS1duX29CRVBHNXdYbGpFOFRUVDRYZzNtRmp0RF85WDhaenpMRnZhbC1Zc2NLMUpCRnZQWHdQckpYM0Jqdg?oc=5",
-      "source": "t3n",
-      "source_url": "https://t3n.de",
-      "published": "2026-11-24T10:30:18+00:00",
-      "score": 63,
-      "category": "KI & Technologie",
-      "score_detail": {
-        "Thema": 30,
-        "Quelle": 14,
-        "Aktualität": 14,
-        "Tragweite (Schlüsselwörter)": 5
-      }
-    },
-    {
-      "title": "Übernahme: ABB kauft Ziehl-Abegg für 2,65 Milliarden Dollar",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPNGdJTzJaU0ItSFRjQ1JrWHMzUF9hQVlTMnpfYXdkYTh3N2xoUmQ3UXFJVlN3WV9GU01xdnF2NVNLZE50WnBNdEljZE03ZG16dlJmT1Z3UjRPUE1zV1pwempnYXBRUEdQN3lLTC1kYy1fTUVMLVk2Z0hCY2dmdVhEOVpPUEM2NWxjdnhiSGNDdVdwWkhZQVUzX2hpMnlCRTlmWVJZX1hWVGtSZV84bTdzUkZjdHZwUG8?oc=5",
-      "source": "WirtschaftsWoche",
-      "source_url": "https://www.wiwo.de",
-      "published": "2026-11-23T08:57:53+00:00",
-      "score": 63,
-      "category": "Handelsstrategie",
-      "score_detail": {
-        "Thema": 24,
-        "Quelle": 12,
-        "Aktualität": 12,
-        "Tragweite (Schlüsselwörter)": 15
-      }
-    },
-    {
-      "title": "Agentic Commerce: Wie KI-Agenten neue Gatekeeper schaffen",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPdEVuS1EzeDZLMmZTWWpnLUprWFIteWNTekl6WFV6SnFUb0UzWGlCYmI5cGlDbUFMZERIUmNiUEZrc1pfYmRHZ3JSRHN6R0RHREswbm11b05BUjFnVnlPQ0cweFVtXzZ5M1gxc25qay1DU3JMX19QSFpTMy1uTHpoSktGaWUxRUpNTjVTcmotVDNEVVZwWG9n?oc=5",
-      "source": "etailment",
-      "source_url": "https://www.etailment.de",
-      "published": "2026-11-23T06:08:25+00:00",
-      "score": 63,
-      "category": "KI & Technologie",
-      "score_detail": {
-        "Thema": 30,
-        "Quelle": 16,
-        "Aktualität": 12,
         "Tragweite (Schlüsselwörter)": 5
       }
     }
