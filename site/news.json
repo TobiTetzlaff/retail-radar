@@ -1,22 +1,37 @@
 {
-  "generated_at": "2026-11-25T17:32:30.061945+00:00",
+  "generated_at": "2026-11-26T17:15:10.929180+00:00",
   "window_days": 7,
-  "candidate_count": 186,
+  "candidate_count": 217,
   "errors_count": 0,
   "articles": [
     {
-      "title": "Automation Anywhere schließt Übernahme von Boost.ai zur Automatisierung des Kundenservice ab",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZFFodlZSUDc2dXJQY2hHclBCU0hpWjduYkp4UlF6R3lUeE5NVTVvUHJDay1QbjFkQWV5Y3NNRlJjS0lja05LUl9uRVVQR0t0QUFpcFQ2VTVTMTZVV0lNSE9jVVNfc3RaeUNoN0pGdVBVSlFmSldkZ1BEQ2VVOVlOcUdiWU0xQVdaazkyOFhPVTJ4bDJ5czhzelhn?oc=5",
-      "source": "Unite.AI",
-      "source_url": "https://www.unite.ai",
-      "published": "2026-11-24T13:19:03+00:00",
-      "score": 72,
+      "title": "Digitalisierung: Seeberger plant mit KI",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNWFVaSUp6QnR2Q0wwQlNzQ2hfcUZOZUh4blZsQjdfYS1DTFdzSjlqMUxvbGstSkozdUFJUUVrbG5RMENPWWR5aTI2LXQ2TExodDRIN3owSnJLakhZTGx6VEpwMHNMOTRJcUJnWU04V1hqengwRmhQVEFNMEcyNjZka2V6WjF2VVpINUNLRV9yXzBNa2xNZExQaVVFb1VnNGVsUVZVR0luQ19xZ0k?oc=5",
+      "source": "Lebensmittel Zeitung",
+      "source_url": "https://www.lebensmittelzeitung.net",
+      "published": "2026-11-26T14:00:00+00:00",
+      "score": 70,
       "category": "KI & Technologie",
       "score_detail": {
-        "Thema": 42,
-        "Quelle": 8,
-        "Aktualität": 12,
-        "Tragweite (Schlüsselwörter)": 10
+        "Thema": 30,
+        "Quelle": 20,
+        "Aktualität": 15,
+        "Tragweite (Schlüsselwörter)": 5
+      }
+    },
+    {
+      "title": "Gehalts-Check: Leitung Logistik/Supply Chain Management",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOMWJuSHhqMEV3c1pwdVdYMHU0cnIyWmNyVTdHZFRObFUyLUNLdWU4cEVsTVV3d2dva1E4Y1NXWHlyVl9uMEhBX2pUZEEyeXdCZFAtYURPUEpSbXI5RnljRFI4Vm4yREJsRi1HQkFMQmFHVnFER09qRjV2Q0lXQ2MyZWcyTk1TSDMtV1VpTGlkMGhQTFZwU2F5ejJmQ29Lbl9ZTjAzbzJ6RXJOT2pwdlBJQ29n?oc=5",
+      "source": "Lebensmittel Zeitung",
+      "source_url": "https://www.lebensmittelzeitung.net",
+      "published": "2026-11-26T06:00:00+00:00",
+      "score": 69,
+      "category": "Logistik",
+      "score_detail": {
+        "Thema": 30,
+        "Quelle": 20,
+        "Aktualität": 14,
+        "Tragweite (Schlüsselwörter)": 5
       }
     },
     {
@@ -25,27 +40,27 @@
       "source": "Handelsverband Deutschland (HDE)",
       "source_url": "https://einzelhandel.de",
       "published": "2026-11-24T07:32:41+00:00",
-      "score": 70,
+      "score": 68,
       "category": "Handelsstrategie",
       "score_detail": {
         "Thema": 30,
         "Quelle": 18,
-        "Aktualität": 12,
+        "Aktualität": 10,
         "Tragweite (Schlüsselwörter)": 10
       }
     },
     {
-      "title": "Kaufhäuser: Insolvenzverwalter: Galeria ist bis März durchfinanziert",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQeld4QmNOYWh5TXk3Zk8yNnRkcTJVVTB2S3BfNXRfVmFxZ0tiZmRfYzRXV2dQMUdaNXR5UU5KcDhrT1pyOHk2TE1NN0xMOGNXZERhUTVCUWJfbC0ybWF0VXppUjEwNkZoX3ppV0owN3M0dWlYM242UXBwdlFMa1gzdFpodzlsOVppRU54dFVuRG1IQjdjbEd3TWM0T1RabUt4aHdnWW1rRmZGTWlLdk5VcHRDR2dhS0hHYWF3djVSbUp0OENjcXVFWmd3?oc=5",
+      "title": "LZ Audio News: Galeria laut Insolvenzverwalter bis März durchfinanziert",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPZWpuUmV0eVVsNGlUTlNyMGdHOU5EOHlLam1ZS000bkhvSzZGRG1tUEJ6Ni1RWVZ0UTI3OW5TOE5lYjdQTmlvWTRsdlZnaTRMR2xBYjFuanhKakdRNGhnWjBzVDBaTUJKejVhRlFUSThiRjlhNFVQSEtYUll4RDdvalZBMTBqWWZEYVVMb19lRGgyNnRmMWhjSHZDbV93WjNvN0lvWFJjN0Ffa2p5OTRSVlM5YUwtOGREZ2E2YkxVVFYzMU5rRFU1U2ZB?oc=5",
       "source": "Lebensmittel Zeitung",
       "source_url": "https://www.lebensmittelzeitung.net",
-      "published": "2026-11-25T12:47:00+00:00",
-      "score": 69,
+      "published": "2026-11-25T17:15:00+00:00",
+      "score": 67,
       "category": "Handelsstrategie",
       "score_detail": {
         "Thema": 24,
         "Quelle": 20,
-        "Aktualität": 15,
+        "Aktualität": 13,
         "Tragweite (Schlüsselwörter)": 10
       }
     },
@@ -55,13 +70,28 @@
       "source": "Lebensmittel Zeitung",
       "source_url": "https://www.lebensmittelzeitung.net",
       "published": "2026-11-25T06:00:00+00:00",
-      "score": 69,
+      "score": 67,
       "category": "KI & Technologie",
       "score_detail": {
         "Thema": 30,
         "Quelle": 20,
-        "Aktualität": 14,
+        "Aktualität": 12,
         "Tragweite (Schlüsselwörter)": 5
+      }
+    },
+    {
+      "title": "Kaufhäuser: Insolvenzverwalter: Galeria ist bis März durchfinanziert",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQeld4QmNOYWh5TXk3Zk8yNnRkcTJVVTB2S3BfNXRfVmFxZ0tiZmRfYzRXV2dQMUdaNXR5UU5KcDhrT1pyOHk2TE1NN0xMOGNXZERhUTVCUWJfbC0ybWF0VXppUjEwNkZoX3ppV0owN3M0dWlYM242UXBwdlFMa1gzdFpodzlsOVppRU54dFVuRG1IQjdjbEd3TWM0T1RabUt4aHdnWW1rRmZGTWlLdk5VcHRDR2dhS0hHYWF3djVSbUp0OENjcXVFWmd3?oc=5",
+      "source": "Lebensmittel Zeitung",
+      "source_url": "https://www.lebensmittelzeitung.net",
+      "published": "2026-11-25T12:47:00+00:00",
+      "score": 66,
+      "category": "Handelsstrategie",
+      "score_detail": {
+        "Thema": 24,
+        "Quelle": 20,
+        "Aktualität": 12,
+        "Tragweite (Schlüsselwörter)": 10
       }
     },
     {
@@ -70,12 +100,12 @@
       "source": "Lebensmittel Zeitung",
       "source_url": "https://www.lebensmittelzeitung.net",
       "published": "2026-11-25T09:43:00+00:00",
-      "score": 68,
+      "score": 66,
       "category": "Handelsstrategie",
       "score_detail": {
         "Thema": 24,
         "Quelle": 20,
-        "Aktualität": 14,
+        "Aktualität": 12,
         "Tragweite (Schlüsselwörter)": 10
       }
     },
@@ -85,72 +115,42 @@
       "source": "Handelsblatt",
       "source_url": "https://www.handelsblatt.com",
       "published": "2026-11-24T11:52:47+00:00",
-      "score": 67,
+      "score": 65,
       "category": "KI & Technologie",
       "score_detail": {
         "Thema": 36,
         "Quelle": 14,
-        "Aktualität": 12,
+        "Aktualität": 10,
         "Tragweite (Schlüsselwörter)": 5
       }
     },
     {
-      "title": "Falkensteg-Report: Großinsolvenzen in der Lebensmittelindustrie nehmen zu",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPb2lLSTdmUXpNVnkxZ2FGczhVcEhWbVZ1djNNQ0lTeGRDRzVyNjRTbG1heXdrR2dLM2V1RzRHbWNOcEU2NGd2NU9QUkxZRUduc0JVbW56ekQ4cnkwbFpaUXZTUW5ybGRSaG44aEczNzcxTlhxZ3MzSnZNX3hDU0xhR0x0MUNTcmZHd0hIcGxpNVhVMm1SRDFNMmk1YTBSSUNVWXdrVlJhR1VBUWlxeHhkRkF3aHB3S3U4SEtSUkxPZVNCMzVicjJDOHJyVGd5NmIxYUk3Wg?oc=5",
-      "source": "Lebensmittel Zeitung",
-      "source_url": "https://www.lebensmittelzeitung.net",
-      "published": "2026-11-23T10:19:00+00:00",
+      "title": "Urteil: Gericht erlaubt KI-Augen-Screenings in dm-Filialen",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNSnRDNklyZW5Db1l1ZGFhT2ZueFYyNHpHNERBN2QxS0ZCaERNTXJHVkhSQzVTaEZuWkVjX041RzAtMzNZaDh2bG5LQnd0NkVGSHF6aE5pRFlKYWRvbnJpTEF4WTBNZWZrQ2QxQzBfOFFLeDVXeHhPUG9PQTJFQ01VTjd2djN0bjhEY3YwUms3WmVVOThBMXpvTk81RDZqOG9NdDRhYWpRV1JfT1FobEEzMVlBMno4S3c4M3lYS0xWZnJTLXdNTWxZYTdfaElmQQ?oc=5",
+      "source": "Handelsblatt",
+      "source_url": "https://www.handelsblatt.com",
+      "published": "2026-11-26T13:51:46+00:00",
       "score": 64,
-      "category": "Handelsstrategie",
+      "category": "KI & Technologie",
       "score_detail": {
-        "Thema": 24,
-        "Quelle": 20,
-        "Aktualität": 10,
-        "Tragweite (Schlüsselwörter)": 10
-      }
-    },
-    {
-      "title": "Xiaomi steigert Smartphone-Marktanteil und plant Auto-Start in Europa",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1adEJjdGRyZnF4SlFtclkyQ1lHM21aQ1hmdG9zekxXeVN6SkhwUEdMcHdKY3E5TU5vTDBXbzZGNXkxd2Z0ZzVjd0MxcW4wZElyckNBQnNCMlRGVWtCUFlMM1VwcE92bC13VTBaVjVYZ0s0QTh0UlFFcHNn?oc=5",
-      "source": "RETAIL-NEWS Deutschland",
-      "source_url": "https://retail-news.de",
-      "published": "2026-11-25T15:23:22+00:00",
-      "score": 63,
-      "category": "Handelsstrategie",
-      "score_detail": {
-        "Thema": 24,
+        "Thema": 30,
         "Quelle": 14,
         "Aktualität": 15,
-        "Tragweite (Schlüsselwörter)": 10
-      }
-    },
-    {
-      "title": "Verbraucherzentrale: Honig im Handel kommt häufig nicht aus Deutschland",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOMXBJVF9WWUlzMFBGaDVOUkoxOVU2MWRBOTFmMWxQOE15RWlwX0JEcUhhUUtxNHQ5SXNyTTY0ZVo1d2Iwc1pZVlJtUHI5UUstTDVnNWNGMXhZYlN2TXF4c01uTm15ZHVZcGJMeEJJcEFWa3pfa29SWUswWEI0N3hORTdIanZRLWJQamJ4UDQ4REFCVG9VelMyT2hkY3ZmN2hXaXpJaVBxMms3QW9FeVpfWkc0ODBLTXdhUllxaGd3T1hEZ1g2X0tZRlJ2dmlhNG1NdGRkNEJUdVo3VlRIY1lTMlhsYng?oc=5",
-      "source": "Lebensmittel Zeitung",
-      "source_url": "https://www.lebensmittelzeitung.net",
-      "published": "2026-11-25T10:51:00+00:00",
-      "score": 63,
-      "category": "Konsumenten",
-      "score_detail": {
-        "Thema": 24,
-        "Quelle": 20,
-        "Aktualität": 14,
         "Tragweite (Schlüsselwörter)": 5
       }
     },
     {
-      "title": "Studie zur Werbewirkung: Diese Kaffee-Spots überzeugen Verbraucher am meisten",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOSTh5UVdfS1l4RmMydWdyVndmNVl6bTRtUHVfWWF6X2o4R1BDaEltX2U0MVU2ajA3QXh5YWVlTWRWSi1takxTR3o3U2prcXZXR3JTblp6cllzbzhkMmZsSnFvbVhYOE1xU2M3cEE2WGFVWlQwYzFDQzhhdUVOa282eFJHaGV5Ykg5WGNGTUZDQzNZbFp6Yld3cEhsQWQ5WUREX3JCN3hnVnZxZ2NRSW83aFhCSW1GcWpPbUpfSE9fa2hzbFlaMEQ0N09mZTRQN1QzT2ZkUzhiZF9qUQ?oc=5",
-      "source": "Lebensmittel Zeitung",
-      "source_url": "https://www.lebensmittelzeitung.net",
-      "published": "2026-11-25T07:01:41+00:00",
-      "score": 63,
-      "category": "Konsumenten",
+      "title": "EHI-Deep Dive mit Oliver Stratmann (Capgemini): Die KI entscheidet mit",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQWk1SVTU2SndyQmxOOVdnV3I5YTFLNGVzeEh5UFpKVTNsbUxuSEtXbEpfR1ZpOHJYQjh5MW9UZi0wZ3BqZVV6VFNfYnY1Q043NDF3TzFzQzJZZ0NmVUswektRRUxqOHlVczkzYm56LTdOMS1GSWNOdkRqcDJWbnY2ckRfNXJYU1hvQVZjWWVwcEdPdmYtNEpRVVdidFNfWnpsX3hNUThyYlVoY3lOT1dfZXZGb3VfcVVp?oc=5",
+      "source": "stores+shops",
+      "source_url": "https://www.stores-shops.de",
+      "published": "2026-11-26T13:47:32+00:00",
+      "score": 64,
+      "category": "KI & Technologie",
       "score_detail": {
         "Thema": 24,
         "Quelle": 20,
-        "Aktualität": 14,
+        "Aktualität": 15,
         "Tragweite (Schlüsselwörter)": 5
       }
     }
