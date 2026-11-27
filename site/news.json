@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-26T17:15:10.929180+00:00",
+  "generated_at": "2026-11-27T16:55:48.589345+00:00",
   "window_days": 7,
-  "candidate_count": 217,
+  "candidate_count": 195,
   "errors_count": 0,
   "articles": [
     {
@@ -10,12 +10,12 @@
       "source": "Lebensmittel Zeitung",
       "source_url": "https://www.lebensmittelzeitung.net",
       "published": "2026-11-26T14:00:00+00:00",
-      "score": 70,
+      "score": 68,
       "category": "KI & Technologie",
       "score_detail": {
         "Thema": 30,
         "Quelle": 20,
-        "Aktualität": 15,
+        "Aktualität": 13,
         "Tragweite (Schlüsselwörter)": 5
       }
     },
@@ -25,12 +25,12 @@
       "source": "Lebensmittel Zeitung",
       "source_url": "https://www.lebensmittelzeitung.net",
       "published": "2026-11-26T06:00:00+00:00",
-      "score": 69,
+      "score": 67,
       "category": "Logistik",
       "score_detail": {
         "Thema": 30,
         "Quelle": 20,
-        "Aktualität": 14,
+        "Aktualität": 12,
         "Tragweite (Schlüsselwörter)": 5
       }
     },
@@ -40,12 +40,12 @@
       "source": "Handelsverband Deutschland (HDE)",
       "source_url": "https://einzelhandel.de",
       "published": "2026-11-24T07:32:41+00:00",
-      "score": 68,
+      "score": 66,
       "category": "Handelsstrategie",
       "score_detail": {
         "Thema": 30,
         "Quelle": 18,
-        "Aktualität": 10,
+        "Aktualität": 8,
         "Tragweite (Schlüsselwörter)": 10
       }
     },
@@ -55,12 +55,12 @@
       "source": "Lebensmittel Zeitung",
       "source_url": "https://www.lebensmittelzeitung.net",
       "published": "2026-11-25T17:15:00+00:00",
-      "score": 67,
+      "score": 65,
       "category": "Handelsstrategie",
       "score_detail": {
         "Thema": 24,
         "Quelle": 20,
-        "Aktualität": 13,
+        "Aktualität": 11,
         "Tragweite (Schlüsselwörter)": 10
       }
     },
@@ -70,12 +70,12 @@
       "source": "Lebensmittel Zeitung",
       "source_url": "https://www.lebensmittelzeitung.net",
       "published": "2026-11-25T06:00:00+00:00",
-      "score": 67,
+      "score": 65,
       "category": "KI & Technologie",
       "score_detail": {
         "Thema": 30,
         "Quelle": 20,
-        "Aktualität": 12,
+        "Aktualität": 10,
         "Tragweite (Schlüsselwörter)": 5
       }
     },
@@ -85,12 +85,12 @@
       "source": "Lebensmittel Zeitung",
       "source_url": "https://www.lebensmittelzeitung.net",
       "published": "2026-11-25T12:47:00+00:00",
-      "score": 66,
+      "score": 64,
       "category": "Handelsstrategie",
       "score_detail": {
         "Thema": 24,
         "Quelle": 20,
-        "Aktualität": 12,
+        "Aktualität": 10,
         "Tragweite (Schlüsselwörter)": 10
       }
     },
@@ -100,57 +100,57 @@
       "source": "Lebensmittel Zeitung",
       "source_url": "https://www.lebensmittelzeitung.net",
       "published": "2026-11-25T09:43:00+00:00",
-      "score": 66,
+      "score": 64,
       "category": "Handelsstrategie",
       "score_detail": {
         "Thema": 24,
         "Quelle": 20,
-        "Aktualität": 12,
+        "Aktualität": 10,
         "Tragweite (Schlüsselwörter)": 10
       }
     },
     {
-      "title": "Einzelhandel: Diese KI weiß, was Kunden morgen kaufen wollen",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPM2tjbWE0azd6anBoTEY5Zlh3UkdkdjBubnlYbUNwbkRLSFpxeWhFN3pfb011RklkY0N6ZlhUdndUYkxDQlF4aUdnQUpiZlVvM05SVy1heGFMa0NWRlpJaTU4S1l0aEQzSlRnbExsbE1rNWg1UmZOR0pMbFJ2Qkw4a0NWVjE2eTZwLTE5WkFMbEM0TFo2TUFtLWdrQ1QxZ3UxZ0l5cG9sTW9yblZZUWNOdTZuWkY2V3ZZZTZDODZtOWNQa0FWbXFfSHd5TmdJRXY0?oc=5",
-      "source": "Handelsblatt",
-      "source_url": "https://www.handelsblatt.com",
-      "published": "2026-11-24T11:52:47+00:00",
-      "score": 65,
-      "category": "KI & Technologie",
-      "score_detail": {
-        "Thema": 36,
-        "Quelle": 14,
-        "Aktualität": 10,
-        "Tragweite (Schlüsselwörter)": 5
-      }
-    },
-    {
-      "title": "Urteil: Gericht erlaubt KI-Augen-Screenings in dm-Filialen",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNSnRDNklyZW5Db1l1ZGFhT2ZueFYyNHpHNERBN2QxS0ZCaERNTXJHVkhSQzVTaEZuWkVjX041RzAtMzNZaDh2bG5LQnd0NkVGSHF6aE5pRFlKYWRvbnJpTEF4WTBNZWZrQ2QxQzBfOFFLeDVXeHhPUG9PQTJFQ01VTjd2djN0bjhEY3YwUms3WmVVOThBMXpvTk81RDZqOG9NdDRhYWpRV1JfT1FobEEzMVlBMno4S3c4M3lYS0xWZnJTLXdNTWxZYTdfaElmQQ?oc=5",
-      "source": "Handelsblatt",
-      "source_url": "https://www.handelsblatt.com",
-      "published": "2026-11-26T13:51:46+00:00",
-      "score": 64,
-      "category": "KI & Technologie",
-      "score_detail": {
-        "Thema": 30,
-        "Quelle": 14,
-        "Aktualität": 15,
-        "Tragweite (Schlüsselwörter)": 5
-      }
-    },
-    {
-      "title": "EHI-Deep Dive mit Oliver Stratmann (Capgemini): Die KI entscheidet mit",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQWk1SVTU2SndyQmxOOVdnV3I5YTFLNGVzeEh5UFpKVTNsbUxuSEtXbEpfR1ZpOHJYQjh5MW9UZi0wZ3BqZVV6VFNfYnY1Q043NDF3TzFzQzJZZ0NmVUswektRRUxqOHlVczkzYm56LTdOMS1GSWNOdkRqcDJWbnY2ckRfNXJYU1hvQVZjWWVwcEdPdmYtNEpRVVdidFNfWnpsX3hNUThyYlVoY3lOT1dfZXZGb3VfcVVp?oc=5",
-      "source": "stores+shops",
-      "source_url": "https://www.stores-shops.de",
-      "published": "2026-11-26T13:47:32+00:00",
-      "score": 64,
-      "category": "KI & Technologie",
+      "title": "News aus Handel und Konsumgüter-Industrie",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE45Wlp3VklBSE1OWnhWRi1xY2VXY3hlX05sNG5aWDNqQ1ctWl9zTkRyLTNyYTZsZHVicVVSUXotTENqaTMtRkNNVVczWmNOSDJ4djFZMkJsWFg1eFA0WUdxT0EzOHZTb0FnbjNXcmtqOA?oc=5",
+      "source": "Lebensmittel Zeitung",
+      "source_url": "https://www.lebensmittelzeitung.net",
+      "published": "2026-11-27T10:08:41+00:00",
+      "score": 63,
+      "category": "Konsumenten",
       "score_detail": {
         "Thema": 24,
         "Quelle": 20,
-        "Aktualität": 15,
+        "Aktualität": 14,
+        "Tragweite (Schlüsselwörter)": 5
+      }
+    },
+    {
+      "title": "Expansion: So nutzt Aldi in Warschau das Kompakt-Format",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPd1Nfb2JPNTJRZ3Y1czFxaTZnYUJOV2pneE5sX1BRMWFXeXF1bDc0M0cxcG1WZDlmNFVzNVNlRGhzUXJNcl8yLXdSZTNQZU5idkI3ckpDNjRDeDlzT1A4MHlDVFhBOGNRWEUxS0tsa3dtWEJOSjNJSEM3QWZoVWJid3V6V1phUVRjWnA5RnBkb1RSRG5nRFdGa0tFazN4aC0zSC0taDhwUGpQeHg5bDFWTDhlQ3VFOVE?oc=5",
+      "source": "Lebensmittel Zeitung",
+      "source_url": "https://www.lebensmittelzeitung.net",
+      "published": "2026-11-27T10:00:00+00:00",
+      "score": 63,
+      "category": "Handelsstrategie",
+      "score_detail": {
+        "Thema": 24,
+        "Quelle": 20,
+        "Aktualität": 14,
+        "Tragweite (Schlüsselwörter)": 5
+      }
+    },
+    {
+      "title": "Chinesischer Onlinemarktplatz: Temu verspricht mehr Klarheit bei Preisen und Bewertungen",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNT3lmR21MNDM2bmhCMnU4dmMyODZHdXpFa0ptSWJxSVZmSnlPODUwaERVLTRWbHRub1BqRjA0TFVveWNCcTQ0UDgtWmJvcHdfemd1ejZMU3U2cE84U3BSaG1rRm1pZVg1OVVhUDl2LWw4N1JyWHdkLWVIQzlUZmlhYUk0Y1Q3Wnl5V1J2czA2ZnplQjFfa1pGbDVZNzk4S292cW5wOG4tVjg0REFZWU80VV9wYS1WeEhjU3pUVS12d1BaRE8zeUtyaTJLcDg5czNUTjk5SDNPdHNsNzRFaktldXlrNXM1QQ?oc=5",
+      "source": "Lebensmittel Zeitung",
+      "source_url": "https://www.lebensmittelzeitung.net",
+      "published": "2026-11-27T09:08:00+00:00",
+      "score": 63,
+      "category": "E-Commerce",
+      "score_detail": {
+        "Thema": 24,
+        "Quelle": 20,
+        "Aktualität": 14,
         "Tragweite (Schlüsselwörter)": 5
       }
     }
